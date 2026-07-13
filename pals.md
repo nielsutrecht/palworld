@@ -1,5 +1,8 @@
 # Wanted
 
+- Astegon
+- Moldron Cryst
+
 # Pals I own
 
 - [ ] Aegidron

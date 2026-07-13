@@ -136,12 +136,18 @@ PAGE = """<!doctype html>
 
 
 def card(name: str, pal_id: str, owned: list[str]) -> str:
-    """One Pal, linked to its breeding path from the Pals owned."""
+    """One Pal, linked to its breeding path from the Pals owned.
+
+    A Pal you already have is excluded from its own `own` list — otherwise the
+    site answers "0 breeds away, you have it", which is useless when the point
+    is to breed a second one.
+    """
     is_owned = pal_id in set(owned)
+    parents = [i for i in owned if i != pal_id]
     return (
         f'  <li class="{"owned" if is_owned else ""}" '
         f'data-name="{html.escape(name.lower(), quote=True)}">'
-        f'<a href="{html.escape(build_url(pal_id, owned), quote=True)}" '
+        f'<a href="{html.escape(build_url(pal_id, parents), quote=True)}" '
         f'target="_blank" rel="noopener">'
         f"<span>{html.escape(name)}</span>"
         f'{"<span class=tag>owned</span>" if is_owned else ""}'
