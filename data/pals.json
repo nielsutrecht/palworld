@@ -1,1487 +1,4467 @@
-[
-  {
-    "id": "domearmordragon",
-    "name": "Aegidron",
-    "slug": "aegidron"
-  },
-  {
-    "id": "clionetwins",
-    "name": "Amione",
-    "slug": "amione"
-  },
-  {
-    "id": "anubis",
-    "name": "Anubis",
-    "slug": "anubis"
-  },
-  {
-    "id": "flamebuffalo",
-    "name": "Arsox",
-    "slug": "arsox"
-  },
-  {
-    "id": "blackmetaldragon",
-    "name": "Astegon",
-    "slug": "astegon"
-  },
-  {
-    "id": "bluethunderhorse",
-    "name": "Azurmane",
-    "slug": "azurmane"
-  },
-  {
-    "id": "bluedragon",
-    "name": "Azurobe",
-    "slug": "azurobe"
-  },
-  {
-    "id": "bluedragon_ice",
-    "name": "Azurobe Cryst",
-    "slug": "azurobe-cryst"
-  },
-  {
-    "id": "onighostgirl",
-    "name": "Bakemi",
-    "slug": "bakemi"
-  },
-  {
-    "id": "snowtigerbeastman",
-    "name": "Bastigor",
-    "slug": "bastigor"
-  },
-  {
-    "id": "thunderbird",
-    "name": "Beakon",
-    "slug": "beakon"
-  },
-  {
-    "id": "thunderbird_ice",
-    "name": "Beakon Cryst",
-    "slug": "beakon-cryst"
-  },
-  {
-    "id": "soldierbee",
-    "name": "Beegarde",
-    "slug": "beegarde"
-  },
-  {
-    "id": "nightlady",
-    "name": "Bellanoir",
-    "slug": "bellanoir"
-  },
-  {
-    "id": "nightlady_dark",
-    "name": "Bellanoir Libero",
-    "slug": "bellanoir-libero"
-  },
-  {
-    "id": "kingbahamut",
-    "name": "Blazamut",
-    "slug": "blazamut"
-  },
-  {
-    "id": "kingbahamut_dragon",
-    "name": "Blazamut Ryu",
-    "slug": "blazamut-ryu"
-  },
-  {
-    "id": "manticore",
-    "name": "Blazehowl",
-    "slug": "blazehowl"
-  },
-  {
-    "id": "manticore_dark",
-    "name": "Blazehowl Noct",
-    "slug": "blazehowl-noct"
-  },
-  {
-    "id": "yakushimamonster001_blue",
-    "name": "Blue Slime",
-    "slug": "blue-slime"
-  },
-  {
-    "id": "plesiosaur",
-    "name": "Braloha",
-    "slug": "braloha"
-  },
-  {
-    "id": "littlebriarrose",
-    "name": "Bristla",
-    "slug": "bristla"
-  },
-  {
-    "id": "sakurasaurus",
-    "name": "Broncherry",
-    "slug": "broncherry"
-  },
-  {
-    "id": "sakurasaurus_water",
-    "name": "Broncherry Aqua",
-    "slug": "broncherry-aqua"
-  },
-  {
-    "id": "sumodog",
-    "name": "Bulldosu",
-    "slug": "bulldosu"
-  },
-  {
-    "id": "ronin",
-    "name": "Bushi",
-    "slug": "bushi"
-  },
-  {
-    "id": "ronin_dark",
-    "name": "Bushi Noct",
-    "slug": "bushi-noct"
-  },
-  {
-    "id": "berrygoat",
-    "name": "Caprity",
-    "slug": "caprity"
-  },
-  {
-    "id": "berrygoat_dark",
-    "name": "Caprity Noct",
-    "slug": "caprity-noct"
-  },
-  {
-    "id": "venusflytrap",
-    "name": "Carnibora",
-    "slug": "carnibora"
-  },
-  {
-    "id": "pinkcat",
-    "name": "Cattiva",
-    "slug": "cattiva"
-  },
-  {
-    "id": "yakushimamonster003",
-    "name": "Cave Bat",
-    "slug": "cave-bat"
-  },
-  {
-    "id": "darkcrow",
-    "name": "Cawgnito",
-    "slug": "cawgnito"
-  },
-  {
-    "id": "flyingmanta",
-    "name": "Celaray",
-    "slug": "celaray"
-  },
-  {
-    "id": "flyingmanta_thunder",
-    "name": "Celaray Lux",
-    "slug": "celaray-lux"
-  },
-  {
-    "id": "whitedeer",
-    "name": "Celesdir",
-    "slug": "celesdir"
-  },
-  {
-    "id": "whitedeer_dark",
-    "name": "Celesdir Noct",
-    "slug": "celesdir-noct"
-  },
-  {
-    "id": "chickenpal",
-    "name": "Chikipi",
-    "slug": "chikipi"
-  },
-  {
-    "id": "weaseldragon",
-    "name": "Chillet",
-    "slug": "chillet"
-  },
-  {
-    "id": "weaseldragon_fire",
-    "name": "Chillet Ignis",
-    "slug": "chillet-ignis"
-  },
-  {
-    "id": "cutebutterfly",
-    "name": "Cinnamoth",
-    "slug": "cinnamoth"
-  },
-  {
-    "id": "cloverfairy",
-    "name": "Clovee",
-    "slug": "clovee"
-  },
-  {
-    "id": "woolfox",
-    "name": "Cremis",
-    "slug": "cremis"
-  },
-  {
-    "id": "kendofrog",
-    "name": "Croajiro",
-    "slug": "croajiro"
-  },
-  {
-    "id": "kendofrog_dark",
-    "name": "Croajiro Noct",
-    "slug": "croajiro-noct"
-  },
-  {
-    "id": "whitetiger",
-    "name": "Cryolinx",
-    "slug": "cryolinx"
-  },
-  {
-    "id": "whitetiger_ground",
-    "name": "Cryolinx Terra",
-    "slug": "cryolinx-terra"
-  },
-  {
-    "id": "dreamdemon",
-    "name": "Daedream",
-    "slug": "daedream"
-  },
-  {
-    "id": "flowerprince",
-    "name": "Dandilord",
-    "slug": "dandilord"
-  },
-  {
-    "id": "featherostrich",
-    "name": "Dazemu",
-    "slug": "dazemu"
-  },
-  {
-    "id": "raijindaughter",
-    "name": "Dazzi",
-    "slug": "dazzi"
-  },
-  {
-    "id": "raijindaughter_water",
-    "name": "Dazzi Noct",
-    "slug": "dazzi-noct"
-  },
-  {
-    "id": "yakushimaboss001_small",
-    "name": "Demon Eye",
-    "slug": "demon-eye"
-  },
-  {
-    "id": "negativekoala",
-    "name": "Depresso",
-    "slug": "depresso"
-  },
-  {
-    "id": "drillgame",
-    "name": "Digtoise",
-    "slug": "digtoise"
-  },
-  {
-    "id": "flowerdinosaur",
-    "name": "Dinossom",
-    "slug": "dinossom"
-  },
-  {
-    "id": "flowerdinosaur_electric",
-    "name": "Dinossom Lux",
-    "slug": "dinossom-lux"
-  },
-  {
-    "id": "garm",
-    "name": "Direhowl",
-    "slug": "direhowl"
-  },
-  {
-    "id": "sifudog",
-    "name": "Dogen",
-    "slug": "dogen"
-  },
-  {
-    "id": "grassgolem",
-    "name": "Dualith",
-    "slug": "dualith"
-  },
-  {
-    "id": "grassgolem_dark",
-    "name": "Dualith Noct",
-    "slug": "dualith-noct"
-  },
-  {
-    "id": "lazycatfish",
-    "name": "Dumud",
-    "slug": "dumud"
-  },
-  {
-    "id": "lazycatfish_gold",
-    "name": "Dumud Gild",
-    "slug": "dumud-gild"
-  },
-  {
-    "id": "clownrabbit",
-    "name": "Dupin",
-    "slug": "dupin"
-  },
-  {
-    "id": "thunderfluffybird",
-    "name": "Dynamoff",
-    "slug": "dynamoff"
-  },
-  {
-    "id": "ghostdragon",
-    "name": "Eidrolon",
-    "slug": "eidrolon"
-  },
-  {
-    "id": "ghostdragon_fire",
-    "name": "Eidrolon Ignis",
-    "slug": "eidrolon-ignis"
-  },
-  {
-    "id": "deer",
-    "name": "Eikthyrdeer",
-    "slug": "eikthyrdeer"
-  },
-  {
-    "id": "deer_ground",
-    "name": "Eikthyrdeer Terra",
-    "slug": "eikthyrdeer-terra"
-  },
-  {
-    "id": "grassminotaur",
-    "name": "Elgrove",
-    "slug": "elgrove"
-  },
-  {
-    "id": "grassminotaur_ice",
-    "name": "Elgrove Cryst",
-    "slug": "elgrove-cryst"
-  },
-  {
-    "id": "queenbee",
-    "name": "Elizabee",
-    "slug": "elizabee"
-  },
-  {
-    "id": "fairydragon",
-    "name": "Elphidran",
-    "slug": "elphidran"
-  },
-  {
-    "id": "fairydragon_water",
-    "name": "Elphidran Aqua",
-    "slug": "elphidran-aqua"
-  },
-  {
-    "id": "yakushimamonster002",
-    "name": "Enchanted Sword",
-    "slug": "enchanted-sword"
-  },
-  {
-    "id": "yakushimaboss001",
-    "name": "Eye of Cthulhu",
-    "slug": "eye-of-cthulhu"
-  },
-  {
-    "id": "horus",
-    "name": "Faleris",
-    "slug": "faleris"
-  },
-  {
-    "id": "horus_water",
-    "name": "Faleris Aqua",
-    "slug": "faleris-aqua"
-  },
-  {
-    "id": "catvampire",
-    "name": "Felbat",
-    "slug": "felbat"
-  },
-  {
-    "id": "fengyundeeper",
-    "name": "Fenglope",
-    "slug": "fenglope"
-  },
-  {
-    "id": "fengyundeeper_electric",
-    "name": "Fenglope Lux",
-    "slug": "fenglope-lux"
-  },
-  {
-    "id": "stuffedshark",
-    "name": "Finsider",
-    "slug": "finsider"
-  },
-  {
-    "id": "stuffedshark_fire",
-    "name": "Finsider Ignis",
-    "slug": "finsider-ignis"
-  },
-  {
-    "id": "lavagirl",
-    "name": "Flambelle",
-    "slug": "flambelle"
-  },
-  {
-    "id": "foxexorcist",
-    "name": "Flaracle",
-    "slug": "flaracle"
-  },
-  {
-    "id": "flowerrabbit",
-    "name": "Flopie",
-    "slug": "flopie"
-  },
-  {
-    "id": "icefox",
-    "name": "Foxcicle",
-    "slug": "foxcicle"
-  },
-  {
-    "id": "kitsunebi",
-    "name": "Foxparks",
-    "slug": "foxparks"
-  },
-  {
-    "id": "kitsunebi_ice",
-    "name": "Foxparks Cryst",
-    "slug": "foxparks-cryst"
-  },
-  {
-    "id": "icehorse",
-    "name": "Frostallion",
-    "slug": "frostallion"
-  },
-  {
-    "id": "icehorse_dark",
-    "name": "Frostallion Noct",
-    "slug": "frostallion-noct"
-  },
-  {
-    "id": "snowpeafowl",
-    "name": "Frostplume",
-    "slug": "frostplume"
-  },
-  {
-    "id": "blueplatypus",
-    "name": "Fuack",
-    "slug": "fuack"
-  },
-  {
-    "id": "blueplatypus_fire",
-    "name": "Fuack Ignis",
-    "slug": "fuack-ignis"
-  },
-  {
-    "id": "cutemole",
-    "name": "Fuddler",
-    "slug": "fuddler"
-  },
-  {
-    "id": "eagle",
-    "name": "Galeclaw",
-    "slug": "galeclaw"
-  },
-  {
-    "id": "ghostanglerfish",
-    "name": "Ghangler",
-    "slug": "ghangler"
-  },
-  {
-    "id": "ghostanglerfish_fire",
-    "name": "Ghangler Ignis",
-    "slug": "ghangler-ignis"
-  },
-  {
-    "id": "goldenhorse",
-    "name": "Gildane",
-    "slug": "gildane"
-  },
-  {
-    "id": "mummypal",
-    "name": "Gildra",
-    "slug": "gildra"
-  },
-  {
-    "id": "octopusgirl",
-    "name": "Gloopie",
-    "slug": "gloopie"
-  },
-  {
-    "id": "octopusgirl_neutral",
-    "name": "Gloopie Primo",
-    "slug": "gloopie-primo"
-  },
-  {
-    "id": "sharkkid",
-    "name": "Gobfin",
-    "slug": "gobfin"
-  },
-  {
-    "id": "sharkkid_fire",
-    "name": "Gobfin Ignis",
-    "slug": "gobfin-ignis"
-  },
-  {
-    "id": "gorilla",
-    "name": "Gorirat",
-    "slug": "gorirat"
-  },
-  {
-    "id": "gorilla_ground",
-    "name": "Gorirat Terra",
-    "slug": "gorirat-terra"
-  },
-  {
-    "id": "yakushimamonster001",
-    "name": "Green Slime",
-    "slug": "green-slime"
-  },
-  {
-    "id": "naughtycat",
-    "name": "Grintale",
-    "slug": "grintale"
-  },
-  {
-    "id": "elecpanda",
-    "name": "Grizzbolt",
-    "slug": "grizzbolt"
-  },
-  {
-    "id": "plantslime",
-    "name": "Gumoss",
-    "slug": "gumoss"
-  },
-  {
-    "id": "windchimes",
-    "name": "Hangyu",
-    "slug": "hangyu"
-  },
-  {
-    "id": "windchimes_ice",
-    "name": "Hangyu Cryst",
-    "slug": "hangyu-cryst"
-  },
-  {
-    "id": "legenddeer",
-    "name": "Hartalis",
-    "slug": "hartalis"
-  },
-  {
-    "id": "hadesbird",
-    "name": "Helzephyr",
-    "slug": "helzephyr"
-  },
-  {
-    "id": "hadesbird_electric",
-    "name": "Helzephyr Lux",
-    "slug": "helzephyr-lux"
-  },
-  {
-    "id": "leafmomonga",
-    "name": "Herbil",
-    "slug": "herbil"
-  },
-  {
-    "id": "wizardowl",
-    "name": "Hoocrates",
-    "slug": "hoocrates"
-  },
-  {
-    "id": "hoodghost",
-    "name": "Hoodle",
-    "slug": "hoodle"
-  },
-  {
-    "id": "icewitch",
-    "name": "Icelyn",
-    "slug": "icelyn"
-  },
-  {
-    "id": "yakushimamonster003_purple",
-    "name": "Illuminant Bat",
-    "slug": "illuminant-bat"
-  },
-  {
-    "id": "yakushimamonster001_pink",
-    "name": "Illuminant Slime",
-    "slug": "illuminant-slime"
-  },
-  {
-    "id": "baphomet",
-    "name": "Incineram",
-    "slug": "incineram"
-  },
-  {
-    "id": "baphomet_dark",
-    "name": "Incineram Noct",
-    "slug": "incineram-noct"
-  },
-  {
-    "id": "jellyfishfairy",
-    "name": "Jelliette",
-    "slug": "jelliette"
-  },
-  {
-    "id": "jellyfishghost",
-    "name": "Jellroy",
-    "slug": "jellroy"
-  },
-  {
-    "id": "jetdragon",
-    "name": "Jetragon",
-    "slug": "jetragon"
-  },
-  {
-    "id": "hedgehog",
-    "name": "Jolthog",
-    "slug": "jolthog"
-  },
-  {
-    "id": "hedgehog_ice",
-    "name": "Jolthog Cryst",
-    "slug": "jolthog-cryst"
-  },
-  {
-    "id": "umihebi",
-    "name": "Jormuntide",
-    "slug": "jormuntide"
-  },
-  {
-    "id": "umihebi_fire",
-    "name": "Jormuntide Ignis",
-    "slug": "jormuntide-ignis"
-  },
-  {
-    "id": "catmage",
-    "name": "Katress",
-    "slug": "katress"
-  },
-  {
-    "id": "catmage_fire",
-    "name": "Katress Ignis",
-    "slug": "katress-ignis"
-  },
-  {
-    "id": "kelpie",
-    "name": "Kelpsea",
-    "slug": "kelpsea"
-  },
-  {
-    "id": "kelpie_fire",
-    "name": "Kelpsea Ignis",
-    "slug": "kelpsea-ignis"
-  },
-  {
-    "id": "smallarmadillo",
-    "name": "Kikit",
-    "slug": "kikit"
-  },
-  {
-    "id": "negativeoctopus",
-    "name": "Killamari",
-    "slug": "killamari"
-  },
-  {
-    "id": "negativeoctopus_neutral",
-    "name": "Killamari Primo",
-    "slug": "killamari-primo"
-  },
-  {
-    "id": "kingalpaca",
-    "name": "Kingpaca",
-    "slug": "kingpaca"
-  },
-  {
-    "id": "kingalpaca_ice",
-    "name": "Kingpaca Cryst",
-    "slug": "kingpaca-cryst"
-  },
-  {
-    "id": "amaterasuwolf",
-    "name": "Kitsun",
-    "slug": "kitsun"
-  },
-  {
-    "id": "amaterasuwolf_dark",
-    "name": "Kitsun Noct",
-    "slug": "kitsun-noct"
-  },
-  {
-    "id": "winggolem",
-    "name": "Knocklem",
-    "slug": "knocklem"
-  },
-  {
-    "id": "winggolem_fire",
-    "name": "Knocklem Ignis",
-    "slug": "knocklem-ignis"
-  },
-  {
-    "id": "sheepball",
-    "name": "Lamball",
-    "slug": "lamball"
-  },
-  {
-    "id": "brownrabbit",
-    "name": "Lapiron",
-    "slug": "lapiron"
-  },
-  {
-    "id": "sleeverabbit",
-    "name": "Lapure",
-    "slug": "lapure"
-  },
-  {
-    "id": "pandagirl",
-    "name": "Leafan",
-    "slug": "leafan"
-  },
-  {
-    "id": "lizardman",
-    "name": "Leezpunk",
-    "slug": "leezpunk"
-  },
-  {
-    "id": "lizardman_fire",
-    "name": "Leezpunk Ignis",
-    "slug": "leezpunk-ignis"
-  },
-  {
-    "id": "carbunclo",
-    "name": "Lifmunk",
-    "slug": "lifmunk"
-  },
-  {
-    "id": "lanternbutler",
-    "name": "Loomen",
-    "slug": "loomen"
-  },
-  {
-    "id": "werewolf",
-    "name": "Loupmoon",
-    "slug": "loupmoon"
-  },
-  {
-    "id": "werewolf_ice",
-    "name": "Loupmoon Cryst",
-    "slug": "loupmoon-cryst"
-  },
-  {
-    "id": "pinklizard",
-    "name": "Lovander",
-    "slug": "lovander"
-  },
-  {
-    "id": "leafprincess",
-    "name": "Lullu",
-    "slug": "lullu"
-  },
-  {
-    "id": "mutant",
-    "name": "Lunaris",
-    "slug": "lunaris"
-  },
-  {
-    "id": "lilyqueen",
-    "name": "Lyleen",
-    "slug": "lyleen"
-  },
-  {
-    "id": "lilyqueen_dark",
-    "name": "Lyleen Noct",
-    "slug": "lyleen-noct"
-  },
-  {
-    "id": "darkflamefox",
-    "name": "Majex",
-    "slug": "majex"
-  },
-  {
-    "id": "grassmammoth",
-    "name": "Mammorest",
-    "slug": "mammorest"
-  },
-  {
-    "id": "grassmammoth_ice",
-    "name": "Mammorest Cryst",
-    "slug": "mammorest-cryst"
-  },
-  {
-    "id": "ghostbeast",
-    "name": "Maraith",
-    "slug": "maraith"
-  },
-  {
-    "id": "bastet",
-    "name": "Mau",
-    "slug": "mau"
-  },
-  {
-    "id": "bastet_ice",
-    "name": "Mau Cryst",
-    "slug": "mau-cryst"
-  },
-  {
-    "id": "alpaca",
-    "name": "Melpaca",
-    "slug": "melpaca"
-  },
-  {
-    "id": "darkscorpion",
-    "name": "Menasting",
-    "slug": "menasting"
-  },
-  {
-    "id": "darkscorpion_ground",
-    "name": "Menasting Terra",
-    "slug": "menasting-terra"
-  },
-  {
-    "id": "mimicdog",
-    "name": "Mimog",
-    "slug": "mimog"
-  },
-  {
-    "id": "volcanodragon",
-    "name": "Moldron",
-    "slug": "moldron"
-  },
-  {
-    "id": "volcanodragon_ice",
-    "name": "Moldron Cryst",
-    "slug": "moldron-cryst"
-  },
-  {
-    "id": "grasspanda",
-    "name": "Mossanda",
-    "slug": "mossanda"
-  },
-  {
-    "id": "grasspanda_electric",
-    "name": "Mossanda Lux",
-    "slug": "mossanda-lux"
-  },
-  {
-    "id": "cowpal",
-    "name": "Mozzarina",
-    "slug": "mozzarina"
-  },
-  {
-    "id": "fluffybird",
-    "name": "Muffly",
-    "slug": "muffly"
-  },
-  {
-    "id": "icecrocodile",
-    "name": "Munchill",
-    "slug": "munchill"
-  },
-  {
-    "id": "mushroomlady",
-    "name": "Mycora",
-    "slug": "mycora"
-  },
-  {
-    "id": "blackcentaur",
-    "name": "Necromus",
-    "slug": "necromus"
-  },
-  {
-    "id": "cactusdoll",
-    "name": "Needoll",
-    "slug": "needoll"
-  },
-  {
-    "id": "cactusdoll_dark",
-    "name": "Needoll Noct",
-    "slug": "needoll-noct"
-  },
-  {
-    "id": "poseidonorca",
-    "name": "Neptilius",
-    "slug": "neptilius"
-  },
-  {
-    "id": "ghostrabbit",
-    "name": "Nitemary",
-    "slug": "nitemary"
-  },
-  {
-    "id": "ghostrabbit_grass",
-    "name": "Nitemary Botan",
-    "slug": "nitemary-botan"
-  },
-  {
-    "id": "hawkbird",
-    "name": "Nitewing",
-    "slug": "nitewing"
-  },
-  {
-    "id": "nightfox",
-    "name": "Nox",
-    "slug": "nox"
-  },
-  {
-    "id": "badcatgirl",
-    "name": "Nyafia",
-    "slug": "nyafia"
-  },
-  {
-    "id": "mysterymask",
-    "name": "Omascul",
-    "slug": "omascul"
-  },
-  {
-    "id": "lotusdragon",
-    "name": "Ophydia",
-    "slug": "ophydia"
-  },
-  {
-    "id": "thunderdragonman",
-    "name": "Orserk",
-    "slug": "orserk"
-  },
-  {
-    "id": "saintcentaur",
-    "name": "Paladius",
-    "slug": "paladius"
-  },
-  {
-    "id": "tropicalostrich",
-    "name": "Palumba",
-    "slug": "palumba"
-  },
-  {
-    "id": "penguin",
-    "name": "Pengullet",
-    "slug": "pengullet"
-  },
-  {
-    "id": "penguin_electric",
-    "name": "Pengullet Lux",
-    "slug": "pengullet-lux"
-  },
-  {
-    "id": "captainpenguin",
-    "name": "Penking",
-    "slug": "penking"
-  },
-  {
-    "id": "captainpenguin_black",
-    "name": "Penking Lux",
-    "slug": "penking-lux"
-  },
-  {
-    "id": "flowerdoll",
-    "name": "Petallia",
-    "slug": "petallia"
-  },
-  {
-    "id": "flowerdoll_fire",
-    "name": "Petallia Ignis",
-    "slug": "petallia-ignis"
-  },
-  {
-    "id": "rockbeast",
-    "name": "Pierdon",
-    "slug": "pierdon"
-  },
-  {
-    "id": "rockbeast_ice",
-    "name": "Pierdon Cryst",
-    "slug": "pierdon-cryst"
-  },
-  {
-    "id": "iceseal",
-    "name": "Polapup",
-    "slug": "polapup"
-  },
-  {
-    "id": "iceseal_ground",
-    "name": "Polapup Terra",
-    "slug": "polapup-terra"
-  },
-  {
-    "id": "scorpionman",
-    "name": "Prixter",
-    "slug": "prixter"
-  },
-  {
-    "id": "scorpionman_electric",
-    "name": "Prixter Lux",
-    "slug": "prixter-lux"
-  },
-  {
-    "id": "blueberryfairy",
-    "name": "Prunelia",
-    "slug": "prunelia"
-  },
-  {
-    "id": "elecpomeranian",
-    "name": "Puffolt",
-    "slug": "puffolt"
-  },
-  {
-    "id": "samuraidog",
-    "name": "Pupperai",
-    "slug": "pupperai"
-  },
-  {
-    "id": "yakushimamonster001_purple",
-    "name": "Purple Slime",
-    "slug": "purple-slime"
-  },
-  {
-    "id": "firekirin",
-    "name": "Pyrin",
-    "slug": "pyrin"
-  },
-  {
-    "id": "firekirin_dark",
-    "name": "Pyrin Noct",
-    "slug": "pyrin-noct"
-  },
-  {
-    "id": "skydragon",
-    "name": "Quivern",
-    "slug": "quivern"
-  },
-  {
-    "id": "skydragon_grass",
-    "name": "Quivern Botan",
-    "slug": "quivern-botan"
-  },
-  {
-    "id": "redarmorbird",
-    "name": "Ragnahawk",
-    "slug": "ragnahawk"
-  },
-  {
-    "id": "yakushimamonster001_rainbow",
-    "name": "Rainbow Slime",
-    "slug": "rainbow-slime"
-  },
-  {
-    "id": "thunderdog",
-    "name": "Rayhound",
-    "slug": "rayhound"
-  },
-  {
-    "id": "thunderdog_ice",
-    "name": "Rayhound Cryst",
-    "slug": "rayhound-cryst"
-  },
-  {
-    "id": "yakushimamonster001_red",
-    "name": "Red Slime",
-    "slug": "red-slime"
-  },
-  {
-    "id": "icedeer",
-    "name": "Reindrix",
-    "slug": "reindrix"
-  },
-  {
-    "id": "lazydragon",
-    "name": "Relaxaurus",
-    "slug": "relaxaurus"
-  },
-  {
-    "id": "lazydragon_electric",
-    "name": "Relaxaurus Lux",
-    "slug": "relaxaurus-lux"
-  },
-  {
-    "id": "kabukiman",
-    "name": "Renjishi",
-    "slug": "renjishi"
-  },
-  {
-    "id": "volcanicmonster",
-    "name": "Reptyro",
-    "slug": "reptyro"
-  },
-  {
-    "id": "volcanicmonster_ice",
-    "name": "Reptyro Cryst",
-    "slug": "reptyro-cryst"
-  },
-  {
-    "id": "pinkrabbit",
-    "name": "Ribbuny",
-    "slug": "ribbuny"
-  },
-  {
-    "id": "pinkrabbit_grass",
-    "name": "Ribbuny Botan",
-    "slug": "ribbuny-botan"
-  },
-  {
-    "id": "robinhood",
-    "name": "Robinquill",
-    "slug": "robinquill"
-  },
-  {
-    "id": "robinhood_ground",
-    "name": "Robinquill Terra",
-    "slug": "robinquill-terra"
-  },
-  {
-    "id": "flamebambi",
-    "name": "Rooby",
-    "slug": "rooby"
-  },
-  {
-    "id": "thiefbird",
-    "name": "Roujay",
-    "slug": "roujay"
-  },
-  {
-    "id": "boar",
-    "name": "Rushoar",
-    "slug": "rushoar"
-  },
-  {
-    "id": "sekhmet",
-    "name": "Sekhmet",
-    "slug": "sekhmet"
-  },
-  {
-    "id": "moonqueen",
-    "name": "Selyne",
-    "slug": "selyne"
-  },
-  {
-    "id": "blackgriffon",
-    "name": "Shadowbeak",
-    "slug": "shadowbeak"
-  },
-  {
-    "id": "blueskydragon",
-    "name": "Shaolong",
-    "slug": "shaolong"
-  },
-  {
-    "id": "mushroomdragon",
-    "name": "Shroomer",
-    "slug": "shroomer"
-  },
-  {
-    "id": "mushroomdragon_dark",
-    "name": "Shroomer Noct",
-    "slug": "shroomer-noct"
-  },
-  {
-    "id": "whitemoth",
-    "name": "Sibelyx",
-    "slug": "sibelyx"
-  },
-  {
-    "id": "whitemoth_neutral",
-    "name": "Sibelyx Primo",
-    "slug": "sibelyx-primo"
-  },
-  {
-    "id": "mothman",
-    "name": "Silvance",
-    "slug": "silvance"
-  },
-  {
-    "id": "whiteshielddragon",
-    "name": "Silvegis",
-    "slug": "silvegis"
-  },
-  {
-    "id": "swordcutlassfish",
-    "name": "Skutlass",
-    "slug": "skutlass"
-  },
-  {
-    "id": "swordcutlassfish_fire",
-    "name": "Skutlass Ignis",
-    "slug": "skutlass-ignis"
-  },
-  {
-    "id": "eleclizard",
-    "name": "Slowatt",
-    "slug": "slowatt"
-  },
-  {
-    "id": "blackpuppy",
-    "name": "Smokie",
-    "slug": "smokie"
-  },
-  {
-    "id": "blackpuppy_ice",
-    "name": "Smokie Cryst",
-    "slug": "smokie-cryst"
-  },
-  {
-    "id": "elecsnail",
-    "name": "Snock",
-    "slug": "snock"
-  },
-  {
-    "id": "elecsnail_ground",
-    "name": "Snock Lux",
-    "slug": "snock-lux"
-  },
-  {
-    "id": "smallyeti",
-    "name": "Snugloo",
-    "slug": "snugloo"
-  },
-  {
-    "id": "monochromequeen",
-    "name": "Solenne",
-    "slug": "solenne"
-  },
-  {
-    "id": "kingsunfish",
-    "name": "Solmora",
-    "slug": "solmora"
-  },
-  {
-    "id": "kingsunfish_thunder",
-    "name": "Solmora Lux",
-    "slug": "solmora-lux"
-  },
-  {
-    "id": "candleghost",
-    "name": "Sootseer",
-    "slug": "sootseer"
-  },
-  {
-    "id": "dandeliongirl",
-    "name": "Souffline",
-    "slug": "souffline"
-  },
-  {
-    "id": "eleccat",
-    "name": "Sparkit",
-    "slug": "sparkit"
-  },
-  {
-    "id": "grimgirl",
-    "name": "Splatterina",
-    "slug": "splatterina"
-  },
-  {
-    "id": "nightbluehorse",
-    "name": "Starryon",
-    "slug": "starryon"
-  },
-  {
-    "id": "nightbluehorse_neutral",
-    "name": "Starryon Primo",
-    "slug": "starryon-primo"
-  },
-  {
-    "id": "serpent",
-    "name": "Surfent",
-    "slug": "surfent"
-  },
-  {
-    "id": "serpent_ground",
-    "name": "Surfent Terra",
-    "slug": "surfent-terra"
-  },
-  {
-    "id": "suzaku",
-    "name": "Suzaku",
-    "slug": "suzaku"
-  },
-  {
-    "id": "suzaku_water",
-    "name": "Suzaku Aqua",
-    "slug": "suzaku-aqua"
-  },
-  {
-    "id": "mopbaby",
-    "name": "Swee",
-    "slug": "swee"
-  },
-  {
-    "id": "mopking",
-    "name": "Sweepa",
-    "slug": "sweepa"
-  },
-  {
-    "id": "monkey",
-    "name": "Tanzee",
-    "slug": "tanzee"
-  },
-  {
-    "id": "monkey_fire",
-    "name": "Tanzee Ignis",
-    "slug": "tanzee-ignis"
-  },
-  {
-    "id": "purplespider",
-    "name": "Tarantriss",
-    "slug": "tarantriss"
-  },
-  {
-    "id": "ganesha",
-    "name": "Teafant",
-    "slug": "teafant"
-  },
-  {
-    "id": "cubeturtle",
-    "name": "Tetroise ",
-    "slug": "tetroise"
-  },
-  {
-    "id": "cubeturtle_neutral",
-    "name": "Tetroise Primo",
-    "slug": "tetroise-primo"
-  },
-  {
-    "id": "colorfulbird",
-    "name": "Tocotoco",
-    "slug": "tocotoco"
-  },
-  {
-    "id": "catbat",
-    "name": "Tombat",
-    "slug": "tombat"
-  },
-  {
-    "id": "redflowerbird",
-    "name": "Tropicaw",
-    "slug": "tropicaw"
-  },
-  {
-    "id": "tentacleturtle",
-    "name": "Turtacle",
-    "slug": "turtacle"
-  },
-  {
-    "id": "tentacleturtle_ground",
-    "name": "Turtacle Terra",
-    "slug": "turtacle-terra"
-  },
-  {
-    "id": "kirin",
-    "name": "Univolt",
-    "slug": "univolt"
-  },
-  {
-    "id": "kirin_ice",
-    "name": "Univolt Cryst",
-    "slug": "univolt-cryst"
-  },
-  {
-    "id": "violetfairy",
-    "name": "Vaelet",
-    "slug": "vaelet"
-  },
-  {
-    "id": "longcat",
-    "name": "Valentail",
-    "slug": "valentail"
-  },
-  {
-    "id": "birddragon",
-    "name": "Vanwyrm",
-    "slug": "vanwyrm"
-  },
-  {
-    "id": "birddragon_ice",
-    "name": "Vanwyrm Cryst",
-    "slug": "vanwyrm-cryst"
-  },
-  {
-    "id": "snakegirl",
-    "name": "Venusa",
-    "slug": "venusa"
-  },
-  {
-    "id": "grassrabbitman",
-    "name": "Verdash",
-    "slug": "verdash"
-  },
-  {
-    "id": "cutefox",
-    "name": "Vixy",
-    "slug": "vixy"
-  },
-  {
-    "id": "herculesbeetle",
-    "name": "Warsect",
-    "slug": "warsect"
-  },
-  {
-    "id": "herculesbeetle_ground",
-    "name": "Warsect Terra",
-    "slug": "warsect-terra"
-  },
-  {
-    "id": "icenarwhal",
-    "name": "Whalaska",
-    "slug": "whalaska"
-  },
-  {
-    "id": "icenarwhal_fire",
-    "name": "Whalaska Ignis",
-    "slug": "whalaska-ignis"
-  },
-  {
-    "id": "ghostblackcat",
-    "name": "Wispaw",
-    "slug": "wispaw"
-  },
-  {
-    "id": "moonchild",
-    "name": "Wistella",
-    "slug": "wistella"
-  },
-  {
-    "id": "foxmage",
-    "name": "Wixen",
-    "slug": "wixen"
-  },
-  {
-    "id": "foxmage_dark",
-    "name": "Wixen Noct",
-    "slug": "wixen-noct"
-  },
-  {
-    "id": "sweetssheep",
-    "name": "Woolipop",
-    "slug": "woolipop"
-  },
-  {
-    "id": "sweetssheep_ground",
-    "name": "Woolipop Terra",
-    "slug": "woolipop-terra"
-  },
-  {
-    "id": "yeti",
-    "name": "Wumpo",
-    "slug": "wumpo"
-  },
-  {
-    "id": "yeti_grass",
-    "name": "Wumpo Botan",
-    "slug": "wumpo-botan"
-  },
-  {
-    "id": "whitealiendragon",
-    "name": "Xenogard",
-    "slug": "xenogard"
-  },
-  {
-    "id": "darkmechadragon",
-    "name": "Xenolord",
-    "slug": "xenolord"
-  },
-  {
-    "id": "darkalien",
-    "name": "Xenovader",
-    "slug": "xenovader"
-  },
-  {
-    "id": "guardiandog",
-    "name": "Yakumo",
-    "slug": "yakumo"
-  }
-]
+{
+  "elements": {
+    "Ice": {
+      "icon": "T_Icon_element_s_08",
+      "color": "#8fe3ff"
+    },
+    "Dark": {
+      "icon": "T_Icon_element_s_05",
+      "color": "#b07ae0"
+    },
+    "Dragon": {
+      "icon": "T_Icon_element_s_06",
+      "color": "#7a8cff"
+    },
+    "Earth": {
+      "icon": "T_Icon_element_s_07",
+      "color": "#c9a06a"
+    },
+    "Leaf": {
+      "icon": "T_Icon_element_s_04",
+      "color": "#7ed957"
+    },
+    "Electricity": {
+      "icon": "T_Icon_element_s_03",
+      "color": "#ffd95e"
+    },
+    "Water": {
+      "icon": "T_Icon_element_s_02",
+      "color": "#4db3ff"
+    },
+    "Fire": {
+      "icon": "T_Icon_element_s_01",
+      "color": "#ff8853"
+    },
+    "Normal": {
+      "icon": "T_Icon_element_s_00",
+      "color": "#cfd8dd"
+    }
+  },
+  "work": {
+    "Collection": "T_icon_palwork_05",
+    "Cool": "T_icon_palwork_10",
+    "Deforest": "T_icon_palwork_06",
+    "EmitFlame": "T_icon_palwork_00",
+    "GenerateElectricity": "T_icon_palwork_03",
+    "Handcraft": "T_icon_palwork_04",
+    "Mining": "T_icon_palwork_07",
+    "MonsterFarm": "T_icon_palwork_12",
+    "OilExtraction": "T_icon_palwork_09",
+    "ProductMedicine": "T_icon_palwork_08",
+    "Seeding": "T_icon_palwork_02",
+    "Transport": "T_icon_palwork_11",
+    "Watering": "T_icon_palwork_01"
+  },
+  "pals": [
+    {
+      "id": "domearmordragon",
+      "name": "Aegidron",
+      "slug": "aegidron",
+      "index": 184,
+      "icon": "T_DomeArmorDragon_icon_normal",
+      "elements": [
+        "Dragon",
+        "Earth"
+      ],
+      "work": {
+        "Mining": 8
+      }
+    },
+    {
+      "id": "clionetwins",
+      "name": "Amione",
+      "slug": "amione",
+      "index": 47,
+      "icon": "T_ClioneTwins_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 1,
+        "Handcraft": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "anubis",
+      "name": "Anubis",
+      "slug": "anubis",
+      "index": 139,
+      "icon": "T_Anubis_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 6,
+        "Mining": 6,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "flamebuffalo",
+      "name": "Arsox",
+      "slug": "arsox",
+      "index": 58,
+      "icon": "T_FlameBuffalo_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 3,
+        "Deforest": 2
+      }
+    },
+    {
+      "id": "blackmetaldragon",
+      "name": "Astegon",
+      "slug": "astegon",
+      "index": 158,
+      "icon": "T_BlackMetalDragon_icon_normal",
+      "elements": [
+        "Dragon",
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Mining": 7
+      }
+    },
+    {
+      "id": "bluethunderhorse",
+      "name": "Azurmane",
+      "slug": "azurmane",
+      "index": 161,
+      "icon": "T_BlueThunderHorse_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 5
+      }
+    },
+    {
+      "id": "bluedragon",
+      "name": "Azurobe",
+      "slug": "azurobe",
+      "index": 41,
+      "icon": "T_BlueDragon_icon_normal",
+      "elements": [
+        "Water",
+        "Dragon"
+      ],
+      "work": {
+        "Watering": 4
+      }
+    },
+    {
+      "id": "bluedragon_ice",
+      "name": "Azurobe Cryst",
+      "slug": "azurobe-cryst",
+      "index": 41,
+      "icon": "T_BlueDragon_Ice_icon_normal",
+      "elements": [
+        "Ice",
+        "Dragon"
+      ],
+      "work": {
+        "Cool": 4
+      }
+    },
+    {
+      "id": "onighostgirl",
+      "name": "Bakemi",
+      "slug": "bakemi",
+      "index": 168,
+      "icon": "T_OniGhostGirl_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "ProductMedicine": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "snowtigerbeastman",
+      "name": "Bastigor",
+      "slug": "bastigor",
+      "index": 191,
+      "icon": "T_SnowTigerBeastman_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Deforest": 6,
+        "Mining": 5,
+        "Cool": 8
+      }
+    },
+    {
+      "id": "thunderbird",
+      "name": "Beakon",
+      "slug": "beakon",
+      "index": 96,
+      "icon": "T_ThunderBird_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 4,
+        "Collection": 2,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "thunderbird_ice",
+      "name": "Beakon Cryst",
+      "slug": "beakon-cryst",
+      "index": 96,
+      "icon": "T_ThunderBird_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Collection": 2,
+        "Cool": 5,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "soldierbee",
+      "name": "Beegarde",
+      "slug": "beegarde",
+      "index": 67,
+      "icon": "T_SoldierBee_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 2,
+        "Handcraft": 2,
+        "Collection": 3,
+        "Deforest": 2,
+        "ProductMedicine": 2,
+        "Transport": 2,
+        "MonsterFarm": 3
+      }
+    },
+    {
+      "id": "nightlady",
+      "name": "Bellanoir",
+      "slug": "bellanoir",
+      "index": 195,
+      "icon": "T_NightLady_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 5,
+        "ProductMedicine": 5,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "nightlady_dark",
+      "name": "Bellanoir Libero",
+      "slug": "bellanoir-libero",
+      "index": 195,
+      "icon": "T_NightLady_Dark_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 6,
+        "ProductMedicine": 7,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "kingbahamut",
+      "name": "Blazamut",
+      "slug": "blazamut",
+      "index": 137,
+      "icon": "T_KingBahamut_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 6,
+        "Mining": 7
+      }
+    },
+    {
+      "id": "kingbahamut_dragon",
+      "name": "Blazamut Ryu",
+      "slug": "blazamut-ryu",
+      "index": 137,
+      "icon": "T_KingBahamut_Dragon_icon_normal",
+      "elements": [
+        "Dragon",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 6,
+        "Mining": 7
+      }
+    },
+    {
+      "id": "manticore",
+      "name": "Blazehowl",
+      "slug": "blazehowl",
+      "index": 112,
+      "icon": "T_Manticore_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 5,
+        "Deforest": 3
+      }
+    },
+    {
+      "id": "manticore_dark",
+      "name": "Blazehowl Noct",
+      "slug": "blazehowl-noct",
+      "index": 112,
+      "icon": "T_Manticore_Dark_icon_normal",
+      "elements": [
+        "Fire",
+        "Dark"
+      ],
+      "work": {
+        "EmitFlame": 5,
+        "Deforest": 3
+      }
+    },
+    {
+      "id": "yakushimamonster001_blue",
+      "name": "Blue Slime",
+      "slug": "blue-slime",
+      "index": -1,
+      "icon": "T_YakushimaMonster001_Blue_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Transport": 1
+      }
+    },
+    {
+      "id": "plesiosaur",
+      "name": "Braloha",
+      "slug": "braloha",
+      "index": 110,
+      "icon": "T_Plesiosaur_icon_normal",
+      "elements": [
+        "Leaf",
+        "Earth"
+      ],
+      "work": {
+        "Seeding": 5,
+        "Collection": 5,
+        "Mining": 3
+      }
+    },
+    {
+      "id": "littlebriarrose",
+      "name": "Bristla",
+      "slug": "bristla",
+      "index": 60,
+      "icon": "T_LittleBriarRose_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 2,
+        "Handcraft": 2,
+        "Collection": 2,
+        "ProductMedicine": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "sakurasaurus",
+      "name": "Broncherry",
+      "slug": "broncherry",
+      "index": 108,
+      "icon": "T_SakuraSaurus_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 5
+      }
+    },
+    {
+      "id": "sakurasaurus_water",
+      "name": "Broncherry Aqua",
+      "slug": "broncherry-aqua",
+      "index": 108,
+      "icon": "T_SakuraSaurus_Water_icon_normal",
+      "elements": [
+        "Leaf",
+        "Water"
+      ],
+      "work": {
+        "Watering": 5
+      }
+    },
+    {
+      "id": "sumodog",
+      "name": "Bulldosu",
+      "slug": "bulldosu",
+      "index": 156,
+      "icon": "T_SumoDog_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Mining": 4,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "ronin",
+      "name": "Bushi",
+      "slug": "bushi",
+      "index": 85,
+      "icon": "T_Ronin_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 2,
+        "Handcraft": 2,
+        "Collection": 1,
+        "Deforest": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "ronin_dark",
+      "name": "Bushi Noct",
+      "slug": "bushi-noct",
+      "index": 85,
+      "icon": "T_Ronin_Dark_icon_normal",
+      "elements": [
+        "Fire",
+        "Dark"
+      ],
+      "work": {
+        "EmitFlame": 2,
+        "Handcraft": 2,
+        "Collection": 1,
+        "Deforest": 5,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "berrygoat",
+      "name": "Caprity",
+      "slug": "caprity",
+      "index": 34,
+      "icon": "T_BerryGoat_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 2,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "berrygoat_dark",
+      "name": "Caprity Noct",
+      "slug": "caprity-noct",
+      "index": 34,
+      "icon": "T_BerryGoat_Dark_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Seeding": 2,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "venusflytrap",
+      "name": "Carnibora",
+      "slug": "carnibora",
+      "index": 136,
+      "icon": "T_VenusFlytrap_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 6,
+        "Handcraft": 4,
+        "Collection": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "pinkcat",
+      "name": "Cattiva",
+      "slug": "cattiva",
+      "index": 2,
+      "icon": "T_PinkCat_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 1,
+        "Collection": 1,
+        "Mining": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "yakushimamonster003",
+      "name": "Cave Bat",
+      "slug": "cave-bat",
+      "index": -1,
+      "icon": "T_YakushimaMonster003_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 1
+      }
+    },
+    {
+      "id": "darkcrow",
+      "name": "Cawgnito",
+      "slug": "cawgnito",
+      "index": 57,
+      "icon": "T_DarkCrow_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Deforest": 2,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "flyingmanta",
+      "name": "Celaray",
+      "slug": "celaray",
+      "index": 7,
+      "icon": "T_FlyingManta_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "flyingmanta_thunder",
+      "name": "Celaray Lux",
+      "slug": "celaray-lux",
+      "index": 7,
+      "icon": "T_FlyingManta_Thunder_icon_normal",
+      "elements": [
+        "Water",
+        "Electricity"
+      ],
+      "work": {
+        "Watering": 1,
+        "GenerateElectricity": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "whitedeer",
+      "name": "Celesdir",
+      "slug": "celesdir",
+      "index": 157,
+      "icon": "T_WhiteDeer_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 4,
+        "Deforest": 7
+      }
+    },
+    {
+      "id": "whitedeer_dark",
+      "name": "Celesdir Noct",
+      "slug": "celesdir-noct",
+      "index": 157,
+      "icon": "T_WhiteDeer_Dark_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 4,
+        "Deforest": 8
+      }
+    },
+    {
+      "id": "chickenpal",
+      "name": "Chikipi",
+      "slug": "chikipi",
+      "index": 3,
+      "icon": "T_ChickenPal_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "weaseldragon",
+      "name": "Chillet",
+      "slug": "chillet",
+      "index": 103,
+      "icon": "T_WeaselDragon_icon_normal",
+      "elements": [
+        "Ice",
+        "Dragon"
+      ],
+      "work": {
+        "Collection": 1,
+        "Cool": 2
+      }
+    },
+    {
+      "id": "weaseldragon_fire",
+      "name": "Chillet Ignis",
+      "slug": "chillet-ignis",
+      "index": 103,
+      "icon": "T_WeaselDragon_Fire_icon_normal",
+      "elements": [
+        "Fire",
+        "Dragon"
+      ],
+      "work": {
+        "EmitFlame": 4,
+        "Collection": 3
+      }
+    },
+    {
+      "id": "cutebutterfly",
+      "name": "Cinnamoth",
+      "slug": "cinnamoth",
+      "index": 61,
+      "icon": "T_CuteButterfly_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 2,
+        "Collection": 2,
+        "ProductMedicine": 2
+      }
+    },
+    {
+      "id": "cloverfairy",
+      "name": "Clovee",
+      "slug": "clovee",
+      "index": 14,
+      "icon": "T_CloverFairy_icon_normal",
+      "elements": [
+        "Leaf",
+        "Normal"
+      ],
+      "work": {
+        "Seeding": 1,
+        "Collection": 1
+      }
+    },
+    {
+      "id": "woolfox",
+      "name": "Cremis",
+      "slug": "cremis",
+      "index": 8,
+      "icon": "T_WoolFox_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 1,
+        "MonsterFarm": 2
+      }
+    },
+    {
+      "id": "kendofrog",
+      "name": "Croajiro",
+      "slug": "croajiro",
+      "index": 9,
+      "icon": "T_KendoFrog_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 1,
+        "Handcraft": 1,
+        "Collection": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "kendofrog_dark",
+      "name": "Croajiro Noct",
+      "slug": "croajiro-noct",
+      "index": 9,
+      "icon": "T_KendoFrog_Dark_icon_normal",
+      "elements": [
+        "Water",
+        "Dark"
+      ],
+      "work": {
+        "Watering": 1,
+        "Handcraft": 2,
+        "Collection": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "whitetiger",
+      "name": "Cryolinx",
+      "slug": "cryolinx",
+      "index": 132,
+      "icon": "T_WhiteTiger_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Deforest": 4,
+        "Cool": 4,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "whitetiger_ground",
+      "name": "Cryolinx Terra",
+      "slug": "cryolinx-terra",
+      "index": 132,
+      "icon": "T_WhiteTiger_Ground_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 2,
+        "Deforest": 6,
+        "Mining": 5,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "dreamdemon",
+      "name": "Daedream",
+      "slug": "daedream",
+      "index": 22,
+      "icon": "T_DreamDemon_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 1,
+        "Collection": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "flowerprince",
+      "name": "Dandilord",
+      "slug": "dandilord",
+      "index": 194,
+      "icon": "T_FlowerPrince_icon_normal",
+      "elements": [
+        "Leaf",
+        "Dark"
+      ],
+      "work": {
+        "Seeding": 8,
+        "Handcraft": 6,
+        "Collection": 5,
+        "ProductMedicine": 6,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "featherostrich",
+      "name": "Dazemu",
+      "slug": "dazemu",
+      "index": 123,
+      "icon": "T_FeatherOstrich_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    },
+    {
+      "id": "raijindaughter",
+      "name": "Dazzi",
+      "slug": "dazzi",
+      "index": 92,
+      "icon": "T_RaijinDaughter_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 3,
+        "Handcraft": 2,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "raijindaughter_water",
+      "name": "Dazzi Noct",
+      "slug": "dazzi-noct",
+      "index": 92,
+      "icon": "T_RaijinDaughter_Water_icon_normal",
+      "elements": [
+        "Dark",
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 1,
+        "Handcraft": 1,
+        "ProductMedicine": 1,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "yakushimaboss001_small",
+      "name": "Demon Eye",
+      "slug": "demon-eye",
+      "index": -1,
+      "icon": "T_YakushimaBoss001_Small_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Transport": 1
+      }
+    },
+    {
+      "id": "negativekoala",
+      "name": "Depresso",
+      "slug": "depresso",
+      "index": 16,
+      "icon": "T_NegativeKoala_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 1,
+        "Mining": 1,
+        "Transport": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "drillgame",
+      "name": "Digtoise",
+      "slug": "digtoise",
+      "index": 107,
+      "icon": "T_DrillGame_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Mining": 4
+      }
+    },
+    {
+      "id": "flowerdinosaur",
+      "name": "Dinossom",
+      "slug": "dinossom",
+      "index": 84,
+      "icon": "T_FlowerDinosaur_icon_normal",
+      "elements": [
+        "Leaf",
+        "Dragon"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Deforest": 3
+      }
+    },
+    {
+      "id": "flowerdinosaur_electric",
+      "name": "Dinossom Lux",
+      "slug": "dinossom-lux",
+      "index": 84,
+      "icon": "T_FlowerDinosaur_Electric_icon_normal",
+      "elements": [
+        "Electricity",
+        "Dragon"
+      ],
+      "work": {
+        "GenerateElectricity": 3,
+        "Deforest": 4
+      }
+    },
+    {
+      "id": "garm",
+      "name": "Direhowl",
+      "slug": "direhowl",
+      "index": 33,
+      "icon": "T_Garm_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 1
+      }
+    },
+    {
+      "id": "sifudog",
+      "name": "Dogen",
+      "slug": "dogen",
+      "index": 155,
+      "icon": "T_SifuDog_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 4,
+        "Collection": 3,
+        "Deforest": 3,
+        "ProductMedicine": 2,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "grassgolem",
+      "name": "Dualith",
+      "slug": "dualith",
+      "index": 138,
+      "icon": "T_GrassGolem_icon_normal",
+      "elements": [
+        "Earth",
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Collection": 3,
+        "Deforest": 5,
+        "Mining": 6,
+        "Transport": 6
+      }
+    },
+    {
+      "id": "grassgolem_dark",
+      "name": "Dualith Noct",
+      "slug": "dualith-noct",
+      "index": 138,
+      "icon": "T_GrassGolem_Dark_icon_normal",
+      "elements": [
+        "Earth",
+        "Dark"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Collection": 3,
+        "Deforest": 5,
+        "Mining": 6,
+        "Transport": 6
+      }
+    },
+    {
+      "id": "lazycatfish",
+      "name": "Dumud",
+      "slug": "dumud",
+      "index": 109,
+      "icon": "T_LazyCatfish_icon_normal",
+      "elements": [
+        "Earth",
+        "Water"
+      ],
+      "work": {
+        "Watering": 2,
+        "Mining": 2,
+        "Transport": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "lazycatfish_gold",
+      "name": "Dumud Gild",
+      "slug": "dumud-gild",
+      "index": 109,
+      "icon": "T_LazyCatfish_Gold_icon_normal",
+      "elements": [
+        "Earth",
+        "Water"
+      ],
+      "work": {
+        "Watering": 2,
+        "Mining": 2,
+        "Transport": 1,
+        "MonsterFarm": 4
+      }
+    },
+    {
+      "id": "clownrabbit",
+      "name": "Dupin",
+      "slug": "dupin",
+      "index": 176,
+      "icon": "T_ClownRabbit_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 7,
+        "Handcraft": 5,
+        "ProductMedicine": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "thunderfluffybird",
+      "name": "Dynamoff",
+      "slug": "dynamoff",
+      "index": 172,
+      "icon": "T_ThunderFluffyBird_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 6,
+        "Collection": 3,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "ghostdragon",
+      "name": "Eidrolon",
+      "slug": "eidrolon",
+      "index": 171,
+      "icon": "T_GhostDragon_icon_normal",
+      "elements": [
+        "Dragon",
+        "Dark"
+      ],
+      "work": {
+        "Transport": 6
+      }
+    },
+    {
+      "id": "ghostdragon_fire",
+      "name": "Eidrolon Ignis",
+      "slug": "eidrolon-ignis",
+      "index": 171,
+      "icon": "T_GhostDragon_Fire_icon_normal",
+      "elements": [
+        "Dragon",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 6,
+        "Transport": 6
+      }
+    },
+    {
+      "id": "deer",
+      "name": "Eikthyrdeer",
+      "slug": "eikthyrdeer",
+      "index": 32,
+      "icon": "T_Deer_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Deforest": 2
+      }
+    },
+    {
+      "id": "deer_ground",
+      "name": "Eikthyrdeer Terra",
+      "slug": "eikthyrdeer-terra",
+      "index": 32,
+      "icon": "T_Deer_Ground_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Deforest": 2
+      }
+    },
+    {
+      "id": "grassminotaur",
+      "name": "Elgrove",
+      "slug": "elgrove",
+      "index": 81,
+      "icon": "T_GrassMinotaur_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Collection": 2,
+        "Deforest": 3,
+        "Mining": 2,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "grassminotaur_ice",
+      "name": "Elgrove Cryst",
+      "slug": "elgrove-cryst",
+      "index": 81,
+      "icon": "T_GrassMinotaur_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Deforest": 3,
+        "Mining": 3,
+        "Cool": 5,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "queenbee",
+      "name": "Elizabee",
+      "slug": "elizabee",
+      "index": 68,
+      "icon": "T_QueenBee_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 4,
+        "Handcraft": 4,
+        "Collection": 4,
+        "Deforest": 3,
+        "ProductMedicine": 4
+      }
+    },
+    {
+      "id": "fairydragon",
+      "name": "Elphidran",
+      "slug": "elphidran",
+      "index": 63,
+      "icon": "T_FairyDragon_icon_normal",
+      "elements": [
+        "Dragon"
+      ],
+      "work": {
+        "Deforest": 3
+      }
+    },
+    {
+      "id": "fairydragon_water",
+      "name": "Elphidran Aqua",
+      "slug": "elphidran-aqua",
+      "index": 63,
+      "icon": "T_FairyDragon_Water_icon_normal",
+      "elements": [
+        "Dragon",
+        "Water"
+      ],
+      "work": {
+        "Watering": 4,
+        "Deforest": 3
+      }
+    },
+    {
+      "id": "yakushimamonster002",
+      "name": "Enchanted Sword",
+      "slug": "enchanted-sword",
+      "index": -1,
+      "icon": "T_YakushimaMonster002_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Deforest": 1
+      }
+    },
+    {
+      "id": "yakushimaboss001",
+      "name": "Eye of Cthulhu",
+      "slug": "eye-of-cthulhu",
+      "index": -1,
+      "icon": "T_YakushimaBoss001_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Transport": 4
+      }
+    },
+    {
+      "id": "horus",
+      "name": "Faleris",
+      "slug": "faleris",
+      "index": 188,
+      "icon": "T_Horus_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 6,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "horus_water",
+      "name": "Faleris Aqua",
+      "slug": "faleris-aqua",
+      "index": 188,
+      "icon": "T_Horus_Water_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 6,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "catvampire",
+      "name": "Felbat",
+      "slug": "felbat",
+      "index": 65,
+      "icon": "T_CatVampire_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "ProductMedicine": 3
+      }
+    },
+    {
+      "id": "fengyundeeper",
+      "name": "Fenglope",
+      "slug": "fenglope",
+      "index": 83,
+      "icon": "T_FengyunDeeper_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Deforest": 3
+      }
+    },
+    {
+      "id": "fengyundeeper_electric",
+      "name": "Fenglope Lux",
+      "slug": "fenglope-lux",
+      "index": 83,
+      "icon": "T_FengyunDeeper_Electric_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 5,
+        "Deforest": 4
+      }
+    },
+    {
+      "id": "stuffedshark",
+      "name": "Finsider",
+      "slug": "finsider",
+      "index": 88,
+      "icon": "T_StuffedShark_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "stuffedshark_fire",
+      "name": "Finsider Ignis",
+      "slug": "finsider-ignis",
+      "index": 88,
+      "icon": "T_StuffedShark_Fire_icon_normal",
+      "elements": [
+        "Water",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 2,
+        "Watering": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "lavagirl",
+      "name": "Flambelle",
+      "slug": "flambelle",
+      "index": 25,
+      "icon": "T_LavaGirl_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 1,
+        "Handcraft": 1,
+        "Transport": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "foxexorcist",
+      "name": "Flaracle",
+      "slug": "flaracle",
+      "index": 174,
+      "icon": "T_FoxExorcist_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 7,
+        "Handcraft": 6,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "flowerrabbit",
+      "name": "Flopie",
+      "slug": "flopie",
+      "index": 77,
+      "icon": "T_FlowerRabbit_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 2,
+        "Handcraft": 2,
+        "Collection": 2,
+        "ProductMedicine": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "icefox",
+      "name": "Foxcicle",
+      "slug": "foxcicle",
+      "index": 95,
+      "icon": "T_IceFox_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Cool": 4,
+        "MonsterFarm": 3
+      }
+    },
+    {
+      "id": "kitsunebi",
+      "name": "Foxparks",
+      "slug": "foxparks",
+      "index": 29,
+      "icon": "T_Kitsunebi_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 1
+      }
+    },
+    {
+      "id": "kitsunebi_ice",
+      "name": "Foxparks Cryst",
+      "slug": "foxparks-cryst",
+      "index": 29,
+      "icon": "T_Kitsunebi_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Cool": 2
+      }
+    },
+    {
+      "id": "icehorse",
+      "name": "Frostallion",
+      "slug": "frostallion",
+      "index": 200,
+      "icon": "T_IceHorse_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Cool": 7
+      }
+    },
+    {
+      "id": "icehorse_dark",
+      "name": "Frostallion Noct",
+      "slug": "frostallion-noct",
+      "index": 200,
+      "icon": "T_IceHorse_Dark_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 7
+      }
+    },
+    {
+      "id": "snowpeafowl",
+      "name": "Frostplume",
+      "slug": "frostplume",
+      "index": 114,
+      "icon": "T_SnowPeafowl_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Collection": 2,
+        "Cool": 4
+      }
+    },
+    {
+      "id": "blueplatypus",
+      "name": "Fuack",
+      "slug": "fuack",
+      "index": 5,
+      "icon": "T_BluePlatypus_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 1,
+        "Handcraft": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "blueplatypus_fire",
+      "name": "Fuack Ignis",
+      "slug": "fuack-ignis",
+      "index": 5,
+      "icon": "T_BluePlatypus_Fire_icon_normal",
+      "elements": [
+        "Water",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 2,
+        "Watering": 2,
+        "Handcraft": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "cutemole",
+      "name": "Fuddler",
+      "slug": "fuddler",
+      "index": 31,
+      "icon": "T_CuteMole_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 1,
+        "Mining": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "eagle",
+      "name": "Galeclaw",
+      "slug": "galeclaw",
+      "index": 49,
+      "icon": "T_Eagle_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    },
+    {
+      "id": "ghostanglerfish",
+      "name": "Ghangler",
+      "slug": "ghangler",
+      "index": 97,
+      "icon": "T_GhostAnglerfish_icon_normal",
+      "elements": [
+        "Dark",
+        "Water"
+      ],
+      "work": {
+        "Watering": 5,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "ghostanglerfish_fire",
+      "name": "Ghangler Ignis",
+      "slug": "ghangler-ignis",
+      "index": 97,
+      "icon": "T_GhostAnglerfish_Fire_icon_normal",
+      "elements": [
+        "Fire",
+        "Water"
+      ],
+      "work": {
+        "EmitFlame": 5,
+        "Watering": 5,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "goldenhorse",
+      "name": "Gildane",
+      "slug": "gildane",
+      "index": 154,
+      "icon": "T_GoldenHorse_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Collection": 5
+      }
+    },
+    {
+      "id": "mummypal",
+      "name": "Gildra",
+      "slug": "gildra",
+      "index": 120,
+      "icon": "T_MummyPal_icon_normal",
+      "elements": [
+        "Dark",
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 5,
+        "ProductMedicine": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "octopusgirl",
+      "name": "Gloopie",
+      "slug": "gloopie",
+      "index": 48,
+      "icon": "T_OctopusGirl_icon_normal",
+      "elements": [
+        "Water",
+        "Dark"
+      ],
+      "work": {
+        "Watering": 2,
+        "Handcraft": 2,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "octopusgirl_neutral",
+      "name": "Gloopie Primo",
+      "slug": "gloopie-primo",
+      "index": 48,
+      "icon": "T_OctopusGirl_Neutral_icon_normal",
+      "elements": [
+        "Water",
+        "Normal"
+      ],
+      "work": {
+        "Watering": 2,
+        "Handcraft": 2,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "sharkkid",
+      "name": "Gobfin",
+      "slug": "gobfin",
+      "index": 55,
+      "icon": "T_SharkKid_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 2,
+        "Handcraft": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "sharkkid_fire",
+      "name": "Gobfin Ignis",
+      "slug": "gobfin-ignis",
+      "index": 55,
+      "icon": "T_SharkKid_Fire_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 2,
+        "Handcraft": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "gorilla",
+      "name": "Gorirat",
+      "slug": "gorirat",
+      "index": 74,
+      "icon": "T_Gorilla_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 2,
+        "Deforest": 3,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "gorilla_ground",
+      "name": "Gorirat Terra",
+      "slug": "gorirat-terra",
+      "index": 74,
+      "icon": "T_Gorilla_Ground_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 2,
+        "Mining": 3,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "yakushimamonster001",
+      "name": "Green Slime",
+      "slug": "green-slime",
+      "index": -1,
+      "icon": "T_YakushimaMonster001_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Transport": 1
+      }
+    },
+    {
+      "id": "naughtycat",
+      "name": "Grintale",
+      "slug": "grintale",
+      "index": 70,
+      "icon": "T_NaughtyCat_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 3
+      }
+    },
+    {
+      "id": "elecpanda",
+      "name": "Grizzbolt",
+      "slug": "grizzbolt",
+      "index": 185,
+      "icon": "T_ElecPanda_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 5,
+        "Handcraft": 4,
+        "Deforest": 3,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "plantslime",
+      "name": "Gumoss",
+      "slug": "gumoss",
+      "index": 12,
+      "icon": "T_PlantSlime_icon_normal",
+      "elements": [
+        "Leaf",
+        "Earth"
+      ],
+      "work": {
+        "Seeding": 1
+      }
+    },
+    {
+      "id": "windchimes",
+      "name": "Hangyu",
+      "slug": "hangyu",
+      "index": 38,
+      "icon": "T_WindChimes_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 1,
+        "Collection": 1,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "windchimes_ice",
+      "name": "Hangyu Cryst",
+      "slug": "hangyu-cryst",
+      "index": 38,
+      "icon": "T_WindChimes_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Collection": 2,
+        "Cool": 2,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "legenddeer",
+      "name": "Hartalis",
+      "slug": "hartalis",
+      "index": 197,
+      "icon": "T_LegendDeer_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 7,
+        "Deforest": 7
+      }
+    },
+    {
+      "id": "hadesbird",
+      "name": "Helzephyr",
+      "slug": "helzephyr",
+      "index": 80,
+      "icon": "T_HadesBird_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Transport": 4
+      }
+    },
+    {
+      "id": "hadesbird_electric",
+      "name": "Helzephyr Lux",
+      "slug": "helzephyr-lux",
+      "index": 80,
+      "icon": "T_HadesBird_Electric_icon_normal",
+      "elements": [
+        "Dark",
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 4,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "leafmomonga",
+      "name": "Herbil",
+      "slug": "herbil",
+      "index": 10,
+      "icon": "T_LeafMomonga_icon_normal",
+      "elements": [
+        "Leaf",
+        "Normal"
+      ],
+      "work": {
+        "Seeding": 1,
+        "Collection": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "wizardowl",
+      "name": "Hoocrates",
+      "slug": "hoocrates",
+      "index": 19,
+      "icon": "T_WizardOwl_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 1
+      }
+    },
+    {
+      "id": "hoodghost",
+      "name": "Hoodle",
+      "slug": "hoodle",
+      "index": 166,
+      "icon": "T_HoodGhost_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "icewitch",
+      "name": "Icelyn",
+      "slug": "icelyn",
+      "index": 119,
+      "icon": "T_IceWitch_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Handcraft": 5,
+        "ProductMedicine": 4,
+        "Cool": 5,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "yakushimamonster003_purple",
+      "name": "Illuminant Bat",
+      "slug": "illuminant-bat",
+      "index": -1,
+      "icon": "T_YakushimaMonster003_Purple_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 1
+      }
+    },
+    {
+      "id": "yakushimamonster001_pink",
+      "name": "Illuminant Slime",
+      "slug": "illuminant-slime",
+      "index": -1,
+      "icon": "T_YakushimaMonster001_Pink_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Transport": 1
+      }
+    },
+    {
+      "id": "baphomet",
+      "name": "Incineram",
+      "slug": "incineram",
+      "index": 91,
+      "icon": "T_Baphomet_icon_normal",
+      "elements": [
+        "Fire",
+        "Dark"
+      ],
+      "work": {
+        "EmitFlame": 3,
+        "Handcraft": 2,
+        "Mining": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "baphomet_dark",
+      "name": "Incineram Noct",
+      "slug": "incineram-noct",
+      "index": 91,
+      "icon": "T_Baphomet_Dark_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Mining": 4,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "jellyfishfairy",
+      "name": "Jelliette",
+      "slug": "jelliette",
+      "index": 45,
+      "icon": "T_JellyfishFairy_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 2,
+        "Handcraft": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "jellyfishghost",
+      "name": "Jellroy",
+      "slug": "jellroy",
+      "index": 46,
+      "icon": "T_JellyfishGhost_icon_normal",
+      "elements": [
+        "Water",
+        "Dark"
+      ],
+      "work": {
+        "Watering": 2,
+        "Handcraft": 1,
+        "ProductMedicine": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "jetdragon",
+      "name": "Jetragon",
+      "slug": "jetragon",
+      "index": 202,
+      "icon": "T_JetDragon_icon_normal",
+      "elements": [
+        "Dragon"
+      ],
+      "work": {
+        "Collection": 8
+      }
+    },
+    {
+      "id": "hedgehog",
+      "name": "Jolthog",
+      "slug": "jolthog",
+      "index": 15,
+      "icon": "T_Hedgehog_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 1
+      }
+    },
+    {
+      "id": "hedgehog_ice",
+      "name": "Jolthog Cryst",
+      "slug": "jolthog-cryst",
+      "index": 15,
+      "icon": "T_Hedgehog_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Cool": 1
+      }
+    },
+    {
+      "id": "umihebi",
+      "name": "Jormuntide",
+      "slug": "jormuntide",
+      "index": 121,
+      "icon": "T_Umihebi_icon_normal",
+      "elements": [
+        "Dragon",
+        "Water"
+      ],
+      "work": {
+        "Watering": 7
+      }
+    },
+    {
+      "id": "umihebi_fire",
+      "name": "Jormuntide Ignis",
+      "slug": "jormuntide-ignis",
+      "index": 121,
+      "icon": "T_Umihebi_Fire_icon_normal",
+      "elements": [
+        "Dragon",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 7
+      }
+    },
+    {
+      "id": "catmage",
+      "name": "Katress",
+      "slug": "katress",
+      "index": 79,
+      "icon": "T_CatMage_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "ProductMedicine": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "catmage_fire",
+      "name": "Katress Ignis",
+      "slug": "katress-ignis",
+      "index": 79,
+      "icon": "T_CatMage_Fire_icon_normal",
+      "elements": [
+        "Dark",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 3,
+        "Handcraft": 3,
+        "ProductMedicine": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "kelpie",
+      "name": "Kelpsea",
+      "slug": "kelpsea",
+      "index": 43,
+      "icon": "T_Kelpie_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "kelpie_fire",
+      "name": "Kelpsea Ignis",
+      "slug": "kelpsea-ignis",
+      "index": 43,
+      "icon": "T_Kelpie_Fire_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "smallarmadillo",
+      "name": "Kikit",
+      "slug": "kikit",
+      "index": 126,
+      "icon": "T_SmallArmadillo_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Mining": 1
+      }
+    },
+    {
+      "id": "negativeoctopus",
+      "name": "Killamari",
+      "slug": "killamari",
+      "index": 30,
+      "icon": "T_NegativeOctopus_icon_normal",
+      "elements": [
+        "Dark",
+        "Water"
+      ],
+      "work": {
+        "Watering": 1,
+        "Collection": 1,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "negativeoctopus_neutral",
+      "name": "Killamari Primo",
+      "slug": "killamari-primo",
+      "index": 30,
+      "icon": "T_NegativeOctopus_Neutral_icon_normal",
+      "elements": [
+        "Normal",
+        "Water"
+      ],
+      "work": {
+        "Watering": 1,
+        "Collection": 1,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "kingalpaca",
+      "name": "Kingpaca",
+      "slug": "kingpaca",
+      "index": 21,
+      "icon": "T_KingAlpaca_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    },
+    {
+      "id": "kingalpaca_ice",
+      "name": "Kingpaca Cryst",
+      "slug": "kingpaca-cryst",
+      "index": 21,
+      "icon": "T_KingAlpaca_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Collection": 2,
+        "Cool": 4
+      }
+    },
+    {
+      "id": "amaterasuwolf",
+      "name": "Kitsun",
+      "slug": "kitsun",
+      "index": 111,
+      "icon": "T_AmaterasuWolf_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 3
+      }
+    },
+    {
+      "id": "amaterasuwolf_dark",
+      "name": "Kitsun Noct",
+      "slug": "kitsun-noct",
+      "index": 111,
+      "icon": "T_AmaterasuWolf_Dark_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "EmitFlame": 4
+      }
+    },
+    {
+      "id": "winggolem",
+      "name": "Knocklem",
+      "slug": "knocklem",
+      "index": 159,
+      "icon": "T_WingGolem_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Collection": 4,
+        "Mining": 7,
+        "Transport": 7
+      }
+    },
+    {
+      "id": "winggolem_fire",
+      "name": "Knocklem Ignis",
+      "slug": "knocklem-ignis",
+      "index": 159,
+      "icon": "T_WingGolem_Fire_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 5,
+        "Mining": 7,
+        "Transport": 7
+      }
+    },
+    {
+      "id": "sheepball",
+      "name": "Lamball",
+      "slug": "lamball",
+      "index": 1,
+      "icon": "T_SheepBall_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 1,
+        "Transport": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "brownrabbit",
+      "name": "Lapiron",
+      "slug": "lapiron",
+      "index": 165,
+      "icon": "T_BrownRabbit_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Collection": 4,
+        "Mining": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "sleeverabbit",
+      "name": "Lapure",
+      "slug": "lapure",
+      "index": 170,
+      "icon": "T_SleeveRabbit_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 6,
+        "Collection": 5
+      }
+    },
+    {
+      "id": "pandagirl",
+      "name": "Leafan",
+      "slug": "leafan",
+      "index": 90,
+      "icon": "T_PandaGirl_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 3,
+        "Collection": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "lizardman",
+      "name": "Leezpunk",
+      "slug": "leezpunk",
+      "index": 73,
+      "icon": "T_LizardMan_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 2,
+        "Collection": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "lizardman_fire",
+      "name": "Leezpunk Ignis",
+      "slug": "leezpunk-ignis",
+      "index": 73,
+      "icon": "T_LizardMan_Fire_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 2,
+        "Handcraft": 2,
+        "Collection": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "carbunclo",
+      "name": "Lifmunk",
+      "slug": "lifmunk",
+      "index": 4,
+      "icon": "T_Carbunclo_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 1,
+        "Handcraft": 1,
+        "Collection": 1,
+        "Deforest": 1,
+        "ProductMedicine": 1
+      }
+    },
+    {
+      "id": "lanternbutler",
+      "name": "Loomen",
+      "slug": "loomen",
+      "index": 180,
+      "icon": "T_LanternButler_icon_normal",
+      "elements": [
+        "Dark",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 4,
+        "Handcraft": 4,
+        "ProductMedicine": 4
+      }
+    },
+    {
+      "id": "werewolf",
+      "name": "Loupmoon",
+      "slug": "loupmoon",
+      "index": 56,
+      "icon": "T_Werewolf_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 2
+      }
+    },
+    {
+      "id": "werewolf_ice",
+      "name": "Loupmoon Cryst",
+      "slug": "loupmoon-cryst",
+      "index": 56,
+      "icon": "T_Werewolf_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Handcraft": 4,
+        "Cool": 4
+      }
+    },
+    {
+      "id": "pinklizard",
+      "name": "Lovander",
+      "slug": "lovander",
+      "index": 69,
+      "icon": "T_PinkLizard_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Mining": 2,
+        "ProductMedicine": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "leafprincess",
+      "name": "Lullu",
+      "slug": "lullu",
+      "index": 125,
+      "icon": "T_LeafPrincess_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 3,
+        "Collection": 2,
+        "ProductMedicine": 3
+      }
+    },
+    {
+      "id": "mutant",
+      "name": "Lunaris",
+      "slug": "lunaris",
+      "index": 82,
+      "icon": "T_Mutant_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 4,
+        "Collection": 2,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "lilyqueen",
+      "name": "Lyleen",
+      "slug": "lyleen",
+      "index": 186,
+      "icon": "T_LilyQueen_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 7,
+        "Handcraft": 5,
+        "Collection": 6,
+        "ProductMedicine": 5
+      }
+    },
+    {
+      "id": "lilyqueen_dark",
+      "name": "Lyleen Noct",
+      "slug": "lyleen-noct",
+      "index": 186,
+      "icon": "T_LilyQueen_Dark_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 5,
+        "Collection": 6,
+        "ProductMedicine": 7
+      }
+    },
+    {
+      "id": "darkflamefox",
+      "name": "Majex",
+      "slug": "majex",
+      "index": 115,
+      "icon": "T_DarkFlameFox_icon_normal",
+      "elements": [
+        "Dark",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 4,
+        "Handcraft": 5,
+        "ProductMedicine": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "grassmammoth",
+      "name": "Mammorest",
+      "slug": "mammorest",
+      "index": 87,
+      "icon": "T_GrassMammoth_icon_normal",
+      "elements": [
+        "Leaf",
+        "Earth"
+      ],
+      "work": {
+        "Seeding": 4,
+        "Deforest": 4,
+        "Mining": 4
+      }
+    },
+    {
+      "id": "grassmammoth_ice",
+      "name": "Mammorest Cryst",
+      "slug": "mammorest-cryst",
+      "index": 87,
+      "icon": "T_GrassMammoth_Ice_icon_normal",
+      "elements": [
+        "Ice",
+        "Earth"
+      ],
+      "work": {
+        "Deforest": 5,
+        "Mining": 4,
+        "Cool": 5
+      }
+    },
+    {
+      "id": "ghostbeast",
+      "name": "Maraith",
+      "slug": "maraith",
+      "index": 117,
+      "icon": "T_GhostBeast_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 4,
+        "Mining": 4
+      }
+    },
+    {
+      "id": "bastet",
+      "name": "Mau",
+      "slug": "mau",
+      "index": 27,
+      "icon": "T_Bastet_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "bastet_ice",
+      "name": "Mau Cryst",
+      "slug": "mau-cryst",
+      "index": 27,
+      "icon": "T_Bastet_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Cool": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "alpaca",
+      "name": "Melpaca",
+      "slug": "melpaca",
+      "index": 20,
+      "icon": "T_Alpaca_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "MonsterFarm": 2
+      }
+    },
+    {
+      "id": "darkscorpion",
+      "name": "Menasting",
+      "slug": "menasting",
+      "index": 99,
+      "icon": "T_DarkScorpion_icon_normal",
+      "elements": [
+        "Dark",
+        "Earth"
+      ],
+      "work": {
+        "Deforest": 3,
+        "Mining": 5
+      }
+    },
+    {
+      "id": "darkscorpion_ground",
+      "name": "Menasting Terra",
+      "slug": "menasting-terra",
+      "index": 99,
+      "icon": "T_DarkScorpion_Ground_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Deforest": 3,
+        "Mining": 6
+      }
+    },
+    {
+      "id": "mimicdog",
+      "name": "Mimog",
+      "slug": "mimog",
+      "index": 144,
+      "icon": "T_MimicDog_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 1,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "volcanodragon",
+      "name": "Moldron",
+      "slug": "moldron",
+      "index": 105,
+      "icon": "T_VolcanoDragon_icon_normal",
+      "elements": [
+        "Fire",
+        "Earth"
+      ],
+      "work": {
+        "EmitFlame": 5,
+        "Mining": 5
+      }
+    },
+    {
+      "id": "volcanodragon_ice",
+      "name": "Moldron Cryst",
+      "slug": "moldron-cryst",
+      "index": 105,
+      "icon": "T_VolcanoDragon_Ice_icon_normal",
+      "elements": [
+        "Ice",
+        "Earth"
+      ],
+      "work": {
+        "Mining": 5,
+        "Cool": 5
+      }
+    },
+    {
+      "id": "grasspanda",
+      "name": "Mossanda",
+      "slug": "mossanda",
+      "index": 102,
+      "icon": "T_GrassPanda_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 2,
+        "Deforest": 4,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "grasspanda_electric",
+      "name": "Mossanda Lux",
+      "slug": "mossanda-lux",
+      "index": 102,
+      "icon": "T_GrassPanda_Electric_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 4,
+        "Handcraft": 3,
+        "Deforest": 4,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "cowpal",
+      "name": "Mozzarina",
+      "slug": "mozzarina",
+      "index": 40,
+      "icon": "T_CowPal_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "MonsterFarm": 2
+      }
+    },
+    {
+      "id": "fluffybird",
+      "name": "Muffly",
+      "slug": "muffly",
+      "index": 59,
+      "icon": "T_FluffyBird_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Cool": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "icecrocodile",
+      "name": "Munchill",
+      "slug": "munchill",
+      "index": 86,
+      "icon": "T_IceCrocodile_icon_normal",
+      "elements": [
+        "Ice",
+        "Water"
+      ],
+      "work": {
+        "Watering": 2,
+        "Cool": 3,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "mushroomlady",
+      "name": "Mycora",
+      "slug": "mycora",
+      "index": 179,
+      "icon": "T_MushroomLady_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 6,
+        "Handcraft": 4,
+        "Collection": 4,
+        "ProductMedicine": 6
+      }
+    },
+    {
+      "id": "blackcentaur",
+      "name": "Necromus",
+      "slug": "necromus",
+      "index": 199,
+      "icon": "T_BlackCentaur_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Deforest": 6,
+        "Mining": 6
+      }
+    },
+    {
+      "id": "cactusdoll",
+      "name": "Needoll",
+      "slug": "needoll",
+      "index": 100,
+      "icon": "T_CactusDoll_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Collection": 3,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "cactusdoll_dark",
+      "name": "Needoll Noct",
+      "slug": "needoll-noct",
+      "index": 100,
+      "icon": "T_CactusDoll_Dark_icon_normal",
+      "elements": [
+        "Dark",
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Collection": 3,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "poseidonorca",
+      "name": "Neptilius",
+      "slug": "neptilius",
+      "index": 201,
+      "icon": "T_PoseidonOrca_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 7
+      }
+    },
+    {
+      "id": "ghostrabbit",
+      "name": "Nitemary",
+      "slug": "nitemary",
+      "index": 148,
+      "icon": "T_GhostRabbit_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "ghostrabbit_grass",
+      "name": "Nitemary Botan",
+      "slug": "nitemary-botan",
+      "index": 148,
+      "icon": "T_GhostRabbit_Grass_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "hawkbird",
+      "name": "Nitewing",
+      "slug": "nitewing",
+      "index": 51,
+      "icon": "T_HawkBird_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    },
+    {
+      "id": "nightfox",
+      "name": "Nox",
+      "slug": "nox",
+      "index": 24,
+      "icon": "T_NightFox_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 1
+      }
+    },
+    {
+      "id": "badcatgirl",
+      "name": "Nyafia",
+      "slug": "nyafia",
+      "index": 143,
+      "icon": "T_BadCatgirl_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 4,
+        "Collection": 4,
+        "Deforest": 2,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "mysterymask",
+      "name": "Omascul",
+      "slug": "omascul",
+      "index": 150,
+      "icon": "T_MysteryMask_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 5
+      }
+    },
+    {
+      "id": "lotusdragon",
+      "name": "Ophydia",
+      "slug": "ophydia",
+      "index": 175,
+      "icon": "T_LotusDragon_icon_normal",
+      "elements": [
+        "Leaf",
+        "Water"
+      ],
+      "work": {
+        "Watering": 5,
+        "Seeding": 7
+      }
+    },
+    {
+      "id": "thunderdragonman",
+      "name": "Orserk",
+      "slug": "orserk",
+      "index": 187,
+      "icon": "T_ThunderDragonMan_icon_normal",
+      "elements": [
+        "Dragon",
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 8,
+        "Handcraft": 3,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "saintcentaur",
+      "name": "Paladius",
+      "slug": "paladius",
+      "index": 198,
+      "icon": "T_SaintCentaur_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Deforest": 6,
+        "Mining": 6
+      }
+    },
+    {
+      "id": "tropicalostrich",
+      "name": "Palumba",
+      "slug": "palumba",
+      "index": 106,
+      "icon": "T_TropicalOstrich_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 4,
+        "Collection": 4,
+        "Mining": 5
+      }
+    },
+    {
+      "id": "penguin",
+      "name": "Pengullet",
+      "slug": "pengullet",
+      "index": 17,
+      "icon": "T_Penguin_icon_normal",
+      "elements": [
+        "Water",
+        "Ice"
+      ],
+      "work": {
+        "Watering": 1,
+        "Handcraft": 1,
+        "Cool": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "penguin_electric",
+      "name": "Pengullet Lux",
+      "slug": "pengullet-lux",
+      "index": 17,
+      "icon": "T_Penguin_Electric_icon_normal",
+      "elements": [
+        "Water",
+        "Electricity"
+      ],
+      "work": {
+        "Watering": 1,
+        "GenerateElectricity": 2,
+        "Handcraft": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "captainpenguin",
+      "name": "Penking",
+      "slug": "penking",
+      "index": 18,
+      "icon": "T_CaptainPenguin_icon_normal",
+      "elements": [
+        "Water",
+        "Ice"
+      ],
+      "work": {
+        "Watering": 2,
+        "Handcraft": 2,
+        "Mining": 3,
+        "Cool": 2,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "captainpenguin_black",
+      "name": "Penking Lux",
+      "slug": "penking-lux",
+      "index": 18,
+      "icon": "T_CaptainPenguin_Black_icon_normal",
+      "elements": [
+        "Water",
+        "Electricity"
+      ],
+      "work": {
+        "Watering": 2,
+        "GenerateElectricity": 3,
+        "Handcraft": 2,
+        "Mining": 3,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "flowerdoll",
+      "name": "Petallia",
+      "slug": "petallia",
+      "index": 89,
+      "icon": "T_FlowerDoll_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 4,
+        "Handcraft": 3,
+        "Collection": 3,
+        "ProductMedicine": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "flowerdoll_fire",
+      "name": "Petallia Ignis",
+      "slug": "petallia-ignis",
+      "index": 89,
+      "icon": "T_FlowerDoll_Fire_icon_normal",
+      "elements": [
+        "Leaf",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 4,
+        "Handcraft": 3,
+        "Collection": 3,
+        "ProductMedicine": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "rockbeast",
+      "name": "Pierdon",
+      "slug": "pierdon",
+      "index": 131,
+      "icon": "T_RockBeast_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Mining": 5
+      }
+    },
+    {
+      "id": "rockbeast_ice",
+      "name": "Pierdon Cryst",
+      "slug": "pierdon-cryst",
+      "index": 131,
+      "icon": "T_RockBeast_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Mining": 5,
+        "Cool": 6
+      }
+    },
+    {
+      "id": "iceseal",
+      "name": "Polapup",
+      "slug": "polapup",
+      "index": 72,
+      "icon": "T_IceSeal_icon_normal",
+      "elements": [
+        "Ice",
+        "Water"
+      ],
+      "work": {
+        "Watering": 3,
+        "Cool": 4
+      }
+    },
+    {
+      "id": "iceseal_ground",
+      "name": "Polapup Terra",
+      "slug": "polapup-terra",
+      "index": 72,
+      "icon": "T_IceSeal_Ground_icon_normal",
+      "elements": [
+        "Ice",
+        "Earth"
+      ],
+      "work": {
+        "Mining": 4,
+        "Cool": 4
+      }
+    },
+    {
+      "id": "scorpionman",
+      "name": "Prixter",
+      "slug": "prixter",
+      "index": 141,
+      "icon": "T_ScorpionMan_icon_normal",
+      "elements": [
+        "Dark",
+        "Earth"
+      ],
+      "work": {
+        "Collection": 2,
+        "Deforest": 4,
+        "ProductMedicine": 2
+      }
+    },
+    {
+      "id": "scorpionman_electric",
+      "name": "Prixter Lux",
+      "slug": "prixter-lux",
+      "index": 141,
+      "icon": "T_ScorpionMan_Electric_icon_normal",
+      "elements": [
+        "Electricity",
+        "Earth"
+      ],
+      "work": {
+        "GenerateElectricity": 3,
+        "Collection": 2,
+        "Deforest": 4,
+        "ProductMedicine": 2
+      }
+    },
+    {
+      "id": "blueberryfairy",
+      "name": "Prunelia",
+      "slug": "prunelia",
+      "index": 147,
+      "icon": "T_BlueberryFairy_icon_normal",
+      "elements": [
+        "Leaf",
+        "Dark"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 1,
+        "Collection": 2,
+        "ProductMedicine": 3,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "elecpomeranian",
+      "name": "Puffolt",
+      "slug": "puffolt",
+      "index": 62,
+      "icon": "T_ElecPomeranian_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "samuraidog",
+      "name": "Pupperai",
+      "slug": "pupperai",
+      "index": 13,
+      "icon": "T_SamuraiDog_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Collection": 1,
+        "Deforest": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "yakushimamonster001_purple",
+      "name": "Purple Slime",
+      "slug": "purple-slime",
+      "index": -1,
+      "icon": "T_YakushimaMonster001_Purple_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Transport": 1
+      }
+    },
+    {
+      "id": "firekirin",
+      "name": "Pyrin",
+      "slug": "pyrin",
+      "index": 93,
+      "icon": "T_FireKirin_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 4,
+        "Deforest": 2
+      }
+    },
+    {
+      "id": "firekirin_dark",
+      "name": "Pyrin Noct",
+      "slug": "pyrin-noct",
+      "index": 93,
+      "icon": "T_FireKirin_Dark_icon_normal",
+      "elements": [
+        "Fire",
+        "Dark"
+      ],
+      "work": {
+        "EmitFlame": 4,
+        "Deforest": 3
+      }
+    },
+    {
+      "id": "skydragon",
+      "name": "Quivern",
+      "slug": "quivern",
+      "index": 124,
+      "icon": "T_SkyDragon_icon_normal",
+      "elements": [
+        "Dragon"
+      ],
+      "work": {
+        "Handcraft": 2,
+        "Collection": 3,
+        "Mining": 4,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "skydragon_grass",
+      "name": "Quivern Botan",
+      "slug": "quivern-botan",
+      "index": 124,
+      "icon": "T_SkyDragon_Grass_icon_normal",
+      "elements": [
+        "Dragon",
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 5,
+        "Handcraft": 2,
+        "Collection": 4,
+        "Mining": 3,
+        "Transport": 4
+      }
+    },
+    {
+      "id": "redarmorbird",
+      "name": "Ragnahawk",
+      "slug": "ragnahawk",
+      "index": 104,
+      "icon": "T_RedArmorBird_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 4,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "yakushimamonster001_rainbow",
+      "name": "Rainbow Slime",
+      "slug": "rainbow-slime",
+      "index": -1,
+      "icon": "T_YakushimaMonster001_Rainbow_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Transport": 1
+      }
+    },
+    {
+      "id": "thunderdog",
+      "name": "Rayhound",
+      "slug": "rayhound",
+      "index": 98,
+      "icon": "T_ThunderDog_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 4
+      }
+    },
+    {
+      "id": "thunderdog_ice",
+      "name": "Rayhound Cryst",
+      "slug": "rayhound-cryst",
+      "index": 98,
+      "icon": "T_ThunderDog_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Cool": 3
+      }
+    },
+    {
+      "id": "yakushimamonster001_red",
+      "name": "Red Slime",
+      "slug": "red-slime",
+      "index": -1,
+      "icon": "T_YakushimaMonster001_Red_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "Transport": 1
+      }
+    },
+    {
+      "id": "icedeer",
+      "name": "Reindrix",
+      "slug": "reindrix",
+      "index": 101,
+      "icon": "T_IceDeer_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Deforest": 3,
+        "Cool": 3
+      }
+    },
+    {
+      "id": "lazydragon",
+      "name": "Relaxaurus",
+      "slug": "relaxaurus",
+      "index": 94,
+      "icon": "T_LazyDragon_icon_normal",
+      "elements": [
+        "Dragon",
+        "Water"
+      ],
+      "work": {
+        "Watering": 3,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "lazydragon_electric",
+      "name": "Relaxaurus Lux",
+      "slug": "relaxaurus-lux",
+      "index": 94,
+      "icon": "T_LazyDragon_Electric_icon_normal",
+      "elements": [
+        "Dragon",
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 4,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "kabukiman",
+      "name": "Renjishi",
+      "slug": "renjishi",
+      "index": 183,
+      "icon": "T_KabukiMan_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 8,
+        "Handcraft": 6,
+        "Collection": 5,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "volcanicmonster",
+      "name": "Reptyro",
+      "slug": "reptyro",
+      "index": 129,
+      "icon": "T_VolcanicMonster_icon_normal",
+      "elements": [
+        "Fire",
+        "Earth"
+      ],
+      "work": {
+        "EmitFlame": 5,
+        "Mining": 5
+      }
+    },
+    {
+      "id": "volcanicmonster_ice",
+      "name": "Reptyro Cryst",
+      "slug": "reptyro-cryst",
+      "index": 129,
+      "icon": "T_VolcanicMonster_Ice_icon_normal",
+      "elements": [
+        "Ice",
+        "Earth"
+      ],
+      "work": {
+        "Mining": 5,
+        "Cool": 5
+      }
+    },
+    {
+      "id": "pinkrabbit",
+      "name": "Ribbuny",
+      "slug": "ribbuny",
+      "index": 44,
+      "icon": "T_PinkRabbit_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 1,
+        "Collection": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "pinkrabbit_grass",
+      "name": "Ribbuny Botan",
+      "slug": "ribbuny-botan",
+      "index": 44,
+      "icon": "T_PinkRabbit_Grass_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 2,
+        "Handcraft": 2,
+        "Collection": 2,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinquill",
+      "slug": "robinquill",
+      "index": 76,
+      "icon": "T_RobinHood_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 2,
+        "Handcraft": 3,
+        "Collection": 3,
+        "Deforest": 2,
+        "ProductMedicine": 1,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "robinhood_ground",
+      "name": "Robinquill Terra",
+      "slug": "robinquill-terra",
+      "index": 76,
+      "icon": "T_RobinHood_Ground_icon_normal",
+      "elements": [
+        "Leaf",
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Collection": 3,
+        "Deforest": 2,
+        "ProductMedicine": 2,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "flamebambi",
+      "name": "Rooby",
+      "slug": "rooby",
+      "index": 26,
+      "icon": "T_FlameBambi_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "thiefbird",
+      "name": "Roujay",
+      "slug": "roujay",
+      "index": 177,
+      "icon": "T_ThiefBird_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 5,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "boar",
+      "name": "Rushoar",
+      "slug": "rushoar",
+      "index": 28,
+      "icon": "T_Boar_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Mining": 1
+      }
+    },
+    {
+      "id": "sekhmet",
+      "name": "Sekhmet",
+      "slug": "sekhmet",
+      "index": 140,
+      "icon": "T_Sekhmet_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 6,
+        "Mining": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "moonqueen",
+      "name": "Selyne",
+      "slug": "selyne",
+      "index": 190,
+      "icon": "T_MoonQueen_icon_normal",
+      "elements": [
+        "Dark",
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 7,
+        "ProductMedicine": 6,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "blackgriffon",
+      "name": "Shadowbeak",
+      "slug": "shadowbeak",
+      "index": 189,
+      "icon": "T_BlackGriffon_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    },
+    {
+      "id": "blueskydragon",
+      "name": "Shaolong",
+      "slug": "shaolong",
+      "index": 192,
+      "icon": "T_BlueSkyDragon_icon_normal",
+      "elements": [
+        "Dragon",
+        "Water"
+      ],
+      "work": {
+        "Watering": 8,
+        "Collection": 5
+      }
+    },
+    {
+      "id": "mushroomdragon",
+      "name": "Shroomer",
+      "slug": "shroomer",
+      "index": 118,
+      "icon": "T_MushroomDragon_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 2,
+        "Collection": 3,
+        "Deforest": 2,
+        "MonsterFarm": 3
+      }
+    },
+    {
+      "id": "mushroomdragon_dark",
+      "name": "Shroomer Noct",
+      "slug": "shroomer-noct",
+      "index": 118,
+      "icon": "T_MushroomDragon_Dark_icon_normal",
+      "elements": [
+        "Leaf",
+        "Dark"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 3,
+        "Collection": 3,
+        "Deforest": 2
+      }
+    },
+    {
+      "id": "whitemoth",
+      "name": "Sibelyx",
+      "slug": "sibelyx",
+      "index": 116,
+      "icon": "T_WhiteMoth_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "ProductMedicine": 3,
+        "Cool": 3,
+        "MonsterFarm": 3
+      }
+    },
+    {
+      "id": "whitemoth_neutral",
+      "name": "Sibelyx Primo",
+      "slug": "sibelyx-primo",
+      "index": 116,
+      "icon": "T_WhiteMoth_Neutral_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "ProductMedicine": 3,
+        "MonsterFarm": 4
+      }
+    },
+    {
+      "id": "mothman",
+      "name": "Silvance",
+      "slug": "silvance",
+      "index": 193,
+      "icon": "T_Mothman_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 6,
+        "Handcraft": 6,
+        "Collection": 4,
+        "ProductMedicine": 8,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "whiteshielddragon",
+      "name": "Silvegis",
+      "slug": "silvegis",
+      "index": 160,
+      "icon": "T_WhiteShieldDragon_icon_normal",
+      "elements": [
+        "Dragon"
+      ],
+      "work": {
+        "Deforest": 6
+      }
+    },
+    {
+      "id": "swordcutlassfish",
+      "name": "Skutlass",
+      "slug": "skutlass",
+      "index": 128,
+      "icon": "T_SwordCutlassfish_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 4,
+        "Collection": 1,
+        "Deforest": 4
+      }
+    },
+    {
+      "id": "swordcutlassfish_fire",
+      "name": "Skutlass Ignis",
+      "slug": "skutlass-ignis",
+      "index": 128,
+      "icon": "T_SwordCutlassfish_Fire_icon_normal",
+      "elements": [
+        "Water",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 3,
+        "Watering": 2,
+        "Collection": 2,
+        "Deforest": 3
+      }
+    },
+    {
+      "id": "eleclizard",
+      "name": "Slowatt",
+      "slug": "slowatt",
+      "index": 167,
+      "icon": "T_ElecLizard_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 3
+      }
+    },
+    {
+      "id": "blackpuppy",
+      "name": "Smokie",
+      "slug": "smokie",
+      "index": 149,
+      "icon": "T_BlackPuppy_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    },
+    {
+      "id": "blackpuppy_ice",
+      "name": "Smokie Cryst",
+      "slug": "smokie-cryst",
+      "index": 149,
+      "icon": "T_BlackPuppy_Ice_icon_normal",
+      "elements": [
+        "Dark",
+        "Ice"
+      ],
+      "work": {
+        "Collection": 2,
+        "Cool": 2
+      }
+    },
+    {
+      "id": "elecsnail",
+      "name": "Snock",
+      "slug": "snock",
+      "index": 163,
+      "icon": "T_ElecSnail_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 4
+      }
+    },
+    {
+      "id": "elecsnail_ground",
+      "name": "Snock Lux",
+      "slug": "snock-lux",
+      "index": 163,
+      "icon": "T_ElecSnail_Ground_icon_normal",
+      "elements": [
+        "Electricity",
+        "Earth"
+      ],
+      "work": {
+        "GenerateElectricity": 4
+      }
+    },
+    {
+      "id": "smallyeti",
+      "name": "Snugloo",
+      "slug": "snugloo",
+      "index": 133,
+      "icon": "T_SmallYeti_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Handcraft": 2,
+        "Mining": 3,
+        "Cool": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "monochromequeen",
+      "name": "Solenne",
+      "slug": "solenne",
+      "index": 182,
+      "icon": "T_MonochromeQueen_icon_normal",
+      "elements": [
+        "Dark",
+        "Normal"
+      ],
+      "work": {
+        "Handcraft": 8,
+        "Collection": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "kingsunfish",
+      "name": "Solmora",
+      "slug": "solmora",
+      "index": 169,
+      "icon": "T_KingSunfish_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 4
+      }
+    },
+    {
+      "id": "kingsunfish_thunder",
+      "name": "Solmora Lux",
+      "slug": "solmora-lux",
+      "index": 169,
+      "icon": "T_KingSunfish_Thunder_icon_normal",
+      "elements": [
+        "Water",
+        "Electricity"
+      ],
+      "work": {
+        "Watering": 4,
+        "GenerateElectricity": 6
+      }
+    },
+    {
+      "id": "candleghost",
+      "name": "Sootseer",
+      "slug": "sootseer",
+      "index": 135,
+      "icon": "T_CandleGhost_icon_normal",
+      "elements": [
+        "Dark",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 3,
+        "Handcraft": 3,
+        "Collection": 2,
+        "Mining": 3,
+        "MonsterFarm": 2
+      }
+    },
+    {
+      "id": "dandeliongirl",
+      "name": "Souffline",
+      "slug": "souffline",
+      "index": 164,
+      "icon": "T_DandelionGirl_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 2,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "eleccat",
+      "name": "Sparkit",
+      "slug": "sparkit",
+      "index": 42,
+      "icon": "T_ElecCat_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 1,
+        "Handcraft": 1,
+        "Transport": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "grimgirl",
+      "name": "Splatterina",
+      "slug": "splatterina",
+      "index": 153,
+      "icon": "T_GrimGirl_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 6,
+        "Deforest": 3,
+        "ProductMedicine": 5,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "nightbluehorse",
+      "name": "Starryon",
+      "slug": "starryon",
+      "index": 130,
+      "icon": "T_NightBlueHorse_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 5
+      }
+    },
+    {
+      "id": "nightbluehorse_neutral",
+      "name": "Starryon Primo",
+      "slug": "starryon-primo",
+      "index": 130,
+      "icon": "T_NightBlueHorse_Neutral_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 7
+      }
+    },
+    {
+      "id": "serpent",
+      "name": "Surfent",
+      "slug": "surfent",
+      "index": 75,
+      "icon": "T_Serpent_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 3,
+        "MonsterFarm": 2
+      }
+    },
+    {
+      "id": "serpent_ground",
+      "name": "Surfent Terra",
+      "slug": "surfent-terra",
+      "index": 75,
+      "icon": "T_Serpent_Ground_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Collection": 3
+      }
+    },
+    {
+      "id": "suzaku",
+      "name": "Suzaku",
+      "slug": "suzaku",
+      "index": 122,
+      "icon": "T_Suzaku_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 5
+      }
+    },
+    {
+      "id": "suzaku_water",
+      "name": "Suzaku Aqua",
+      "slug": "suzaku-aqua",
+      "index": 122,
+      "icon": "T_Suzaku_Water_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 6
+      }
+    },
+    {
+      "id": "mopbaby",
+      "name": "Swee",
+      "slug": "swee",
+      "index": 35,
+      "icon": "T_MopBaby_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Collection": 1,
+        "Cool": 1
+      }
+    },
+    {
+      "id": "mopking",
+      "name": "Sweepa",
+      "slug": "sweepa",
+      "index": 36,
+      "icon": "T_MopKing_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Collection": 2,
+        "Cool": 3
+      }
+    },
+    {
+      "id": "monkey",
+      "name": "Tanzee",
+      "slug": "tanzee",
+      "index": 23,
+      "icon": "T_Monkey_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 1,
+        "Handcraft": 1,
+        "Collection": 1,
+        "Deforest": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "monkey_fire",
+      "name": "Tanzee Ignis",
+      "slug": "tanzee-ignis",
+      "index": 23,
+      "icon": "T_Monkey_Fire_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 1,
+        "Handcraft": 1,
+        "Deforest": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "purplespider",
+      "name": "Tarantriss",
+      "slug": "tarantriss",
+      "index": 71,
+      "icon": "T_PurpleSpider_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Collection": 3,
+        "ProductMedicine": 2,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "ganesha",
+      "name": "Teafant",
+      "slug": "teafant",
+      "index": 11,
+      "icon": "T_Ganesha_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 1
+      }
+    },
+    {
+      "id": "cubeturtle",
+      "name": "Tetroise ",
+      "slug": "tetroise",
+      "index": 142,
+      "icon": "T_CubeTurtle_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Mining": 4
+      }
+    },
+    {
+      "id": "cubeturtle_neutral",
+      "name": "Tetroise Primo",
+      "slug": "tetroise-primo",
+      "index": 142,
+      "icon": "T_CubeTurtle_Neutral_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Mining": 6
+      }
+    },
+    {
+      "id": "colorfulbird",
+      "name": "Tocotoco",
+      "slug": "tocotoco",
+      "index": 53,
+      "icon": "T_ColorfulBird_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 1
+      }
+    },
+    {
+      "id": "catbat",
+      "name": "Tombat",
+      "slug": "tombat",
+      "index": 52,
+      "icon": "T_CatBat_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Collection": 2,
+        "Mining": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "redflowerbird",
+      "name": "Tropicaw",
+      "slug": "tropicaw",
+      "index": 173,
+      "icon": "T_RedFlowerBird_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 5,
+        "Collection": 5
+      }
+    },
+    {
+      "id": "tentacleturtle",
+      "name": "Turtacle",
+      "slug": "turtacle",
+      "index": 37,
+      "icon": "T_TentacleTurtle_icon_normal",
+      "elements": [
+        "Water"
+      ],
+      "work": {
+        "Watering": 2,
+        "Mining": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "tentacleturtle_ground",
+      "name": "Turtacle Terra",
+      "slug": "turtacle-terra",
+      "index": 37,
+      "icon": "T_TentacleTurtle_Ground_icon_normal",
+      "elements": [
+        "Water",
+        "Earth"
+      ],
+      "work": {
+        "Watering": 2,
+        "Mining": 3,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "kirin",
+      "name": "Univolt",
+      "slug": "univolt",
+      "index": 54,
+      "icon": "T_Kirin_icon_normal",
+      "elements": [
+        "Electricity"
+      ],
+      "work": {
+        "GenerateElectricity": 3,
+        "Deforest": 1
+      }
+    },
+    {
+      "id": "kirin_ice",
+      "name": "Univolt Cryst",
+      "slug": "univolt-cryst",
+      "index": 54,
+      "icon": "T_Kirin_Ice_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Deforest": 3,
+        "Cool": 6
+      }
+    },
+    {
+      "id": "violetfairy",
+      "name": "Vaelet",
+      "slug": "vaelet",
+      "index": 66,
+      "icon": "T_VioletFairy_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 3,
+        "Collection": 3,
+        "ProductMedicine": 3,
+        "Transport": 2,
+        "MonsterFarm": 2
+      }
+    },
+    {
+      "id": "longcat",
+      "name": "Valentail",
+      "slug": "valentail",
+      "index": 162,
+      "icon": "T_LongCat_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    },
+    {
+      "id": "birddragon",
+      "name": "Vanwyrm",
+      "slug": "vanwyrm",
+      "index": 64,
+      "icon": "T_BirdDragon_icon_normal",
+      "elements": [
+        "Fire",
+        "Dark"
+      ],
+      "work": {
+        "EmitFlame": 2,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "birddragon_ice",
+      "name": "Vanwyrm Cryst",
+      "slug": "vanwyrm-cryst",
+      "index": 64,
+      "icon": "T_BirdDragon_Ice_icon_normal",
+      "elements": [
+        "Ice",
+        "Dark"
+      ],
+      "work": {
+        "Cool": 2,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "snakegirl",
+      "name": "Venusa",
+      "slug": "venusa",
+      "index": 178,
+      "icon": "T_SnakeGirl_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 6,
+        "Collection": 6,
+        "ProductMedicine": 5,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "grassrabbitman",
+      "name": "Verdash",
+      "slug": "verdash",
+      "index": 152,
+      "icon": "T_GrassRabbitMan_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 4,
+        "Handcraft": 5,
+        "Collection": 5,
+        "Deforest": 3,
+        "Transport": 3
+      }
+    },
+    {
+      "id": "cutefox",
+      "name": "Vixy",
+      "slug": "vixy",
+      "index": 6,
+      "icon": "T_CuteFox_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 1,
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "herculesbeetle",
+      "name": "Warsect",
+      "slug": "warsect",
+      "index": 113,
+      "icon": "T_HerculesBeetle_icon_normal",
+      "elements": [
+        "Earth",
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 3,
+        "Deforest": 4,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "herculesbeetle_ground",
+      "name": "Warsect Terra",
+      "slug": "warsect-terra",
+      "index": 113,
+      "icon": "T_HerculesBeetle_Ground_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "Handcraft": 2,
+        "Mining": 5,
+        "Transport": 5
+      }
+    },
+    {
+      "id": "icenarwhal",
+      "name": "Whalaska",
+      "slug": "whalaska",
+      "index": 151,
+      "icon": "T_IceNarwhal_icon_normal",
+      "elements": [
+        "Ice",
+        "Water"
+      ],
+      "work": {
+        "Watering": 5,
+        "Cool": 6
+      }
+    },
+    {
+      "id": "icenarwhal_fire",
+      "name": "Whalaska Ignis",
+      "slug": "whalaska-ignis",
+      "index": 151,
+      "icon": "T_IceNarwhal_Fire_icon_normal",
+      "elements": [
+        "Ice",
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 5,
+        "Cool": 6
+      }
+    },
+    {
+      "id": "ghostblackcat",
+      "name": "Wispaw",
+      "slug": "wispaw",
+      "index": 50,
+      "icon": "T_GhostBlackCat_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 2,
+        "Deforest": 1,
+        "ProductMedicine": 1,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "moonchild",
+      "name": "Wistella",
+      "slug": "wistella",
+      "index": 181,
+      "icon": "T_MoonChild_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Handcraft": 6,
+        "ProductMedicine": 6,
+        "Transport": 1
+      }
+    },
+    {
+      "id": "foxmage",
+      "name": "Wixen",
+      "slug": "wixen",
+      "index": 78,
+      "icon": "T_FoxMage_icon_normal",
+      "elements": [
+        "Fire"
+      ],
+      "work": {
+        "EmitFlame": 3,
+        "Handcraft": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "foxmage_dark",
+      "name": "Wixen Noct",
+      "slug": "wixen-noct",
+      "index": 78,
+      "icon": "T_FoxMage_Dark_icon_normal",
+      "elements": [
+        "Fire",
+        "Dark"
+      ],
+      "work": {
+        "EmitFlame": 4,
+        "Handcraft": 4,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "sweetssheep",
+      "name": "Woolipop",
+      "slug": "woolipop",
+      "index": 39,
+      "icon": "T_SweetsSheep_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "sweetssheep_ground",
+      "name": "Woolipop Terra",
+      "slug": "woolipop-terra",
+      "index": 39,
+      "icon": "T_SweetsSheep_Ground_icon_normal",
+      "elements": [
+        "Earth"
+      ],
+      "work": {
+        "MonsterFarm": 1
+      }
+    },
+    {
+      "id": "yeti",
+      "name": "Wumpo",
+      "slug": "wumpo",
+      "index": 134,
+      "icon": "T_Yeti_icon_normal",
+      "elements": [
+        "Ice"
+      ],
+      "work": {
+        "Handcraft": 3,
+        "Deforest": 5,
+        "Cool": 5,
+        "Transport": 6
+      }
+    },
+    {
+      "id": "yeti_grass",
+      "name": "Wumpo Botan",
+      "slug": "wumpo-botan",
+      "index": 134,
+      "icon": "T_Yeti_Grass_icon_normal",
+      "elements": [
+        "Leaf"
+      ],
+      "work": {
+        "Seeding": 3,
+        "Handcraft": 3,
+        "Deforest": 5,
+        "Transport": 6
+      }
+    },
+    {
+      "id": "whitealiendragon",
+      "name": "Xenogard",
+      "slug": "xenogard",
+      "index": 146,
+      "icon": "T_WhiteAlienDragon_icon_normal",
+      "elements": [
+        "Dragon"
+      ],
+      "work": {
+        "Mining": 4
+      }
+    },
+    {
+      "id": "darkmechadragon",
+      "name": "Xenolord",
+      "slug": "xenolord",
+      "index": 196,
+      "icon": "T_DarkMechaDragon_icon_normal",
+      "elements": [
+        "Dark",
+        "Dragon"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    },
+    {
+      "id": "darkalien",
+      "name": "Xenovader",
+      "slug": "xenovader",
+      "index": 145,
+      "icon": "T_DarkAlien_icon_normal",
+      "elements": [
+        "Dark"
+      ],
+      "work": {
+        "Deforest": 3,
+        "Transport": 2
+      }
+    },
+    {
+      "id": "guardiandog",
+      "name": "Yakumo",
+      "slug": "yakumo",
+      "index": 127,
+      "icon": "T_GuardianDog_icon_normal",
+      "elements": [
+        "Normal"
+      ],
+      "work": {
+        "Collection": 2
+      }
+    }
+  ]
+}

@@ -37,12 +37,35 @@ Source of truth is palworld.gg's own bundled Pal data. It is not a stable public
 it is a hashed Vite chunk, so the URL changes on every site rebuild. Rediscover it rather
 than hardcoding the hash:
 
-1. `curl -s https://palworld.gg/breeding-path` → find the `/_nuxt/*.js` entry chunk.
+1. `curl -s https://palworld.gg/breeding-path` → find the `/_nuxt/*.js` entry chunks.
 2. Grep the chunks for `../data/pals/en.json` → it maps to a hashed chunk name
    (was `CK2A4_hG.js`), which is an ES module exporting one object per Pal.
-3. Each object has `id`, `slug`, `name`, `combos`, `combiRank`, `isBoss`, `ignoreCombi`.
+3. Each object has `id`, `slug`, `name`, `index`, `icon`, `elements`, `work`, `combos`,
+   `combiRank`, `isBoss`, `ignoreCombi`, plus stats/skills/drops we do not use.
+4. The element and work → icon maps live in a *different* chunk; `refresh_pals.py` scans
+   all of them for both.
 
 Pals are exported under two aliases each, so dedupe by `id` before counting.
+
+Two parsing traps, both hit for real:
+
+- The data is minified JS, not JSON. Booleans are `!0`/`!1`, and a numeric regex that can
+  match a leading digit will silently truncate: an alternation starting with `[01]` reads
+  `index:139` as `1`. Match booleans first, then a *whole* number.
+- `index` is `-1` for the 11 Terraria crossover Pals (Eye of Cthulhu, the slimes) — they
+  have no Paldeck number. A `\d+` regex skips the minus and yields `None`. They must sort
+  last and render without a number, not as `#-1`.
+
+## Icons
+
+Vendored into `assets/` by `refresh_pals.py`, not hotlinked — the published page should not
+lean on palworld.gg's bandwidth or outlive their paths. ~320 PNGs, ~1.3 MB.
+
+- Pal icons: `assets/pals/<icon>.png`, from `/_ipx/q_80&s_60x60/images/full_palicon/<icon>.png`
+  (their resizer; 60×60 and ~3 KB, versus ~10 KB full-size). The `&` is part of the path.
+- Element/work icons: `assets/icons/<icon>.png`, from `/images/icons/<icon>.png`.
+
+Re-runs skip icons already on disk, so `refresh_pals.py` is cheap to repeat.
 
 The site's breedable set (its `297 / 297` counter) is:
 
@@ -67,8 +90,10 @@ that set, so a display-name → id map is unambiguous and safe to key the tracki
   be read as owned and a checkbox can never be read as wanted. A name in either section
   that isn't in `data/pals.json` is a hard error with its line number and a suggestion —
   never a silent skip, since a dropped name would quietly lengthen every breeding path.
-- `data/pals.json` — generated `{id, name, slug}` map. Do not hand-edit.
-- `refresh_pals.py` — regenerates `data/pals.json` from the site.
+- `data/pals.json` — generated: `{elements, work, pals[]}`, each Pal with `id`, `name`,
+  `slug`, `index`, `icon`, `elements`, `work`. Do not hand-edit.
+- `assets/` — generated icons (see below). Do not hand-edit.
+- `refresh_pals.py` — regenerates `data/pals.json` and `assets/` from the site.
 - `breeding_path.py` — parses `pals.md`, resolves names to ids, builds URLs. Owns
   `parse_md` / `load_owned` / `load_wanted` / `build_url`; also the single-Pal CLI.
 - `build_site.py` — generates `index.html` from those helpers. Import them rather than

@@ -45,6 +45,10 @@ To preview before pushing:
 python3 build_site.py && open index.html
 ```
 
+Each Pal shows its Paldeck number, elements, and work suitabilities with levels. You can
+filter by element or work type, and sort by name, number, element, or work level — sorting
+by work level while filtering on a work type gives you "best miners first".
+
 ## Scripts
 
 | | |

@@ -27,11 +27,16 @@ CHECKBOX = re.compile(r"^\s*[-*]\s*\[(?P<mark>[ xX])\]\s*(?P<name>.+?)\s*$")
 BULLET = re.compile(r"^\s*[-*]\s+(?!\[[ xX]\])(?P<name>.+?)\s*$")
 
 
-def load_pals() -> dict[str, str]:
+def load_data() -> dict:
+    """The generated Pal data: {"elements": ..., "work": ..., "pals": [...]}."""
     if not PALS_JSON.exists():
         sys.exit(f"{PALS_JSON} is missing; run: python3 refresh_pals.py")
-    pals = json.loads(PALS_JSON.read_text())
-    return {p["name"]: p["id"] for p in pals}
+    return json.loads(PALS_JSON.read_text())
+
+
+def load_pals() -> dict[str, str]:
+    """Display name -> internal id. Names are unique among breedable Pals."""
+    return {p["name"]: p["id"] for p in load_data()["pals"]}
 
 
 def parse_md() -> tuple[list[tuple[int, str]], list[tuple[int, str]]]:
