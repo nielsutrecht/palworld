@@ -1,7 +1,7 @@
 # Wanted
 
 - Ophydia
-- Renjishi
+- Petallia
 - Mycora
 
 # Pals I own
@@ -71,14 +71,14 @@
 - [x] Dumud Gild
 - [ ] Dupin
 - [ ] Dynamoff
-- [ ] Eidrolon
+- [x] Eidrolon
 - [ ] Eidrolon Ignis
 - [x] Eikthyrdeer
 - [ ] Eikthyrdeer Terra
 - [ ] Elgrove
 - [ ] Elgrove Cryst
 - [x] Elizabee
-- [ ] Elphidran
+- [x] Elphidran
 - [ ] Elphidran Aqua
 - [ ] Enchanted Sword
 - [ ] Eye of Cthulhu
@@ -113,7 +113,7 @@
 - [ ] Gorirat
 - [x] Gorirat Terra
 - [ ] Green Slime
-- [ ] Grintale
+- [x] Grintale
 - [ ] Grizzbolt
 - [x] Gumoss
 - [x] Hangyu
@@ -177,7 +177,7 @@
 - [x] Moldron
 - [ ] Moldron Cryst
 - [ ] Mossanda
-- [ ] Mossanda Lux
+- [x] Mossanda Lux
 - [x] Mozzarina
 - [x] Muffly
 - [x] Munchill
@@ -224,7 +224,7 @@
 - [ ] Reindrix
 - [x] Relaxaurus
 - [ ] Relaxaurus Lux
-- [ ] Renjishi
+- [x] Renjishi
 - [ ] Reptyro
 - [ ] Reptyro Cryst
 - [x] Ribbuny
@@ -244,7 +244,7 @@
 - [ ] Sibelyx Primo
 - [ ] Silvance
 - [ ] Silvegis
-- [ ] Skutlass
+- [x] Skutlass
 - [ ] Skutlass Ignis
 - [ ] Slowatt
 - [ ] Smokie
@@ -274,7 +274,7 @@
 - [ ] Tetroise 
 - [ ] Tetroise Primo
 - [x] Tocotoco
-- [ ] Tombat
+- [x] Tombat
 - [ ] Tropicaw
 - [x] Turtacle
 - [ ] Turtacle Terra
