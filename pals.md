@@ -2,6 +2,7 @@
 
 - Ophydia
 - Renjishi
+- Mycora
 
 # Pals I own
 
@@ -134,7 +135,7 @@
 - [ ] Jolthog
 - [ ] Jolthog Cryst
 - [x] Jormuntide
-- [ ] Jormuntide Ignis
+- [x] Jormuntide Ignis
 - [ ] Katress
 - [x] Katress Ignis
 - [x] Kelpsea
