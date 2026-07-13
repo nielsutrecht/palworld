@@ -75,7 +75,12 @@ PAGE = """<!doctype html>
   a:hover, a:focus-visible {{ border-color: var(--accent); outline: none; }}
   li.owned a {{ background: var(--owned); }}
 
-  img.pal {{ width: 40px; height: 40px; flex: none; image-rendering: -webkit-optimize-contrast; }}
+  /* Circular on a dark navy disc, as palworld.gg's own Pal list renders them. */
+  img.pal {{
+    width: 42px; height: 42px; flex: none; padding: 3px;
+    border-radius: 50%; background: #0b1d2c;
+    image-rendering: -webkit-optimize-contrast;
+  }}
   .body {{ min-width: 0; flex: 1; }}
   .top {{ display: flex; align-items: baseline; gap: .4rem; }}
   .name {{ font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
