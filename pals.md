@@ -1,7 +1,6 @@
 # Wanted
 
 - Ophydia
-- Eidrolon Ignis
 
 # Pals I own
 
@@ -71,7 +70,7 @@
 - [ ] Dupin
 - [ ] Dynamoff
 - [x] Eidrolon
-- [ ] Eidrolon Ignis
+- [x] Eidrolon Ignis
 - [x] Eikthyrdeer
 - [ ] Eikthyrdeer Terra
 - [ ] Elgrove
@@ -139,7 +138,7 @@
 - [x] Katress Ignis
 - [x] Kelpsea
 - [x] Kelpsea Ignis
-- [ ] Kikit
+- [x] Kikit
 - [ ] Killamari
 - [x] Killamari Primo
 - [ ] Kingpaca
@@ -254,7 +253,7 @@
 - [ ] Solenne
 - [ ] Solmora
 - [ ] Solmora Lux
-- [ ] Sootseer
+- [x] Sootseer
 - [ ] Souffline
 - [x] Sparkit
 - [ ] Splatterina
@@ -276,7 +275,7 @@
 - [x] Tombat
 - [ ] Tropicaw
 - [x] Turtacle
-- [ ] Turtacle Terra
+- [x] Turtacle Terra
 - [x] Univolt
 - [ ] Univolt Cryst
 - [ ] Vaelet
@@ -293,7 +292,7 @@
 - [x] Wispaw
 - [ ] Wistella
 - [x] Wixen
-- [ ] Wixen Noct
+- [x] Wixen Noct
 - [x] Woolipop
 - [ ] Woolipop Terra
 - [ ] Wumpo
