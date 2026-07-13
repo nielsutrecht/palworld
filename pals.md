@@ -1,7 +1,7 @@
 # Wanted
 
 - Ophydia
-- Pyrin
+- Renjishi
 
 # Pals I own
 
@@ -211,7 +211,7 @@
 - [x] Puffolt
 - [x] Pupperai
 - [ ] Purple Slime
-- [ ] Pyrin
+- [x] Pyrin
 - [x] Pyrin Noct
 - [ ] Quivern
 - [ ] Quivern Botan
