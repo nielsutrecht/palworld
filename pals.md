@@ -1,7 +1,7 @@
 # Wanted
 
 - Ophydia
-- Mycora
+- Eidrolon Ignis
 
 # Pals I own
 
@@ -180,7 +180,7 @@
 - [x] Mozzarina
 - [x] Muffly
 - [x] Munchill
-- [ ] Mycora
+- [x] Mycora
 - [ ] Necromus
 - [x] Needoll
 - [x] Needoll Noct
