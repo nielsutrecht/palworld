@@ -2,6 +2,11 @@
 
 - Astegon
 - Moldron Cryst
+- Flaracle
+- Solmora
+- Jelliette
+- Gloopie
+- Whalaska
 
 # Pals I own
 
@@ -279,7 +284,7 @@
 - [x] Turtacle Terra
 - [x] Univolt
 - [ ] Univolt Cryst
-- [ ] Vaelet
+- [x] Vaelet
 - [ ] Valentail
 - [x] Vanwyrm
 - [ ] Vanwyrm Cryst

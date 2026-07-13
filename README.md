@@ -87,3 +87,8 @@ that would rot.
 ---
 
 Not affiliated with palworld.gg or Pocketpair. Just a static page of links.
+
+## Links
+
+* [Palworld.gg](https://palworld.gg/)
+* [Pal Locations](https://genshinlab.com/palworld-map-all-pals-location/)
