@@ -34,21 +34,22 @@ Everything is driven by [`pals.md`](pals.md), the only file edited by hand:
 `# Wanted` is a wishlist, in priority order — it gets its own section at the top of the
 page. `# Pals I own` is the full roster; tick a Pal when you catch or breed it.
 
-Then rebuild the page and commit:
+**Editing `pals.md` is the whole workflow.** Commit it, push, and GitHub Actions rebuilds
+and redeploys the page. `index.html` is generated, not committed — the list of Pals you own
+is baked into all 297 links, so every link changes whenever you gain a single Pal, and
+keeping a copy in the repo just invites it to go stale.
+
+To preview before pushing:
 
 ```sh
-python3 build_site.py
+python3 build_site.py && open index.html
 ```
-
-The list of Pals you own is baked into all 297 links, so **every link changes whenever you
-gain a Pal** — `index.html` has to be regenerated and committed alongside any `pals.md`
-edit, or the published page will quietly serve stale breeding paths.
 
 ## Scripts
 
 | | |
 | --- | --- |
-| `build_site.py` | Regenerates `index.html`. Run after every `pals.md` edit. |
+| `build_site.py` | Generates `index.html`. CI runs this; locally it's just for previewing. |
 | `breeding_path.py <Pal>` | Prints the breeding-path URL for a single Pal. `--open` opens it. |
 | `refresh_pals.py` | Regenerates `data/pals.json` from palworld.gg. Only needed when a Palworld update adds Pals. |
 

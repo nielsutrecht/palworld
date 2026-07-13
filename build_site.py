@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """Generate index.html: one breeding-path link per Pal, carrying the Pals I own.
 
-    python3 build_site.py
+    python3 build_site.py                # write ./index.html, to preview locally
+    python3 build_site.py --out _site    # write into a dir, as CI does before deploying
 
 Every Pal in data/pals.json gets a link with itself as the target and the Pals
 checked off in pals.md as the `own` list. Published via GitHub Pages.
 """
 
+import argparse
 import html
 import sys
 from pathlib import Path
@@ -14,7 +16,6 @@ from pathlib import Path
 from breeding_path import build_url, load_owned, load_pals, load_wanted
 
 ROOT = Path(__file__).parent
-OUT = ROOT / "index.html"
 
 PAGE = """<!doctype html>
 <meta charset="utf-8">
@@ -148,6 +149,18 @@ def card(name: str, pal_id: str, owned: list[str]) -> str:
 
 
 def main() -> None:
+    ap = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
+    ap.add_argument(
+        "--out",
+        type=Path,
+        default=ROOT,
+        metavar="DIR",
+        help="directory to write index.html into (default: repo root)",
+    )
+    args = ap.parse_args()
+
     name_to_id = load_pals()
     owned = load_owned(name_to_id)
     wanted = load_wanted(name_to_id)
@@ -165,7 +178,9 @@ def main() -> None:
         card(name, pal_id, owned) for name, pal_id in sorted(name_to_id.items())
     )
 
-    OUT.write_text(
+    args.out.mkdir(parents=True, exist_ok=True)
+    out = args.out / "index.html"
+    out.write_text(
         PAGE.format(
             owned_count=len(owned),
             total=len(name_to_id),
@@ -174,7 +189,7 @@ def main() -> None:
         )
     )
     print(
-        f"wrote {OUT}: {len(name_to_id)} links, {len(owned)} owned, {len(wanted)} wanted",
+        f"wrote {out}: {len(name_to_id)} links, {len(owned)} owned, {len(wanted)} wanted",
         file=sys.stderr,
     )
 

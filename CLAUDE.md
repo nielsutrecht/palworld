@@ -74,19 +74,24 @@ that set, so a display-name → id map is unambiguous and safe to key the tracki
 - `build_site.py` — generates `index.html` from those helpers. Import them rather than
   re-parsing `pals.md` or re-encoding URLs; the comma encoding in particular is load-bearing
   (the site's own links keep commas literal, so `urlencode` is called with `safe=","`).
-- `index.html` — generated, committed, and served by GitHub Pages. Do not hand-edit.
+  `--out DIR` writes elsewhere; CI uses it to build into `_site`.
+- `index.html` — generated, gitignored, built by CI. Run `build_site.py` to preview locally.
 
 ## GitHub Pages
 
-Served from the repo root of `main`: https://nielsutrecht.github.io/palworld/
-The repo is public because Pages on a private repo needs a paid plan.
+https://nielsutrecht.github.io/palworld/ — built and deployed by
+`.github/workflows/pages.yml` on every push to `main`. The Pages source is **GitHub
+Actions**, not a branch. The repo is public because Pages on a private repo needs a paid
+plan.
 
-Nothing rebuilds `index.html` automatically. Editing `pals.md` without rerunning
-`build_site.py` publishes a page whose links still carry the *old* owned list — it looks
-fine and is silently wrong. **This has already happened once** (a Pal was ticked between a
-build and a commit). Always rebuild and commit `index.html` in the same commit as a
-`pals.md` edit. A GitHub Actions workflow to do this on push has been offered and not yet
-taken up.
+`index.html` is generated and **deliberately not committed** (it is in `.gitignore`). CI
+runs `build_site.py --out _site` and deploys that. Editing `pals.md` is therefore the only
+step.
+
+This replaced a committed-`index.html` setup that silently served stale breeding paths
+whenever `pals.md` was edited without rerunning `build_site.py` — which happened three
+times in the first day. Do not reintroduce a committed `index.html`: a checked-in copy that
+nothing serves is exactly the trap that caused it.
 
 ## Conventions
 
