@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "domearmordragon",
+    "name": "Aegidron",
+    "slug": "aegidron"
+  },
+  {
+    "id": "clionetwins",
+    "name": "Amione",
+    "slug": "amione"
+  },
+  {
+    "id": "anubis",
+    "name": "Anubis",
+    "slug": "anubis"
+  },
+  {
+    "id": "flamebuffalo",
+    "name": "Arsox",
+    "slug": "arsox"
+  },
+  {
+    "id": "blackmetaldragon",
+    "name": "Astegon",
+    "slug": "astegon"
+  },
+  {
+    "id": "bluethunderhorse",
+    "name": "Azurmane",
+    "slug": "azurmane"
+  },
+  {
+    "id": "bluedragon",
+    "name": "Azurobe",
+    "slug": "azurobe"
+  },
+  {
+    "id": "bluedragon_ice",
+    "name": "Azurobe Cryst",
+    "slug": "azurobe-cryst"
+  },
+  {
+    "id": "onighostgirl",
+    "name": "Bakemi",
+    "slug": "bakemi"
+  },
+  {
+    "id": "snowtigerbeastman",
+    "name": "Bastigor",
+    "slug": "bastigor"
+  },
+  {
+    "id": "thunderbird",
+    "name": "Beakon",
+    "slug": "beakon"
+  },
+  {
+    "id": "thunderbird_ice",
+    "name": "Beakon Cryst",
+    "slug": "beakon-cryst"
+  },
+  {
+    "id": "soldierbee",
+    "name": "Beegarde",
+    "slug": "beegarde"
+  },
+  {
+    "id": "nightlady",
+    "name": "Bellanoir",
+    "slug": "bellanoir"
+  },
+  {
+    "id": "nightlady_dark",
+    "name": "Bellanoir Libero",
+    "slug": "bellanoir-libero"
+  },
+  {
+    "id": "kingbahamut",
+    "name": "Blazamut",
+    "slug": "blazamut"
+  },
+  {
+    "id": "kingbahamut_dragon",
+    "name": "Blazamut Ryu",
+    "slug": "blazamut-ryu"
+  },
+  {
+    "id": "manticore",
+    "name": "Blazehowl",
+    "slug": "blazehowl"
+  },
+  {
+    "id": "manticore_dark",
+    "name": "Blazehowl Noct",
+    "slug": "blazehowl-noct"
+  },
+  {
+    "id": "yakushimamonster001_blue",
+    "name": "Blue Slime",
+    "slug": "blue-slime"
+  },
+  {
+    "id": "plesiosaur",
+    "name": "Braloha",
+    "slug": "braloha"
+  },
+  {
+    "id": "littlebriarrose",
+    "name": "Bristla",
+    "slug": "bristla"
+  },
+  {
+    "id": "sakurasaurus",
+    "name": "Broncherry",
+    "slug": "broncherry"
+  },
+  {
+    "id": "sakurasaurus_water",
+    "name": "Broncherry Aqua",
+    "slug": "broncherry-aqua"
+  },
+  {
+    "id": "sumodog",
+    "name": "Bulldosu",
+    "slug": "bulldosu"
+  },
+  {
+    "id": "ronin",
+    "name": "Bushi",
+    "slug": "bushi"
+  },
+  {
+    "id": "ronin_dark",
+    "name": "Bushi Noct",
+    "slug": "bushi-noct"
+  },
+  {
+    "id": "berrygoat",
+    "name": "Caprity",
+    "slug": "caprity"
+  },
+  {
+    "id": "berrygoat_dark",
+    "name": "Caprity Noct",
+    "slug": "caprity-noct"
+  },
+  {
+    "id": "venusflytrap",
+    "name": "Carnibora",
+    "slug": "carnibora"
+  },
+  {
+    "id": "pinkcat",
+    "name": "Cattiva",
+    "slug": "cattiva"
+  },
+  {
+    "id": "yakushimamonster003",
+    "name": "Cave Bat",
+    "slug": "cave-bat"
+  },
+  {
+    "id": "darkcrow",
+    "name": "Cawgnito",
+    "slug": "cawgnito"
+  },
+  {
+    "id": "flyingmanta",
+    "name": "Celaray",
+    "slug": "celaray"
+  },
+  {
+    "id": "flyingmanta_thunder",
+    "name": "Celaray Lux",
+    "slug": "celaray-lux"
+  },
+  {
+    "id": "whitedeer",
+    "name": "Celesdir",
+    "slug": "celesdir"
+  },
+  {
+    "id": "whitedeer_dark",
+    "name": "Celesdir Noct",
+    "slug": "celesdir-noct"
+  },
+  {
+    "id": "chickenpal",
+    "name": "Chikipi",
+    "slug": "chikipi"
+  },
+  {
+    "id": "weaseldragon",
+    "name": "Chillet",
+    "slug": "chillet"
+  },
+  {
+    "id": "weaseldragon_fire",
+    "name": "Chillet Ignis",
+    "slug": "chillet-ignis"
+  },
+  {
+    "id": "cutebutterfly",
+    "name": "Cinnamoth",
+    "slug": "cinnamoth"
+  },
+  {
+    "id": "cloverfairy",
+    "name": "Clovee",
+    "slug": "clovee"
+  },
+  {
+    "id": "woolfox",
+    "name": "Cremis",
+    "slug": "cremis"
+  },
+  {
+    "id": "kendofrog",
+    "name": "Croajiro",
+    "slug": "croajiro"
+  },
+  {
+    "id": "kendofrog_dark",
+    "name": "Croajiro Noct",
+    "slug": "croajiro-noct"
+  },
+  {
+    "id": "whitetiger",
+    "name": "Cryolinx",
+    "slug": "cryolinx"
+  },
+  {
+    "id": "whitetiger_ground",
+    "name": "Cryolinx Terra",
+    "slug": "cryolinx-terra"
+  },
+  {
+    "id": "dreamdemon",
+    "name": "Daedream",
+    "slug": "daedream"
+  },
+  {
+    "id": "flowerprince",
+    "name": "Dandilord",
+    "slug": "dandilord"
+  },
+  {
+    "id": "featherostrich",
+    "name": "Dazemu",
+    "slug": "dazemu"
+  },
+  {
+    "id": "raijindaughter",
+    "name": "Dazzi",
+    "slug": "dazzi"
+  },
+  {
+    "id": "raijindaughter_water",
+    "name": "Dazzi Noct",
+    "slug": "dazzi-noct"
+  },
+  {
+    "id": "yakushimaboss001_small",
+    "name": "Demon Eye",
+    "slug": "demon-eye"
+  },
+  {
+    "id": "negativekoala",
+    "name": "Depresso",
+    "slug": "depresso"
+  },
+  {
+    "id": "drillgame",
+    "name": "Digtoise",
+    "slug": "digtoise"
+  },
+  {
+    "id": "flowerdinosaur",
+    "name": "Dinossom",
+    "slug": "dinossom"
+  },
+  {
+    "id": "flowerdinosaur_electric",
+    "name": "Dinossom Lux",
+    "slug": "dinossom-lux"
+  },
+  {
+    "id": "garm",
+    "name": "Direhowl",
+    "slug": "direhowl"
+  },
+  {
+    "id": "sifudog",
+    "name": "Dogen",
+    "slug": "dogen"
+  },
+  {
+    "id": "grassgolem",
+    "name": "Dualith",
+    "slug": "dualith"
+  },
+  {
+    "id": "grassgolem_dark",
+    "name": "Dualith Noct",
+    "slug": "dualith-noct"
+  },
+  {
+    "id": "lazycatfish",
+    "name": "Dumud",
+    "slug": "dumud"
+  },
+  {
+    "id": "lazycatfish_gold",
+    "name": "Dumud Gild",
+    "slug": "dumud-gild"
+  },
+  {
+    "id": "clownrabbit",
+    "name": "Dupin",
+    "slug": "dupin"
+  },
+  {
+    "id": "thunderfluffybird",
+    "name": "Dynamoff",
+    "slug": "dynamoff"
+  },
+  {
+    "id": "ghostdragon",
+    "name": "Eidrolon",
+    "slug": "eidrolon"
+  },
+  {
+    "id": "ghostdragon_fire",
+    "name": "Eidrolon Ignis",
+    "slug": "eidrolon-ignis"
+  },
+  {
+    "id": "deer",
+    "name": "Eikthyrdeer",
+    "slug": "eikthyrdeer"
+  },
+  {
+    "id": "deer_ground",
+    "name": "Eikthyrdeer Terra",
+    "slug": "eikthyrdeer-terra"
+  },
+  {
+    "id": "grassminotaur",
+    "name": "Elgrove",
+    "slug": "elgrove"
+  },
+  {
+    "id": "grassminotaur_ice",
+    "name": "Elgrove Cryst",
+    "slug": "elgrove-cryst"
+  },
+  {
+    "id": "queenbee",
+    "name": "Elizabee",
+    "slug": "elizabee"
+  },
+  {
+    "id": "fairydragon",
+    "name": "Elphidran",
+    "slug": "elphidran"
+  },
+  {
+    "id": "fairydragon_water",
+    "name": "Elphidran Aqua",
+    "slug": "elphidran-aqua"
+  },
+  {
+    "id": "yakushimamonster002",
+    "name": "Enchanted Sword",
+    "slug": "enchanted-sword"
+  },
+  {
+    "id": "yakushimaboss001",
+    "name": "Eye of Cthulhu",
+    "slug": "eye-of-cthulhu"
+  },
+  {
+    "id": "horus",
+    "name": "Faleris",
+    "slug": "faleris"
+  },
+  {
+    "id": "horus_water",
+    "name": "Faleris Aqua",
+    "slug": "faleris-aqua"
+  },
+  {
+    "id": "catvampire",
+    "name": "Felbat",
+    "slug": "felbat"
+  },
+  {
+    "id": "fengyundeeper",
+    "name": "Fenglope",
+    "slug": "fenglope"
+  },
+  {
+    "id": "fengyundeeper_electric",
+    "name": "Fenglope Lux",
+    "slug": "fenglope-lux"
+  },
+  {
+    "id": "stuffedshark",
+    "name": "Finsider",
+    "slug": "finsider"
+  },
+  {
+    "id": "stuffedshark_fire",
+    "name": "Finsider Ignis",
+    "slug": "finsider-ignis"
+  },
+  {
+    "id": "lavagirl",
+    "name": "Flambelle",
+    "slug": "flambelle"
+  },
+  {
+    "id": "foxexorcist",
+    "name": "Flaracle",
+    "slug": "flaracle"
+  },
+  {
+    "id": "flowerrabbit",
+    "name": "Flopie",
+    "slug": "flopie"
+  },
+  {
+    "id": "icefox",
+    "name": "Foxcicle",
+    "slug": "foxcicle"
+  },
+  {
+    "id": "kitsunebi",
+    "name": "Foxparks",
+    "slug": "foxparks"
+  },
+  {
+    "id": "kitsunebi_ice",
+    "name": "Foxparks Cryst",
+    "slug": "foxparks-cryst"
+  },
+  {
+    "id": "icehorse",
+    "name": "Frostallion",
+    "slug": "frostallion"
+  },
+  {
+    "id": "icehorse_dark",
+    "name": "Frostallion Noct",
+    "slug": "frostallion-noct"
+  },
+  {
+    "id": "snowpeafowl",
+    "name": "Frostplume",
+    "slug": "frostplume"
+  },
+  {
+    "id": "blueplatypus",
+    "name": "Fuack",
+    "slug": "fuack"
+  },
+  {
+    "id": "blueplatypus_fire",
+    "name": "Fuack Ignis",
+    "slug": "fuack-ignis"
+  },
+  {
+    "id": "cutemole",
+    "name": "Fuddler",
+    "slug": "fuddler"
+  },
+  {
+    "id": "eagle",
+    "name": "Galeclaw",
+    "slug": "galeclaw"
+  },
+  {
+    "id": "ghostanglerfish",
+    "name": "Ghangler",
+    "slug": "ghangler"
+  },
+  {
+    "id": "ghostanglerfish_fire",
+    "name": "Ghangler Ignis",
+    "slug": "ghangler-ignis"
+  },
+  {
+    "id": "goldenhorse",
+    "name": "Gildane",
+    "slug": "gildane"
+  },
+  {
+    "id": "mummypal",
+    "name": "Gildra",
+    "slug": "gildra"
+  },
+  {
+    "id": "octopusgirl",
+    "name": "Gloopie",
+    "slug": "gloopie"
+  },
+  {
+    "id": "octopusgirl_neutral",
+    "name": "Gloopie Primo",
+    "slug": "gloopie-primo"
+  },
+  {
+    "id": "sharkkid",
+    "name": "Gobfin",
+    "slug": "gobfin"
+  },
+  {
+    "id": "sharkkid_fire",
+    "name": "Gobfin Ignis",
+    "slug": "gobfin-ignis"
+  },
+  {
+    "id": "gorilla",
+    "name": "Gorirat",
+    "slug": "gorirat"
+  },
+  {
+    "id": "gorilla_ground",
+    "name": "Gorirat Terra",
+    "slug": "gorirat-terra"
+  },
+  {
+    "id": "yakushimamonster001",
+    "name": "Green Slime",
+    "slug": "green-slime"
+  },
+  {
+    "id": "naughtycat",
+    "name": "Grintale",
+    "slug": "grintale"
+  },
+  {
+    "id": "elecpanda",
+    "name": "Grizzbolt",
+    "slug": "grizzbolt"
+  },
+  {
+    "id": "plantslime",
+    "name": "Gumoss",
+    "slug": "gumoss"
+  },
+  {
+    "id": "windchimes",
+    "name": "Hangyu",
+    "slug": "hangyu"
+  },
+  {
+    "id": "windchimes_ice",
+    "name": "Hangyu Cryst",
+    "slug": "hangyu-cryst"
+  },
+  {
+    "id": "legenddeer",
+    "name": "Hartalis",
+    "slug": "hartalis"
+  },
+  {
+    "id": "hadesbird",
+    "name": "Helzephyr",
+    "slug": "helzephyr"
+  },
+  {
+    "id": "hadesbird_electric",
+    "name": "Helzephyr Lux",
+    "slug": "helzephyr-lux"
+  },
+  {
+    "id": "leafmomonga",
+    "name": "Herbil",
+    "slug": "herbil"
+  },
+  {
+    "id": "wizardowl",
+    "name": "Hoocrates",
+    "slug": "hoocrates"
+  },
+  {
+    "id": "hoodghost",
+    "name": "Hoodle",
+    "slug": "hoodle"
+  },
+  {
+    "id": "icewitch",
+    "name": "Icelyn",
+    "slug": "icelyn"
+  },
+  {
+    "id": "yakushimamonster003_purple",
+    "name": "Illuminant Bat",
+    "slug": "illuminant-bat"
+  },
+  {
+    "id": "yakushimamonster001_pink",
+    "name": "Illuminant Slime",
+    "slug": "illuminant-slime"
+  },
+  {
+    "id": "baphomet",
+    "name": "Incineram",
+    "slug": "incineram"
+  },
+  {
+    "id": "baphomet_dark",
+    "name": "Incineram Noct",
+    "slug": "incineram-noct"
+  },
+  {
+    "id": "jellyfishfairy",
+    "name": "Jelliette",
+    "slug": "jelliette"
+  },
+  {
+    "id": "jellyfishghost",
+    "name": "Jellroy",
+    "slug": "jellroy"
+  },
+  {
+    "id": "jetdragon",
+    "name": "Jetragon",
+    "slug": "jetragon"
+  },
+  {
+    "id": "hedgehog",
+    "name": "Jolthog",
+    "slug": "jolthog"
+  },
+  {
+    "id": "hedgehog_ice",
+    "name": "Jolthog Cryst",
+    "slug": "jolthog-cryst"
+  },
+  {
+    "id": "umihebi",
+    "name": "Jormuntide",
+    "slug": "jormuntide"
+  },
+  {
+    "id": "umihebi_fire",
+    "name": "Jormuntide Ignis",
+    "slug": "jormuntide-ignis"
+  },
+  {
+    "id": "catmage",
+    "name": "Katress",
+    "slug": "katress"
+  },
+  {
+    "id": "catmage_fire",
+    "name": "Katress Ignis",
+    "slug": "katress-ignis"
+  },
+  {
+    "id": "kelpie",
+    "name": "Kelpsea",
+    "slug": "kelpsea"
+  },
+  {
+    "id": "kelpie_fire",
+    "name": "Kelpsea Ignis",
+    "slug": "kelpsea-ignis"
+  },
+  {
+    "id": "smallarmadillo",
+    "name": "Kikit",
+    "slug": "kikit"
+  },
+  {
+    "id": "negativeoctopus",
+    "name": "Killamari",
+    "slug": "killamari"
+  },
+  {
+    "id": "negativeoctopus_neutral",
+    "name": "Killamari Primo",
+    "slug": "killamari-primo"
+  },
+  {
+    "id": "kingalpaca",
+    "name": "Kingpaca",
+    "slug": "kingpaca"
+  },
+  {
+    "id": "kingalpaca_ice",
+    "name": "Kingpaca Cryst",
+    "slug": "kingpaca-cryst"
+  },
+  {
+    "id": "amaterasuwolf",
+    "name": "Kitsun",
+    "slug": "kitsun"
+  },
+  {
+    "id": "amaterasuwolf_dark",
+    "name": "Kitsun Noct",
+    "slug": "kitsun-noct"
+  },
+  {
+    "id": "winggolem",
+    "name": "Knocklem",
+    "slug": "knocklem"
+  },
+  {
+    "id": "winggolem_fire",
+    "name": "Knocklem Ignis",
+    "slug": "knocklem-ignis"
+  },
+  {
+    "id": "sheepball",
+    "name": "Lamball",
+    "slug": "lamball"
+  },
+  {
+    "id": "brownrabbit",
+    "name": "Lapiron",
+    "slug": "lapiron"
+  },
+  {
+    "id": "sleeverabbit",
+    "name": "Lapure",
+    "slug": "lapure"
+  },
+  {
+    "id": "pandagirl",
+    "name": "Leafan",
+    "slug": "leafan"
+  },
+  {
+    "id": "lizardman",
+    "name": "Leezpunk",
+    "slug": "leezpunk"
+  },
+  {
+    "id": "lizardman_fire",
+    "name": "Leezpunk Ignis",
+    "slug": "leezpunk-ignis"
+  },
+  {
+    "id": "carbunclo",
+    "name": "Lifmunk",
+    "slug": "lifmunk"
+  },
+  {
+    "id": "lanternbutler",
+    "name": "Loomen",
+    "slug": "loomen"
+  },
+  {
+    "id": "werewolf",
+    "name": "Loupmoon",
+    "slug": "loupmoon"
+  },
+  {
+    "id": "werewolf_ice",
+    "name": "Loupmoon Cryst",
+    "slug": "loupmoon-cryst"
+  },
+  {
+    "id": "pinklizard",
+    "name": "Lovander",
+    "slug": "lovander"
+  },
+  {
+    "id": "leafprincess",
+    "name": "Lullu",
+    "slug": "lullu"
+  },
+  {
+    "id": "mutant",
+    "name": "Lunaris",
+    "slug": "lunaris"
+  },
+  {
+    "id": "lilyqueen",
+    "name": "Lyleen",
+    "slug": "lyleen"
+  },
+  {
+    "id": "lilyqueen_dark",
+    "name": "Lyleen Noct",
+    "slug": "lyleen-noct"
+  },
+  {
+    "id": "darkflamefox",
+    "name": "Majex",
+    "slug": "majex"
+  },
+  {
+    "id": "grassmammoth",
+    "name": "Mammorest",
+    "slug": "mammorest"
+  },
+  {
+    "id": "grassmammoth_ice",
+    "name": "Mammorest Cryst",
+    "slug": "mammorest-cryst"
+  },
+  {
+    "id": "ghostbeast",
+    "name": "Maraith",
+    "slug": "maraith"
+  },
+  {
+    "id": "bastet",
+    "name": "Mau",
+    "slug": "mau"
+  },
+  {
+    "id": "bastet_ice",
+    "name": "Mau Cryst",
+    "slug": "mau-cryst"
+  },
+  {
+    "id": "alpaca",
+    "name": "Melpaca",
+    "slug": "melpaca"
+  },
+  {
+    "id": "darkscorpion",
+    "name": "Menasting",
+    "slug": "menasting"
+  },
+  {
+    "id": "darkscorpion_ground",
+    "name": "Menasting Terra",
+    "slug": "menasting-terra"
+  },
+  {
+    "id": "mimicdog",
+    "name": "Mimog",
+    "slug": "mimog"
+  },
+  {
+    "id": "volcanodragon",
+    "name": "Moldron",
+    "slug": "moldron"
+  },
+  {
+    "id": "volcanodragon_ice",
+    "name": "Moldron Cryst",
+    "slug": "moldron-cryst"
+  },
+  {
+    "id": "grasspanda",
+    "name": "Mossanda",
+    "slug": "mossanda"
+  },
+  {
+    "id": "grasspanda_electric",
+    "name": "Mossanda Lux",
+    "slug": "mossanda-lux"
+  },
+  {
+    "id": "cowpal",
+    "name": "Mozzarina",
+    "slug": "mozzarina"
+  },
+  {
+    "id": "fluffybird",
+    "name": "Muffly",
+    "slug": "muffly"
+  },
+  {
+    "id": "icecrocodile",
+    "name": "Munchill",
+    "slug": "munchill"
+  },
+  {
+    "id": "mushroomlady",
+    "name": "Mycora",
+    "slug": "mycora"
+  },
+  {
+    "id": "blackcentaur",
+    "name": "Necromus",
+    "slug": "necromus"
+  },
+  {
+    "id": "cactusdoll",
+    "name": "Needoll",
+    "slug": "needoll"
+  },
+  {
+    "id": "cactusdoll_dark",
+    "name": "Needoll Noct",
+    "slug": "needoll-noct"
+  },
+  {
+    "id": "poseidonorca",
+    "name": "Neptilius",
+    "slug": "neptilius"
+  },
+  {
+    "id": "ghostrabbit",
+    "name": "Nitemary",
+    "slug": "nitemary"
+  },
+  {
+    "id": "ghostrabbit_grass",
+    "name": "Nitemary Botan",
+    "slug": "nitemary-botan"
+  },
+  {
+    "id": "hawkbird",
+    "name": "Nitewing",
+    "slug": "nitewing"
+  },
+  {
+    "id": "nightfox",
+    "name": "Nox",
+    "slug": "nox"
+  },
+  {
+    "id": "badcatgirl",
+    "name": "Nyafia",
+    "slug": "nyafia"
+  },
+  {
+    "id": "mysterymask",
+    "name": "Omascul",
+    "slug": "omascul"
+  },
+  {
+    "id": "lotusdragon",
+    "name": "Ophydia",
+    "slug": "ophydia"
+  },
+  {
+    "id": "thunderdragonman",
+    "name": "Orserk",
+    "slug": "orserk"
+  },
+  {
+    "id": "saintcentaur",
+    "name": "Paladius",
+    "slug": "paladius"
+  },
+  {
+    "id": "tropicalostrich",
+    "name": "Palumba",
+    "slug": "palumba"
+  },
+  {
+    "id": "penguin",
+    "name": "Pengullet",
+    "slug": "pengullet"
+  },
+  {
+    "id": "penguin_electric",
+    "name": "Pengullet Lux",
+    "slug": "pengullet-lux"
+  },
+  {
+    "id": "captainpenguin",
+    "name": "Penking",
+    "slug": "penking"
+  },
+  {
+    "id": "captainpenguin_black",
+    "name": "Penking Lux",
+    "slug": "penking-lux"
+  },
+  {
+    "id": "flowerdoll",
+    "name": "Petallia",
+    "slug": "petallia"
+  },
+  {
+    "id": "flowerdoll_fire",
+    "name": "Petallia Ignis",
+    "slug": "petallia-ignis"
+  },
+  {
+    "id": "rockbeast",
+    "name": "Pierdon",
+    "slug": "pierdon"
+  },
+  {
+    "id": "rockbeast_ice",
+    "name": "Pierdon Cryst",
+    "slug": "pierdon-cryst"
+  },
+  {
+    "id": "iceseal",
+    "name": "Polapup",
+    "slug": "polapup"
+  },
+  {
+    "id": "iceseal_ground",
+    "name": "Polapup Terra",
+    "slug": "polapup-terra"
+  },
+  {
+    "id": "scorpionman",
+    "name": "Prixter",
+    "slug": "prixter"
+  },
+  {
+    "id": "scorpionman_electric",
+    "name": "Prixter Lux",
+    "slug": "prixter-lux"
+  },
+  {
+    "id": "blueberryfairy",
+    "name": "Prunelia",
+    "slug": "prunelia"
+  },
+  {
+    "id": "elecpomeranian",
+    "name": "Puffolt",
+    "slug": "puffolt"
+  },
+  {
+    "id": "samuraidog",
+    "name": "Pupperai",
+    "slug": "pupperai"
+  },
+  {
+    "id": "yakushimamonster001_purple",
+    "name": "Purple Slime",
+    "slug": "purple-slime"
+  },
+  {
+    "id": "firekirin",
+    "name": "Pyrin",
+    "slug": "pyrin"
+  },
+  {
+    "id": "firekirin_dark",
+    "name": "Pyrin Noct",
+    "slug": "pyrin-noct"
+  },
+  {
+    "id": "skydragon",
+    "name": "Quivern",
+    "slug": "quivern"
+  },
+  {
+    "id": "skydragon_grass",
+    "name": "Quivern Botan",
+    "slug": "quivern-botan"
+  },
+  {
+    "id": "redarmorbird",
+    "name": "Ragnahawk",
+    "slug": "ragnahawk"
+  },
+  {
+    "id": "yakushimamonster001_rainbow",
+    "name": "Rainbow Slime",
+    "slug": "rainbow-slime"
+  },
+  {
+    "id": "thunderdog",
+    "name": "Rayhound",
+    "slug": "rayhound"
+  },
+  {
+    "id": "thunderdog_ice",
+    "name": "Rayhound Cryst",
+    "slug": "rayhound-cryst"
+  },
+  {
+    "id": "yakushimamonster001_red",
+    "name": "Red Slime",
+    "slug": "red-slime"
+  },
+  {
+    "id": "icedeer",
+    "name": "Reindrix",
+    "slug": "reindrix"
+  },
+  {
+    "id": "lazydragon",
+    "name": "Relaxaurus",
+    "slug": "relaxaurus"
+  },
+  {
+    "id": "lazydragon_electric",
+    "name": "Relaxaurus Lux",
+    "slug": "relaxaurus-lux"
+  },
+  {
+    "id": "kabukiman",
+    "name": "Renjishi",
+    "slug": "renjishi"
+  },
+  {
+    "id": "volcanicmonster",
+    "name": "Reptyro",
+    "slug": "reptyro"
+  },
+  {
+    "id": "volcanicmonster_ice",
+    "name": "Reptyro Cryst",
+    "slug": "reptyro-cryst"
+  },
+  {
+    "id": "pinkrabbit",
+    "name": "Ribbuny",
+    "slug": "ribbuny"
+  },
+  {
+    "id": "pinkrabbit_grass",
+    "name": "Ribbuny Botan",
+    "slug": "ribbuny-botan"
+  },
+  {
+    "id": "robinhood",
+    "name": "Robinquill",
+    "slug": "robinquill"
+  },
+  {
+    "id": "robinhood_ground",
+    "name": "Robinquill Terra",
+    "slug": "robinquill-terra"
+  },
+  {
+    "id": "flamebambi",
+    "name": "Rooby",
+    "slug": "rooby"
+  },
+  {
+    "id": "thiefbird",
+    "name": "Roujay",
+    "slug": "roujay"
+  },
+  {
+    "id": "boar",
+    "name": "Rushoar",
+    "slug": "rushoar"
+  },
+  {
+    "id": "sekhmet",
+    "name": "Sekhmet",
+    "slug": "sekhmet"
+  },
+  {
+    "id": "moonqueen",
+    "name": "Selyne",
+    "slug": "selyne"
+  },
+  {
+    "id": "blackgriffon",
+    "name": "Shadowbeak",
+    "slug": "shadowbeak"
+  },
+  {
+    "id": "blueskydragon",
+    "name": "Shaolong",
+    "slug": "shaolong"
+  },
+  {
+    "id": "mushroomdragon",
+    "name": "Shroomer",
+    "slug": "shroomer"
+  },
+  {
+    "id": "mushroomdragon_dark",
+    "name": "Shroomer Noct",
+    "slug": "shroomer-noct"
+  },
+  {
+    "id": "whitemoth",
+    "name": "Sibelyx",
+    "slug": "sibelyx"
+  },
+  {
+    "id": "whitemoth_neutral",
+    "name": "Sibelyx Primo",
+    "slug": "sibelyx-primo"
+  },
+  {
+    "id": "mothman",
+    "name": "Silvance",
+    "slug": "silvance"
+  },
+  {
+    "id": "whiteshielddragon",
+    "name": "Silvegis",
+    "slug": "silvegis"
+  },
+  {
+    "id": "swordcutlassfish",
+    "name": "Skutlass",
+    "slug": "skutlass"
+  },
+  {
+    "id": "swordcutlassfish_fire",
+    "name": "Skutlass Ignis",
+    "slug": "skutlass-ignis"
+  },
+  {
+    "id": "eleclizard",
+    "name": "Slowatt",
+    "slug": "slowatt"
+  },
+  {
+    "id": "blackpuppy",
+    "name": "Smokie",
+    "slug": "smokie"
+  },
+  {
+    "id": "blackpuppy_ice",
+    "name": "Smokie Cryst",
+    "slug": "smokie-cryst"
+  },
+  {
+    "id": "elecsnail",
+    "name": "Snock",
+    "slug": "snock"
+  },
+  {
+    "id": "elecsnail_ground",
+    "name": "Snock Lux",
+    "slug": "snock-lux"
+  },
+  {
+    "id": "smallyeti",
+    "name": "Snugloo",
+    "slug": "snugloo"
+  },
+  {
+    "id": "monochromequeen",
+    "name": "Solenne",
+    "slug": "solenne"
+  },
+  {
+    "id": "kingsunfish",
+    "name": "Solmora",
+    "slug": "solmora"
+  },
+  {
+    "id": "kingsunfish_thunder",
+    "name": "Solmora Lux",
+    "slug": "solmora-lux"
+  },
+  {
+    "id": "candleghost",
+    "name": "Sootseer",
+    "slug": "sootseer"
+  },
+  {
+    "id": "dandeliongirl",
+    "name": "Souffline",
+    "slug": "souffline"
+  },
+  {
+    "id": "eleccat",
+    "name": "Sparkit",
+    "slug": "sparkit"
+  },
+  {
+    "id": "grimgirl",
+    "name": "Splatterina",
+    "slug": "splatterina"
+  },
+  {
+    "id": "nightbluehorse",
+    "name": "Starryon",
+    "slug": "starryon"
+  },
+  {
+    "id": "nightbluehorse_neutral",
+    "name": "Starryon Primo",
+    "slug": "starryon-primo"
+  },
+  {
+    "id": "serpent",
+    "name": "Surfent",
+    "slug": "surfent"
+  },
+  {
+    "id": "serpent_ground",
+    "name": "Surfent Terra",
+    "slug": "surfent-terra"
+  },
+  {
+    "id": "suzaku",
+    "name": "Suzaku",
+    "slug": "suzaku"
+  },
+  {
+    "id": "suzaku_water",
+    "name": "Suzaku Aqua",
+    "slug": "suzaku-aqua"
+  },
+  {
+    "id": "mopbaby",
+    "name": "Swee",
+    "slug": "swee"
+  },
+  {
+    "id": "mopking",
+    "name": "Sweepa",
+    "slug": "sweepa"
+  },
+  {
+    "id": "monkey",
+    "name": "Tanzee",
+    "slug": "tanzee"
+  },
+  {
+    "id": "monkey_fire",
+    "name": "Tanzee Ignis",
+    "slug": "tanzee-ignis"
+  },
+  {
+    "id": "purplespider",
+    "name": "Tarantriss",
+    "slug": "tarantriss"
+  },
+  {
+    "id": "ganesha",
+    "name": "Teafant",
+    "slug": "teafant"
+  },
+  {
+    "id": "cubeturtle",
+    "name": "Tetroise ",
+    "slug": "tetroise"
+  },
+  {
+    "id": "cubeturtle_neutral",
+    "name": "Tetroise Primo",
+    "slug": "tetroise-primo"
+  },
+  {
+    "id": "colorfulbird",
+    "name": "Tocotoco",
+    "slug": "tocotoco"
+  },
+  {
+    "id": "catbat",
+    "name": "Tombat",
+    "slug": "tombat"
+  },
+  {
+    "id": "redflowerbird",
+    "name": "Tropicaw",
+    "slug": "tropicaw"
+  },
+  {
+    "id": "tentacleturtle",
+    "name": "Turtacle",
+    "slug": "turtacle"
+  },
+  {
+    "id": "tentacleturtle_ground",
+    "name": "Turtacle Terra",
+    "slug": "turtacle-terra"
+  },
+  {
+    "id": "kirin",
+    "name": "Univolt",
+    "slug": "univolt"
+  },
+  {
+    "id": "kirin_ice",
+    "name": "Univolt Cryst",
+    "slug": "univolt-cryst"
+  },
+  {
+    "id": "violetfairy",
+    "name": "Vaelet",
+    "slug": "vaelet"
+  },
+  {
+    "id": "longcat",
+    "name": "Valentail",
+    "slug": "valentail"
+  },
+  {
+    "id": "birddragon",
+    "name": "Vanwyrm",
+    "slug": "vanwyrm"
+  },
+  {
+    "id": "birddragon_ice",
+    "name": "Vanwyrm Cryst",
+    "slug": "vanwyrm-cryst"
+  },
+  {
+    "id": "snakegirl",
+    "name": "Venusa",
+    "slug": "venusa"
+  },
+  {
+    "id": "grassrabbitman",
+    "name": "Verdash",
+    "slug": "verdash"
+  },
+  {
+    "id": "cutefox",
+    "name": "Vixy",
+    "slug": "vixy"
+  },
+  {
+    "id": "herculesbeetle",
+    "name": "Warsect",
+    "slug": "warsect"
+  },
+  {
+    "id": "herculesbeetle_ground",
+    "name": "Warsect Terra",
+    "slug": "warsect-terra"
+  },
+  {
+    "id": "icenarwhal",
+    "name": "Whalaska",
+    "slug": "whalaska"
+  },
+  {
+    "id": "icenarwhal_fire",
+    "name": "Whalaska Ignis",
+    "slug": "whalaska-ignis"
+  },
+  {
+    "id": "ghostblackcat",
+    "name": "Wispaw",
+    "slug": "wispaw"
+  },
+  {
+    "id": "moonchild",
+    "name": "Wistella",
+    "slug": "wistella"
+  },
+  {
+    "id": "foxmage",
+    "name": "Wixen",
+    "slug": "wixen"
+  },
+  {
+    "id": "foxmage_dark",
+    "name": "Wixen Noct",
+    "slug": "wixen-noct"
+  },
+  {
+    "id": "sweetssheep",
+    "name": "Woolipop",
+    "slug": "woolipop"
+  },
+  {
+    "id": "sweetssheep_ground",
+    "name": "Woolipop Terra",
+    "slug": "woolipop-terra"
+  },
+  {
+    "id": "yeti",
+    "name": "Wumpo",
+    "slug": "wumpo"
+  },
+  {
+    "id": "yeti_grass",
+    "name": "Wumpo Botan",
+    "slug": "wumpo-botan"
+  },
+  {
+    "id": "whitealiendragon",
+    "name": "Xenogard",
+    "slug": "xenogard"
+  },
+  {
+    "id": "darkmechadragon",
+    "name": "Xenolord",
+    "slug": "xenolord"
+  },
+  {
+    "id": "darkalien",
+    "name": "Xenovader",
+    "slug": "xenovader"
+  },
+  {
+    "id": "guardiandog",
+    "name": "Yakumo",
+    "slug": "yakumo"
+  }
+]

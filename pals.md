@@ -1,0 +1,302 @@
+# Pals I own
+
+Checked = owned. Keyed by display name; see CLAUDE.md.
+Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
+
+- [ ] Aegidron
+- [x] Amione
+- [ ] Anubis
+- [x] Arsox
+- [ ] Astegon
+- [ ] Azurmane
+- [x] Azurobe
+- [ ] Azurobe Cryst
+- [ ] Bakemi
+- [ ] Bastigor
+- [x] Beakon
+- [ ] Beakon Cryst
+- [x] Beegarde
+- [ ] Bellanoir
+- [ ] Bellanoir Libero
+- [x] Blazamut
+- [ ] Blazamut Ryu
+- [x] Blazehowl
+- [ ] Blazehowl Noct
+- [ ] Blue Slime
+- [ ] Braloha
+- [x] Bristla
+- [x] Broncherry
+- [ ] Broncherry Aqua
+- [ ] Bulldosu
+- [x] Bushi
+- [ ] Bushi Noct
+- [x] Caprity
+- [x] Caprity Noct
+- [ ] Carnibora
+- [x] Cattiva
+- [ ] Cave Bat
+- [x] Cawgnito
+- [x] Celaray
+- [ ] Celaray Lux
+- [ ] Celesdir
+- [ ] Celesdir Noct
+- [x] Chikipi
+- [x] Chillet
+- [ ] Chillet Ignis
+- [x] Cinnamoth
+- [x] Clovee
+- [x] Cremis
+- [x] Croajiro
+- [ ] Croajiro Noct
+- [ ] Cryolinx
+- [ ] Cryolinx Terra
+- [x] Daedream
+- [ ] Dandilord
+- [x] Dazemu
+- [ ] Dazzi
+- [ ] Dazzi Noct
+- [ ] Demon Eye
+- [x] Depresso
+- [x] Digtoise
+- [x] Dinossom
+- [x] Dinossom Lux
+- [x] Direhowl
+- [ ] Dogen
+- [ ] Dualith
+- [ ] Dualith Noct
+- [x] Dumud
+- [x] Dumud Gild
+- [ ] Dupin
+- [ ] Dynamoff
+- [ ] Eidrolon
+- [ ] Eidrolon Ignis
+- [x] Eikthyrdeer
+- [ ] Eikthyrdeer Terra
+- [ ] Elgrove
+- [ ] Elgrove Cryst
+- [x] Elizabee
+- [ ] Elphidran
+- [ ] Elphidran Aqua
+- [ ] Enchanted Sword
+- [ ] Eye of Cthulhu
+- [ ] Faleris
+- [ ] Faleris Aqua
+- [ ] Felbat
+- [ ] Fenglope
+- [ ] Fenglope Lux
+- [ ] Finsider
+- [ ] Finsider Ignis
+- [x] Flambelle
+- [ ] Flaracle
+- [ ] Flopie
+- [ ] Foxcicle
+- [x] Foxparks
+- [ ] Foxparks Cryst
+- [ ] Frostallion
+- [ ] Frostallion Noct
+- [ ] Frostplume
+- [ ] Fuack
+- [ ] Fuack Ignis
+- [x] Fuddler
+- [x] Galeclaw
+- [ ] Ghangler
+- [ ] Ghangler Ignis
+- [ ] Gildane
+- [ ] Gildra
+- [ ] Gloopie
+- [ ] Gloopie Primo
+- [x] Gobfin
+- [ ] Gobfin Ignis
+- [ ] Gorirat
+- [ ] Gorirat Terra
+- [ ] Green Slime
+- [ ] Grintale
+- [ ] Grizzbolt
+- [x] Gumoss
+- [x] Hangyu
+- [ ] Hangyu Cryst
+- [ ] Hartalis
+- [ ] Helzephyr
+- [ ] Helzephyr Lux
+- [x] Herbil
+- [ ] Hoocrates
+- [ ] Hoodle
+- [ ] Icelyn
+- [ ] Illuminant Bat
+- [ ] Illuminant Slime
+- [x] Incineram
+- [ ] Incineram Noct
+- [ ] Jelliette
+- [ ] Jellroy
+- [ ] Jetragon
+- [ ] Jolthog
+- [ ] Jolthog Cryst
+- [x] Jormuntide
+- [ ] Jormuntide Ignis
+- [ ] Katress
+- [x] Katress Ignis
+- [ ] Kelpsea
+- [ ] Kelpsea Ignis
+- [ ] Kikit
+- [ ] Killamari
+- [ ] Killamari Primo
+- [ ] Kingpaca
+- [ ] Kingpaca Cryst
+- [ ] Kitsun
+- [ ] Kitsun Noct
+- [ ] Knocklem
+- [ ] Knocklem Ignis
+- [x] Lamball
+- [ ] Lapiron
+- [ ] Lapure
+- [x] Leafan
+- [x] Leezpunk
+- [ ] Leezpunk Ignis
+- [x] Lifmunk
+- [ ] Loomen
+- [ ] Loupmoon
+- [ ] Loupmoon Cryst
+- [ ] Lovander
+- [ ] Lullu
+- [ ] Lunaris
+- [ ] Lyleen
+- [ ] Lyleen Noct
+- [ ] Majex
+- [x] Mammorest
+- [ ] Mammorest Cryst
+- [ ] Maraith
+- [x] Mau
+- [ ] Mau Cryst
+- [ ] Melpaca
+- [ ] Menasting
+- [ ] Menasting Terra
+- [ ] Mimog
+- [x] Moldron
+- [ ] Moldron Cryst
+- [ ] Mossanda
+- [ ] Mossanda Lux
+- [x] Mozzarina
+- [x] Muffly
+- [ ] Munchill
+- [ ] Mycora
+- [ ] Necromus
+- [ ] Needoll
+- [ ] Needoll Noct
+- [ ] Neptilius
+- [ ] Nitemary
+- [ ] Nitemary Botan
+- [x] Nitewing
+- [x] Nox
+- [ ] Nyafia
+- [ ] Omascul
+- [ ] Ophydia
+- [ ] Orserk
+- [ ] Paladius
+- [ ] Palumba
+- [x] Pengullet
+- [ ] Pengullet Lux
+- [x] Penking
+- [ ] Penking Lux
+- [ ] Petallia
+- [ ] Petallia Ignis
+- [ ] Pierdon
+- [ ] Pierdon Cryst
+- [ ] Polapup
+- [ ] Polapup Terra
+- [ ] Prixter
+- [ ] Prixter Lux
+- [ ] Prunelia
+- [x] Puffolt
+- [ ] Pupperai
+- [ ] Purple Slime
+- [ ] Pyrin
+- [ ] Pyrin Noct
+- [ ] Quivern
+- [ ] Quivern Botan
+- [x] Ragnahawk
+- [ ] Rainbow Slime
+- [ ] Rayhound
+- [ ] Rayhound Cryst
+- [ ] Red Slime
+- [ ] Reindrix
+- [x] Relaxaurus
+- [ ] Relaxaurus Lux
+- [ ] Renjishi
+- [ ] Reptyro
+- [ ] Reptyro Cryst
+- [x] Ribbuny
+- [ ] Ribbuny Botan
+- [ ] Robinquill
+- [ ] Robinquill Terra
+- [ ] Rooby
+- [ ] Roujay
+- [ ] Rushoar
+- [ ] Sekhmet
+- [ ] Selyne
+- [ ] Shadowbeak
+- [ ] Shaolong
+- [ ] Shroomer
+- [ ] Shroomer Noct
+- [x] Sibelyx
+- [ ] Sibelyx Primo
+- [ ] Silvance
+- [ ] Silvegis
+- [ ] Skutlass
+- [ ] Skutlass Ignis
+- [ ] Slowatt
+- [ ] Smokie
+- [ ] Smokie Cryst
+- [ ] Snock
+- [ ] Snock Lux
+- [ ] Snugloo
+- [ ] Solenne
+- [ ] Solmora
+- [ ] Solmora Lux
+- [ ] Sootseer
+- [ ] Souffline
+- [x] Sparkit
+- [ ] Splatterina
+- [ ] Starryon
+- [ ] Starryon Primo
+- [x] Surfent
+- [ ] Surfent Terra
+- [x] Suzaku
+- [ ] Suzaku Aqua
+- [ ] Swee
+- [ ] Sweepa
+- [x] Tanzee
+- [x] Tanzee Ignis
+- [ ] Tarantriss
+- [x] Teafant
+- [ ] Tetroise 
+- [ ] Tetroise Primo
+- [x] Tocotoco
+- [ ] Tombat
+- [ ] Tropicaw
+- [x] Turtacle
+- [ ] Turtacle Terra
+- [x] Univolt
+- [ ] Univolt Cryst
+- [ ] Vaelet
+- [ ] Valentail
+- [x] Vanwyrm
+- [ ] Vanwyrm Cryst
+- [ ] Venusa
+- [ ] Verdash
+- [ ] Vixy
+- [ ] Warsect
+- [ ] Warsect Terra
+- [ ] Whalaska
+- [ ] Whalaska Ignis
+- [ ] Wispaw
+- [ ] Wistella
+- [ ] Wixen
+- [ ] Wixen Noct
+- [ ] Woolipop
+- [ ] Woolipop Terra
+- [ ] Wumpo
+- [ ] Wumpo Botan
+- [ ] Xenogard
+- [ ] Xenolord
+- [x] Xenovader
+- [ ] Yakumo
