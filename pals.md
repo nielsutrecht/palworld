@@ -1,7 +1,6 @@
 # Wanted
 
 - Ophydia
-- Petallia
 - Mycora
 
 # Pals I own
@@ -200,7 +199,7 @@
 - [ ] Pengullet Lux
 - [x] Penking
 - [ ] Penking Lux
-- [ ] Petallia
+- [x] Petallia
 - [ ] Petallia Ignis
 - [ ] Pierdon
 - [ ] Pierdon Cryst

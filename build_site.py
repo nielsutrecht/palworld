@@ -141,7 +141,8 @@ def card(name: str, pal_id: str, owned: list[str]) -> str:
     return (
         f'  <li class="{"owned" if is_owned else ""}" '
         f'data-name="{html.escape(name.lower(), quote=True)}">'
-        f'<a href="{html.escape(build_url(pal_id, owned), quote=True)}">'
+        f'<a href="{html.escape(build_url(pal_id, owned), quote=True)}" '
+        f'target="_blank" rel="noopener">'
         f"<span>{html.escape(name)}</span>"
         f'{"<span class=tag>owned</span>" if is_owned else ""}'
         f"</a></li>"
