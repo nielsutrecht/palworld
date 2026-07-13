@@ -26,7 +26,7 @@
 - [x] Bristla
 - [x] Broncherry
 - [ ] Broncherry Aqua
-- [ ] Bulldosu
+- [x] Bulldosu
 - [x] Bushi
 - [ ] Bushi Noct
 - [ ] Caprity
@@ -62,7 +62,7 @@
 - [x] Direhowl
 - [ ] Dogen
 - [x] Dualith
-- [ ] Dualith Noct
+- [x] Dualith Noct
 - [x] Dumud
 - [x] Dumud Gild
 - [ ] Dupin
@@ -156,7 +156,7 @@
 - [x] Loupmoon
 - [x] Loupmoon Cryst
 - [x] Lovander
-- [ ] Lullu
+- [x] Lullu
 - [ ] Lunaris
 - [ ] Lyleen
 - [ ] Lyleen Noct
