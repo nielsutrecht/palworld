@@ -30,14 +30,14 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Bulldosu
 - [x] Bushi
 - [ ] Bushi Noct
-- [x] Caprity
+- [ ] Caprity
 - [x] Caprity Noct
 - [ ] Carnibora
 - [x] Cattiva
 - [ ] Cave Bat
 - [x] Cawgnito
 - [x] Celaray
-- [ ] Celaray Lux
+- [x] Celaray Lux
 - [ ] Celesdir
 - [ ] Celesdir Noct
 - [x] Chikipi
@@ -53,12 +53,12 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [x] Daedream
 - [ ] Dandilord
 - [x] Dazemu
-- [ ] Dazzi
-- [ ] Dazzi Noct
+- [x] Dazzi
+- [x] Dazzi Noct
 - [ ] Demon Eye
 - [x] Depresso
 - [x] Digtoise
-- [x] Dinossom
+- [ ] Dinossom
 - [x] Dinossom Lux
 - [x] Direhowl
 - [ ] Dogen
@@ -82,20 +82,20 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Faleris
 - [ ] Faleris Aqua
 - [ ] Felbat
-- [ ] Fenglope
+- [x] Fenglope
 - [ ] Fenglope Lux
 - [ ] Finsider
 - [ ] Finsider Ignis
 - [x] Flambelle
 - [ ] Flaracle
 - [ ] Flopie
-- [ ] Foxcicle
+- [x] Foxcicle
 - [x] Foxparks
-- [ ] Foxparks Cryst
+- [x] Foxparks Cryst
 - [ ] Frostallion
 - [ ] Frostallion Noct
 - [ ] Frostplume
-- [ ] Fuack
+- [x] Fuack
 - [ ] Fuack Ignis
 - [x] Fuddler
 - [x] Galeclaw
@@ -108,18 +108,18 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [x] Gobfin
 - [ ] Gobfin Ignis
 - [ ] Gorirat
-- [ ] Gorirat Terra
+- [x] Gorirat Terra
 - [ ] Green Slime
 - [ ] Grintale
 - [ ] Grizzbolt
 - [x] Gumoss
 - [x] Hangyu
-- [ ] Hangyu Cryst
+- [x] Hangyu Cryst
 - [ ] Hartalis
 - [ ] Helzephyr
 - [ ] Helzephyr Lux
 - [x] Herbil
-- [ ] Hoocrates
+- [x] Hoocrates
 - [ ] Hoodle
 - [ ] Icelyn
 - [ ] Illuminant Bat
@@ -135,11 +135,11 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Jormuntide Ignis
 - [ ] Katress
 - [x] Katress Ignis
-- [ ] Kelpsea
-- [ ] Kelpsea Ignis
+- [x] Kelpsea
+- [x] Kelpsea Ignis
 - [ ] Kikit
 - [ ] Killamari
-- [ ] Killamari Primo
+- [x] Killamari Primo
 - [ ] Kingpaca
 - [ ] Kingpaca Cryst
 - [ ] Kitsun
@@ -151,12 +151,12 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Lapure
 - [x] Leafan
 - [x] Leezpunk
-- [ ] Leezpunk Ignis
+- [x] Leezpunk Ignis
 - [x] Lifmunk
 - [ ] Loomen
-- [ ] Loupmoon
-- [ ] Loupmoon Cryst
-- [ ] Lovander
+- [x] Loupmoon
+- [x] Loupmoon Cryst
+- [x] Lovander
 - [ ] Lullu
 - [ ] Lunaris
 - [ ] Lyleen
@@ -167,8 +167,8 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Maraith
 - [x] Mau
 - [ ] Mau Cryst
-- [ ] Melpaca
-- [ ] Menasting
+- [x] Melpaca
+- [x] Menasting
 - [ ] Menasting Terra
 - [ ] Mimog
 - [x] Moldron
@@ -177,11 +177,11 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Mossanda Lux
 - [x] Mozzarina
 - [x] Muffly
-- [ ] Munchill
+- [x] Munchill
 - [ ] Mycora
 - [ ] Necromus
-- [ ] Needoll
-- [ ] Needoll Noct
+- [x] Needoll
+- [x] Needoll Noct
 - [ ] Neptilius
 - [ ] Nitemary
 - [ ] Nitemary Botan
@@ -207,10 +207,10 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Prixter Lux
 - [ ] Prunelia
 - [x] Puffolt
-- [ ] Pupperai
+- [x] Pupperai
 - [ ] Purple Slime
 - [ ] Pyrin
-- [ ] Pyrin Noct
+- [x] Pyrin Noct
 - [ ] Quivern
 - [ ] Quivern Botan
 - [x] Ragnahawk
@@ -225,12 +225,12 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Reptyro
 - [ ] Reptyro Cryst
 - [x] Ribbuny
-- [ ] Ribbuny Botan
+- [x] Ribbuny Botan
 - [ ] Robinquill
-- [ ] Robinquill Terra
-- [ ] Rooby
+- [x] Robinquill Terra
+- [x] Rooby
 - [ ] Roujay
-- [ ] Rushoar
+- [x] Rushoar
 - [ ] Sekhmet
 - [ ] Selyne
 - [ ] Shadowbeak
@@ -262,11 +262,11 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Surfent Terra
 - [x] Suzaku
 - [ ] Suzaku Aqua
-- [ ] Swee
-- [ ] Sweepa
+- [x] Swee
+- [x] Sweepa
 - [x] Tanzee
 - [x] Tanzee Ignis
-- [ ] Tarantriss
+- [x] Tarantriss
 - [x] Teafant
 - [ ] Tetroise 
 - [ ] Tetroise Primo
@@ -283,16 +283,16 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [ ] Vanwyrm Cryst
 - [ ] Venusa
 - [ ] Verdash
-- [ ] Vixy
+- [x] Vixy
 - [ ] Warsect
 - [ ] Warsect Terra
 - [ ] Whalaska
 - [ ] Whalaska Ignis
-- [ ] Wispaw
+- [x] Wispaw
 - [ ] Wistella
-- [ ] Wixen
+- [x] Wixen
 - [ ] Wixen Noct
-- [ ] Woolipop
+- [x] Woolipop
 - [ ] Woolipop Terra
 - [ ] Wumpo
 - [ ] Wumpo Botan
