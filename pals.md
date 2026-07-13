@@ -1,7 +1,5 @@
 # Wanted
 
-- Ophydia
-
 # Pals I own
 
 - [ ] Aegidron
@@ -190,7 +188,7 @@
 - [x] Nox
 - [ ] Nyafia
 - [ ] Omascul
-- [ ] Ophydia
+- [x] Ophydia
 - [ ] Orserk
 - [ ] Paladius
 - [ ] Palumba
