@@ -4,6 +4,9 @@ Generates a [palworld.gg breeding-path](https://palworld.gg/breeding-path) link 
 markdown file that tracks which Pals I own, so the site can compute the shortest breeding
 chain to a target Pal.
 
+See [README.md](README.md) for what the project is and how to run it. This file covers the
+things that are easy to get wrong and expensive to rediscover.
+
 ## The URL contract
 
 ```
@@ -66,34 +69,43 @@ that set, so a display-name → id map is unambiguous and safe to key the tracki
   never a silent skip, since a dropped name would quietly lengthen every breeding path.
 - `data/pals.json` — generated `{id, name, slug}` map. Do not hand-edit.
 - `refresh_pals.py` — regenerates `data/pals.json` from the site.
-- `breeding_path.py` — reads `pals.md` + `data/pals.json`, emits one breeding-path URL.
-- `build_site.py` — generates `index.html`: every Pal linked to its breeding path from the
-  Pals owned. Imports `build_url` / `load_owned` / `load_pals` from `breeding_path.py`.
+- `breeding_path.py` — parses `pals.md`, resolves names to ids, builds URLs. Owns
+  `parse_md` / `load_owned` / `load_wanted` / `build_url`; also the single-Pal CLI.
+- `build_site.py` — generates `index.html` from those helpers. Import them rather than
+  re-parsing `pals.md` or re-encoding URLs; the comma encoding in particular is load-bearing
+  (the site's own links keep commas literal, so `urlencode` is called with `safe=","`).
 - `index.html` — generated, committed, and served by GitHub Pages. Do not hand-edit.
-
-## Usage
-
-```sh
-python3 breeding_path.py Anubis           # print one URL
-python3 breeding_path.py Anubis --open    # and open it in a browser
-python3 build_site.py                     # regenerate index.html after editing pals.md
-python3 refresh_pals.py                   # after a Palworld update adds Pals
-```
-
-After checking a Pal off in `pals.md`, rerun `build_site.py` and commit the regenerated
-`index.html` — the owned list is baked into all 297 links, so every link changes.
 
 ## GitHub Pages
 
-Published from the repo root of the default branch: https://nielsutrecht.github.io/palworld/
-The repo is public because Pages on a private repo needs a paid plan. `index.html` is fully
-static and self-contained (no external assets), so it also works opened straight from disk.
+Served from the repo root of `main`: https://nielsutrecht.github.io/palworld/
+The repo is public because Pages on a private repo needs a paid plan.
 
-Target matching is case-insensitive and suggests near misses on a typo. Both scripts are
-stdlib-only — no dependencies, no venv.
+Nothing rebuilds `index.html` automatically. Editing `pals.md` without rerunning
+`build_site.py` publishes a page whose links still carry the *old* owned list — it looks
+fine and is silently wrong. **This has already happened once** (a Pal was ticked between a
+build and a commit). Always rebuild and commit `index.html` in the same commit as a
+`pals.md` edit. A GitHub Actions workflow to do this on push has been offered and not yet
+taken up.
 
 ## Conventions
 
-- `pals.md` is sorted by display name so diffs stay readable as Pals get checked off. A
-  checked name that isn't in `data/pals.json` is a hard error, not a silent skip.
-- Both scripts write progress to stderr and only the URL to stdout, so the URL pipes cleanly.
+- `pals.md`'s owned section is sorted by display name so diffs stay readable as Pals get
+  ticked off. The wanted section is *not* sorted — its order is the user's priority order
+  and must be preserved.
+- Scripts are stdlib-only. Keep it that way; there is no venv and no requirements file.
+- Scripts write progress to stderr and only the URL to stdout, so the URL pipes cleanly.
+- Never rewrite `pals.md` from a script — it is the user's hand-maintained input. Only
+  `data/pals.json` and `index.html` are generated.
+
+## Verifying a change
+
+`index.html` is a pile of links whose correctness is not visible by inspection, so check
+the actual output rather than trusting the build:
+
+- `python3 build_site.py` prints the owned/wanted counts — they should match
+  `grep -c '^- \[x\]' pals.md` and the wanted bullets.
+- Render it: `python3 -m http.server` and open it. `file://` URLs are blocked in
+  `playwright-cli`, so serve it over HTTP.
+- Click a link through to palworld.gg and confirm a `BREEDING PLAN` actually appears; a
+  malformed `own` list still renders a plausible-looking page, just a worse one.

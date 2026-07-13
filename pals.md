@@ -7,7 +7,7 @@
 
 - [ ] Aegidron
 - [x] Amione
-- [ ] Anubis
+- [x] Anubis
 - [x] Arsox
 - [ ] Astegon
 - [ ] Azurmane
