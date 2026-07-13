@@ -1,7 +1,9 @@
-# Pals I own
+# Wanted
 
-Checked = owned. Keyed by display name; see CLAUDE.md.
-Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
+- Ophydia
+- Pyrin
+
+# Pals I own
 
 - [ ] Aegidron
 - [x] Amione
@@ -62,7 +64,7 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [x] Dinossom Lux
 - [x] Direhowl
 - [ ] Dogen
-- [ ] Dualith
+- [x] Dualith
 - [ ] Dualith Noct
 - [x] Dumud
 - [x] Dumud Gild
@@ -231,7 +233,7 @@ Regenerate the breeding link with: `python3 breeding_path.py <Target Pal>`
 - [x] Rooby
 - [ ] Roujay
 - [x] Rushoar
-- [ ] Sekhmet
+- [x] Sekhmet
 - [ ] Selyne
 - [ ] Shadowbeak
 - [ ] Shaolong

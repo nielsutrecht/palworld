@@ -11,7 +11,7 @@ import html
 import sys
 from pathlib import Path
 
-from breeding_path import build_url, load_owned, load_pals
+from breeding_path import build_url, load_owned, load_pals, load_wanted
 
 ROOT = Path(__file__).parent
 OUT = ROOT / "index.html"
@@ -59,6 +59,16 @@ PAGE = """<!doctype html>
     display: grid; gap: .5rem;
     grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
   }}
+  section.wanted {{ max-width: 62rem; margin: 0 auto 2rem; }}
+  h2 {{
+    margin: 0 0 .6rem; font-size: .78rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: .08em; color: var(--muted);
+  }}
+  section.wanted a {{ border-color: var(--accent); }}
+  hr {{
+    max-width: 62rem; margin: 0 auto 1.5rem;
+    border: 0; border-top: 1px solid var(--line);
+  }}
   li.hidden {{ display: none; }}
   a {{
     display: flex; align-items: center; justify-content: space-between; gap: .5rem;
@@ -84,6 +94,7 @@ PAGE = """<!doctype html>
   </p>
 </header>
 
+{wanted_section}
 <div class="tools">
   <input type="search" id="q" placeholder="Filter Pals&hellip;" autofocus aria-label="Filter Pals">
   <label class="toggle"><input type="checkbox" id="hide-owned"> Hide Pals I own</label>
@@ -123,33 +134,49 @@ PAGE = """<!doctype html>
 """
 
 
+def card(name: str, pal_id: str, owned: list[str]) -> str:
+    """One Pal, linked to its breeding path from the Pals owned."""
+    is_owned = pal_id in set(owned)
+    return (
+        f'  <li class="{"owned" if is_owned else ""}" '
+        f'data-name="{html.escape(name.lower(), quote=True)}">'
+        f'<a href="{html.escape(build_url(pal_id, owned), quote=True)}">'
+        f"<span>{html.escape(name)}</span>"
+        f'{"<span class=tag>owned</span>" if is_owned else ""}'
+        f"</a></li>"
+    )
+
+
 def main() -> None:
     name_to_id = load_pals()
     owned = load_owned(name_to_id)
+    wanted = load_wanted(name_to_id)
     if not owned:
         sys.exit("no Pals are checked off in pals.md")
 
-    owned_ids = set(owned)
-    items = []
-    for name, pal_id in sorted(name_to_id.items()):
-        is_owned = pal_id in owned_ids
-        safe_name = html.escape(name)
-        items.append(
-            f'  <li class="{"owned" if is_owned else ""}" data-name="{html.escape(name.lower(), quote=True)}">'
-            f'<a href="{html.escape(build_url(pal_id, owned), quote=True)}">'
-            f"<span>{safe_name}</span>"
-            f'{"<span class=tag>owned</span>" if is_owned else ""}'
-            f"</a></li>"
-        )
+    # Wanted Pals keep their file order — it is a hand-written priority list.
+    # Owned ones stay in the section, tagged the same way as everywhere else.
+    wanted_section = ""
+    if wanted:
+        cards = "\n".join(card(name, pal_id, owned) for name, pal_id in wanted)
+        wanted_section = f"<section class=wanted>\n  <h2>Wanted</h2>\n  <ul>\n{cards}\n  </ul>\n</section>\n<hr>"
+
+    items = "\n".join(
+        card(name, pal_id, owned) for name, pal_id in sorted(name_to_id.items())
+    )
 
     OUT.write_text(
         PAGE.format(
             owned_count=len(owned),
             total=len(name_to_id),
-            items="\n".join(items),
+            wanted_section=wanted_section,
+            items=items,
         )
     )
-    print(f"wrote {OUT}: {len(name_to_id)} links, {len(owned)} Pals owned", file=sys.stderr)
+    print(
+        f"wrote {OUT}: {len(name_to_id)} links, {len(owned)} owned, {len(wanted)} wanted",
+        file=sys.stderr,
+    )
 
 
 if __name__ == "__main__":

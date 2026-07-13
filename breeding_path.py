@@ -22,7 +22,9 @@ PALS_MD = ROOT / "pals.md"
 PALS_JSON = ROOT / "data" / "pals.json"
 ENDPOINT = "https://palworld.gg/breeding-path"
 
+HEADING = re.compile(r"^#+\s*(?P<title>.+?)\s*$")
 CHECKBOX = re.compile(r"^\s*[-*]\s*\[(?P<mark>[ xX])\]\s*(?P<name>.+?)\s*$")
+BULLET = re.compile(r"^\s*[-*]\s+(?!\[[ xX]\])(?P<name>.+?)\s*$")
 
 
 def load_pals() -> dict[str, str]:
@@ -32,25 +34,63 @@ def load_pals() -> dict[str, str]:
     return {p["name"]: p["id"] for p in pals}
 
 
-def load_owned(name_to_id: dict[str, str]) -> list[str]:
-    """Return ids of the Pals checked off in pals.md, in file order."""
-    owned, unknown = [], []
+def parse_md() -> tuple[list[tuple[int, str]], list[tuple[int, str]]]:
+    """Parse pals.md into (wanted, owned) lists of (lineno, display name).
+
+    Sectioned by markdown heading: plain bullets under a `# Wanted` heading are
+    the wishlist (order preserved, it is a priority list); ticked checkboxes
+    anywhere else are the Pals owned. Keeping the two shapes distinct means a
+    wanted Pal can never be mistaken for an owned one.
+    """
+    wanted, owned = [], []
+    in_wanted = False
+
     for lineno, line in enumerate(PALS_MD.read_text().splitlines(), 1):
-        m = CHECKBOX.match(line)
-        if not m or m["mark"] == " ":
+        heading = HEADING.match(line)
+        if heading:
+            in_wanted = heading["title"].casefold().startswith("wanted")
             continue
-        name = m["name"]
-        if name not in name_to_id:
-            unknown.append(f"  pals.md:{lineno}: {name}")
-            continue
-        owned.append(name_to_id[name])
+
+        if in_wanted:
+            if m := BULLET.match(line):
+                wanted.append((lineno, m["name"]))
+        elif (m := CHECKBOX.match(line)) and m["mark"] != " ":
+            owned.append((lineno, m["name"]))
+
+    return wanted, owned
+
+
+def resolve_all(
+    entries: list[tuple[int, str]], name_to_id: dict[str, str], what: str
+) -> list[tuple[str, str]]:
+    """Resolve (lineno, name) entries to (name, id), failing loudly on typos."""
+    resolved, unknown = [], []
+    for lineno, name in entries:
+        if name in name_to_id:
+            resolved.append((name, name_to_id[name]))
+        else:
+            near = difflib.get_close_matches(name, name_to_id, n=3, cutoff=0.6)
+            hint = f" (did you mean: {', '.join(near)}?)" if near else ""
+            unknown.append(f"  pals.md:{lineno}: {name}{hint}")
 
     if unknown:
         sys.exit(
-            "these checked Pals are not in data/pals.json (typo, or the Pal is not "
+            f"these {what} Pals are not in data/pals.json (typo, or the Pal is not "
             "breedable):\n" + "\n".join(unknown)
         )
-    return owned
+    return resolved
+
+
+def load_owned(name_to_id: dict[str, str]) -> list[str]:
+    """Return ids of the Pals checked off in pals.md, in file order."""
+    _, owned = parse_md()
+    return [pal_id for _, pal_id in resolve_all(owned, name_to_id, "checked")]
+
+
+def load_wanted(name_to_id: dict[str, str]) -> list[tuple[str, str]]:
+    """Return (name, id) of the Pals on the wishlist, in file order."""
+    wanted, _ = parse_md()
+    return resolve_all(wanted, name_to_id, "wanted")
 
 
 def resolve_target(target: str, name_to_id: dict[str, str]) -> str:

@@ -53,8 +53,17 @@ that set, so a display-name → id map is unambiguous and safe to key the tracki
 
 ## Layout
 
-- `pals.md` — the tracking file. One checkbox per breedable Pal, keyed by display name;
-  checked = owned. **The only file you edit by hand.**
+- `pals.md` — the tracking file, and **the only file you edit by hand**. Two sections:
+  - `# Wanted` — a hand-ordered wishlist of plain bullets (`- Ophydia`). Order is
+    preserved in the output; it reads as a priority list. Rendered as its own section at
+    the top of the page. A wanted Pal that is also owned stays in the section and is
+    tagged `owned` like anywhere else.
+  - `# Pals I own` — one checkbox per breedable Pal; ticked = owned.
+
+  The two shapes are parsed separately and are section-scoped, so a plain bullet can never
+  be read as owned and a checkbox can never be read as wanted. A name in either section
+  that isn't in `data/pals.json` is a hard error with its line number and a suggestion —
+  never a silent skip, since a dropped name would quietly lengthen every breeding path.
 - `data/pals.json` — generated `{id, name, slug}` map. Do not hand-edit.
 - `refresh_pals.py` — regenerates `data/pals.json` from the site.
 - `breeding_path.py` — reads `pals.md` + `data/pals.json`, emits one breeding-path URL.
