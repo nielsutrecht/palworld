@@ -1,5 +1,6 @@
 # Wanted
 
+- Yakumo
 - Astegon
 - Moldron Cryst
 - Flaracle
