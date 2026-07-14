@@ -4,8 +4,6 @@
 - Astegon
 - Moldron Cryst
 - Flaracle
-- Solmora
-- Jelliette
 - Gloopie
 - Whalaska
 
@@ -84,7 +82,7 @@
 - [ ] Elgrove Cryst
 - [x] Elizabee
 - [x] Elphidran
-- [ ] Elphidran Aqua
+- [x] Elphidran Aqua
 - [ ] Enchanted Sword
 - [ ] Eye of Cthulhu
 - [ ] Faleris
@@ -92,7 +90,7 @@
 - [ ] Felbat
 - [x] Fenglope
 - [ ] Fenglope Lux
-- [ ] Finsider
+- [x] Finsider
 - [ ] Finsider Ignis
 - [x] Flambelle
 - [ ] Flaracle
@@ -134,14 +132,14 @@
 - [ ] Illuminant Slime
 - [x] Incineram
 - [ ] Incineram Noct
-- [ ] Jelliette
+- [x] Jelliette
 - [ ] Jellroy
 - [ ] Jetragon
 - [ ] Jolthog
 - [ ] Jolthog Cryst
 - [x] Jormuntide
 - [x] Jormuntide Ignis
-- [ ] Katress
+- [x] Katress
 - [x] Katress Ignis
 - [x] Kelpsea
 - [x] Kelpsea Ignis
@@ -166,7 +164,7 @@
 - [x] Loupmoon Cryst
 - [x] Lovander
 - [x] Lullu
-- [ ] Lunaris
+- [x] Lunaris
 - [ ] Lyleen
 - [ ] Lyleen Noct
 - [ ] Majex
@@ -174,7 +172,7 @@
 - [ ] Mammorest Cryst
 - [ ] Maraith
 - [x] Mau
-- [ ] Mau Cryst
+- [x] Mau Cryst
 - [x] Melpaca
 - [x] Menasting
 - [ ] Menasting Terra
@@ -226,7 +224,7 @@
 - [ ] Rayhound
 - [ ] Rayhound Cryst
 - [ ] Red Slime
-- [ ] Reindrix
+- [x] Reindrix
 - [x] Relaxaurus
 - [ ] Relaxaurus Lux
 - [x] Renjishi
@@ -251,14 +249,14 @@
 - [ ] Silvegis
 - [x] Skutlass
 - [ ] Skutlass Ignis
-- [ ] Slowatt
+- [x] Slowatt
 - [ ] Smokie
 - [ ] Smokie Cryst
 - [ ] Snock
 - [ ] Snock Lux
-- [ ] Snugloo
+- [x] Snugloo
 - [ ] Solenne
-- [ ] Solmora
+- [x] Solmora
 - [ ] Solmora Lux
 - [x] Sootseer
 - [ ] Souffline
@@ -267,7 +265,7 @@
 - [ ] Starryon
 - [ ] Starryon Primo
 - [x] Surfent
-- [ ] Surfent Terra
+- [x] Surfent Terra
 - [x] Suzaku
 - [ ] Suzaku Aqua
 - [x] Swee
