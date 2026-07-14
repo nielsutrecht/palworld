@@ -27,16 +27,16 @@
 - [x] Blazamut
 - [ ] Blazamut Ryu
 - [x] Blazehowl
-- [ ] Blazehowl Noct
+- [x] Blazehowl Noct
 - [ ] Blue Slime
-- [ ] Braloha
+- [x] Braloha
 - [x] Bristla
 - [x] Broncherry
 - [ ] Broncherry Aqua
 - [x] Bulldosu
 - [x] Bushi
 - [ ] Bushi Noct
-- [ ] Caprity
+- [x] Caprity
 - [x] Caprity Noct
 - [ ] Carnibora
 - [x] Cattiva
@@ -53,7 +53,7 @@
 - [x] Clovee
 - [x] Cremis
 - [x] Croajiro
-- [ ] Croajiro Noct
+- [x] Croajiro Noct
 - [ ] Cryolinx
 - [ ] Cryolinx Terra
 - [x] Daedream
@@ -102,7 +102,7 @@
 - [ ] Frostallion Noct
 - [ ] Frostplume
 - [x] Fuack
-- [ ] Fuack Ignis
+- [x] Fuack Ignis
 - [x] Fuddler
 - [x] Galeclaw
 - [ ] Ghangler
@@ -217,7 +217,7 @@
 - [ ] Purple Slime
 - [x] Pyrin
 - [x] Pyrin Noct
-- [ ] Quivern
+- [x] Quivern
 - [ ] Quivern Botan
 - [x] Ragnahawk
 - [ ] Rainbow Slime
@@ -257,7 +257,7 @@
 - [x] Snugloo
 - [ ] Solenne
 - [x] Solmora
-- [ ] Solmora Lux
+- [x] Solmora Lux
 - [x] Sootseer
 - [ ] Souffline
 - [x] Sparkit
@@ -292,7 +292,7 @@
 - [x] Vixy
 - [ ] Warsect
 - [ ] Warsect Terra
-- [ ] Whalaska
+- [x] Whalaska
 - [ ] Whalaska Ignis
 - [x] Wispaw
 - [ ] Wistella
@@ -301,7 +301,7 @@
 - [x] Woolipop
 - [ ] Woolipop Terra
 - [ ] Wumpo
-- [ ] Wumpo Botan
+- [x] Wumpo Botan
 - [ ] Xenogard
 - [ ] Xenolord
 - [x] Xenovader
