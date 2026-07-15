@@ -4,8 +4,6 @@
 - Astegon
 - Moldron Cryst
 - Flaracle
-- Gloopie
-- Whalaska
 
 # Pals I own
 
@@ -109,7 +107,7 @@
 - [ ] Ghangler Ignis
 - [ ] Gildane
 - [ ] Gildra
-- [ ] Gloopie
+- [x] Gloopie
 - [ ] Gloopie Primo
 - [x] Gobfin
 - [ ] Gobfin Ignis
