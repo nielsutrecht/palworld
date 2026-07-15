@@ -273,7 +273,7 @@
 - [x] Tanzee Ignis
 - [x] Tarantriss
 - [x] Teafant
-- [x] Tetroise 
+- [x] Tetroise
 - [ ] Tetroise Primo
 - [x] Tocotoco
 - [x] Tombat

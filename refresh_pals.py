@@ -167,7 +167,9 @@ def main() -> None:
         by_id[pal_id] = {
             "id": pal_id,
             "slug": field(obj, "slug"),
-            "name": field(obj, "name"),
+            # Some upstream names carry stray whitespace ("Tetroise "); strip it, or the
+            # name won't match a checkbox in pals.md, whose parser trims trailing space.
+            "name": (field(obj, "name") or "").strip() or None,
             "index": field(obj, "index"),
             "icon": field(obj, "icon"),
             "elements": elements_of(obj),
