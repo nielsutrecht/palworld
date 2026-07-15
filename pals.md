@@ -53,7 +53,7 @@
 - [x] Cremis
 - [x] Croajiro
 - [x] Croajiro Noct
-- [ ] Cryolinx
+- [x] Cryolinx
 - [ ] Cryolinx Terra
 - [x] Daedream
 - [ ] Dandilord
@@ -107,7 +107,7 @@
 - [ ] Ghangler
 - [x] Ghangler Ignis
 - [ ] Gildane
-- [ ] Gildra
+- [x] Gildra
 - [x] Gloopie
 - [ ] Gloopie Primo
 - [x] Gobfin
@@ -126,7 +126,7 @@
 - [x] Herbil
 - [x] Hoocrates
 - [ ] Hoodle
-- [ ] Icelyn
+- [x] Icelyn
 - [ ] Illuminant Bat
 - [ ] Illuminant Slime
 - [x] Incineram
@@ -204,7 +204,7 @@
 - [ ] Penking Lux
 - [x] Petallia
 - [ ] Petallia Ignis
-- [ ] Pierdon
+- [x] Pierdon
 - [ ] Pierdon Cryst
 - [x] Polapup
 - [ ] Polapup Terra
@@ -220,7 +220,7 @@
 - [ ] Quivern Botan
 - [x] Ragnahawk
 - [ ] Rainbow Slime
-- [ ] Rayhound
+- [x] Rayhound
 - [x] Rayhound Cryst
 - [ ] Red Slime
 - [x] Reindrix
