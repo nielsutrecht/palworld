@@ -34,7 +34,7 @@
 - [ ] Broncherry Aqua
 - [x] Bulldosu
 - [x] Bushi
-- [ ] Bushi Noct
+- [x] Bushi Noct
 - [x] Caprity
 - [x] Caprity Noct
 - [ ] Carnibora
@@ -175,7 +175,7 @@
 - [x] Melpaca
 - [x] Menasting
 - [x] Menasting Terra
-- [ ] Mimog
+- [x] Mimog
 - [x] Moldron
 - [ ] Moldron Cryst
 - [ ] Mossanda
@@ -225,7 +225,7 @@
 - [ ] Red Slime
 - [x] Reindrix
 - [x] Relaxaurus
-- [ ] Relaxaurus Lux
+- [x] Relaxaurus Lux
 - [x] Renjishi
 - [ ] Reptyro
 - [ ] Reptyro Cryst
@@ -240,7 +240,7 @@
 - [ ] Selyne
 - [ ] Shadowbeak
 - [ ] Shaolong
-- [ ] Shroomer
+- [x] Shroomer
 - [ ] Shroomer Noct
 - [x] Sibelyx
 - [ ] Sibelyx Primo
