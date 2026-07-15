@@ -47,7 +47,7 @@
 - [ ] Celesdir Noct
 - [x] Chikipi
 - [x] Chillet
-- [ ] Chillet Ignis
+- [x] Chillet Ignis
 - [x] Cinnamoth
 - [x] Clovee
 - [x] Cremis
@@ -122,7 +122,7 @@
 - [x] Hangyu Cryst
 - [ ] Hartalis
 - [ ] Helzephyr
-- [ ] Helzephyr Lux
+- [x] Helzephyr Lux
 - [x] Herbil
 - [x] Hoocrates
 - [ ] Hoodle
@@ -134,8 +134,8 @@
 - [x] Jelliette
 - [ ] Jellroy
 - [ ] Jetragon
-- [ ] Jolthog
-- [ ] Jolthog Cryst
+- [x] Jolthog
+- [x] Jolthog Cryst
 - [x] Jormuntide
 - [x] Jormuntide Ignis
 - [x] Katress
@@ -168,13 +168,13 @@
 - [ ] Lyleen Noct
 - [ ] Majex
 - [x] Mammorest
-- [ ] Mammorest Cryst
+- [x] Mammorest Cryst
 - [ ] Maraith
 - [x] Mau
 - [x] Mau Cryst
 - [x] Melpaca
 - [x] Menasting
-- [ ] Menasting Terra
+- [x] Menasting Terra
 - [ ] Mimog
 - [x] Moldron
 - [ ] Moldron Cryst
@@ -206,7 +206,7 @@
 - [ ] Petallia Ignis
 - [ ] Pierdon
 - [ ] Pierdon Cryst
-- [ ] Polapup
+- [x] Polapup
 - [ ] Polapup Terra
 - [ ] Prixter
 - [ ] Prixter Lux
@@ -221,7 +221,7 @@
 - [x] Ragnahawk
 - [ ] Rainbow Slime
 - [ ] Rayhound
-- [ ] Rayhound Cryst
+- [x] Rayhound Cryst
 - [ ] Red Slime
 - [x] Reindrix
 - [x] Relaxaurus
