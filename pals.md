@@ -4,6 +4,7 @@
 - Astegon
 - Moldron Cryst
 - Flaracle
+- Reptyro
 
 # Pals I own
 
