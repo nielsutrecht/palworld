@@ -90,7 +90,7 @@
 - [x] Fenglope
 - [ ] Fenglope Lux
 - [x] Finsider
-- [ ] Finsider Ignis
+- [x] Finsider Ignis
 - [x] Flambelle
 - [ ] Flaracle
 - [ ] Flopie
@@ -105,7 +105,7 @@
 - [x] Fuddler
 - [x] Galeclaw
 - [ ] Ghangler
-- [ ] Ghangler Ignis
+- [x] Ghangler Ignis
 - [ ] Gildane
 - [ ] Gildra
 - [x] Gloopie
@@ -197,7 +197,7 @@
 - [x] Ophydia
 - [ ] Orserk
 - [ ] Paladius
-- [ ] Palumba
+- [x] Palumba
 - [x] Pengullet
 - [ ] Pengullet Lux
 - [x] Penking
@@ -247,7 +247,7 @@
 - [ ] Silvance
 - [ ] Silvegis
 - [x] Skutlass
-- [ ] Skutlass Ignis
+- [x] Skutlass Ignis
 - [x] Slowatt
 - [ ] Smokie
 - [ ] Smokie Cryst
