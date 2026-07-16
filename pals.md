@@ -1,10 +1,12 @@
 # Wanted
 
-- Yakumo
 - Astegon
 - Moldron Cryst
 - Flaracle
 - Reptyro
+- Prunelia
+- Smokie
+- Omascul
 
 # Pals I own
 
@@ -15,7 +17,7 @@
 - [ ] Astegon
 - [ ] Azurmane
 - [x] Azurobe
-- [ ] Azurobe Cryst
+- [x] Azurobe Cryst
 - [ ] Bakemi
 - [ ] Bastigor
 - [x] Beakon
@@ -228,7 +230,7 @@
 - [x] Relaxaurus Lux
 - [x] Renjishi
 - [ ] Reptyro
-- [ ] Reptyro Cryst
+- [x] Reptyro Cryst
 - [x] Ribbuny
 - [x] Ribbuny Botan
 - [ ] Robinquill
@@ -299,9 +301,9 @@
 - [x] Wixen Noct
 - [x] Woolipop
 - [ ] Woolipop Terra
-- [ ] Wumpo
+- [x] Wumpo
 - [x] Wumpo Botan
 - [ ] Xenogard
 - [ ] Xenolord
 - [x] Xenovader
-- [ ] Yakumo
+- [x] Yakumo
