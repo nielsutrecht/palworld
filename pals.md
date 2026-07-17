@@ -113,7 +113,7 @@
 - [x] Gloopie
 - [ ] Gloopie Primo
 - [x] Gobfin
-- [ ] Gobfin Ignis
+- [x] Gobfin Ignis
 - [ ] Gorirat
 - [x] Gorirat Terra
 - [ ] Green Slime
@@ -201,7 +201,7 @@
 - [ ] Paladius
 - [x] Palumba
 - [x] Pengullet
-- [ ] Pengullet Lux
+- [x] Pengullet Lux
 - [x] Penking
 - [ ] Penking Lux
 - [x] Petallia
