@@ -1,6 +1,9 @@
 # Palworld Tips
 
-[Work Skill and Item Farming boosts](assets/image/palworld-levels.png)
+## Maps
+
+* [Interactive Map](https://www.palworld.tools/map)
+* [Pal Levels](https://www.palworld.tools/level-map)
 
 ## Guides
 
