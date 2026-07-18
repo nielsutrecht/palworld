@@ -151,7 +151,7 @@
 - [ ] Kingpaca Cryst
 - [ ] Kitsun
 - [ ] Kitsun Noct
-- [ ] Knocklem
+- [x] Knocklem
 - [ ] Knocklem Ignis
 - [x] Lamball
 - [ ] Lapiron
