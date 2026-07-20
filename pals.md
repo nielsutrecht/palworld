@@ -56,7 +56,7 @@
 - [x] Croajiro
 - [x] Croajiro Noct
 - [x] Cryolinx
-- [ ] Cryolinx Terra
+- [x] Cryolinx Terra
 - [x] Daedream
 - [ ] Dandilord
 - [x] Dazemu
@@ -150,7 +150,7 @@
 - [ ] Kingpaca
 - [ ] Kingpaca Cryst
 - [ ] Kitsun
-- [ ] Kitsun Noct
+- [x] Kitsun Noct
 - [x] Knocklem
 - [ ] Knocklem Ignis
 - [x] Lamball
@@ -194,7 +194,7 @@
 - [ ] Nitemary Botan
 - [x] Nitewing
 - [x] Nox
-- [ ] Nyafia
+- [x] Nyafia
 - [ ] Omascul
 - [x] Ophydia
 - [ ] Orserk
@@ -207,12 +207,12 @@
 - [x] Petallia
 - [ ] Petallia Ignis
 - [x] Pierdon
-- [ ] Pierdon Cryst
+- [x] Pierdon Cryst
 - [x] Polapup
 - [ ] Polapup Terra
 - [ ] Prixter
 - [ ] Prixter Lux
-- [ ] Prunelia
+- [x] Prunelia
 - [x] Puffolt
 - [x] Pupperai
 - [x] Purple Slime
@@ -247,7 +247,7 @@
 - [x] Sibelyx
 - [ ] Sibelyx Primo
 - [ ] Silvance
-- [ ] Silvegis
+- [x] Silvegis
 - [x] Skutlass
 - [x] Skutlass Ignis
 - [x] Slowatt
