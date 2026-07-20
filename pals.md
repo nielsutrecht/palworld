@@ -29,7 +29,7 @@
 - [ ] Blazamut Ryu
 - [x] Blazehowl
 - [x] Blazehowl Noct
-- [ ] Blue Slime
+- [x] Blue Slime
 - [x] Braloha
 - [x] Bristla
 - [x] Broncherry
@@ -41,11 +41,11 @@
 - [x] Caprity Noct
 - [ ] Carnibora
 - [x] Cattiva
-- [ ] Cave Bat
+- [x] Cave Bat
 - [x] Cawgnito
 - [x] Celaray
 - [x] Celaray Lux
-- [ ] Celesdir
+- [x] Celesdir
 - [ ] Celesdir Noct
 - [x] Chikipi
 - [x] Chillet
@@ -62,7 +62,7 @@
 - [x] Dazemu
 - [x] Dazzi
 - [x] Dazzi Noct
-- [ ] Demon Eye
+- [x] Demon Eye
 - [x] Depresso
 - [x] Digtoise
 - [ ] Dinossom
@@ -84,13 +84,13 @@
 - [x] Elizabee
 - [x] Elphidran
 - [x] Elphidran Aqua
-- [ ] Enchanted Sword
-- [ ] Eye of Cthulhu
+- [x] Enchanted Sword
+- [x] Eye of Cthulhu
 - [ ] Faleris
 - [ ] Faleris Aqua
 - [ ] Felbat
 - [x] Fenglope
-- [ ] Fenglope Lux
+- [x] Fenglope Lux
 - [x] Finsider
 - [x] Finsider Ignis
 - [x] Flambelle
@@ -108,7 +108,7 @@
 - [x] Galeclaw
 - [ ] Ghangler
 - [x] Ghangler Ignis
-- [ ] Gildane
+- [x] Gildane
 - [x] Gildra
 - [x] Gloopie
 - [ ] Gloopie Primo
@@ -116,7 +116,7 @@
 - [x] Gobfin Ignis
 - [ ] Gorirat
 - [x] Gorirat Terra
-- [ ] Green Slime
+- [x] Green Slime
 - [x] Grintale
 - [ ] Grizzbolt
 - [x] Gumoss
@@ -129,8 +129,8 @@
 - [x] Hoocrates
 - [ ] Hoodle
 - [x] Icelyn
-- [ ] Illuminant Bat
-- [ ] Illuminant Slime
+- [x] Illuminant Bat
+- [x] Illuminant Slime
 - [x] Incineram
 - [ ] Incineram Noct
 - [x] Jelliette
@@ -215,16 +215,16 @@
 - [ ] Prunelia
 - [x] Puffolt
 - [x] Pupperai
-- [ ] Purple Slime
+- [x] Purple Slime
 - [x] Pyrin
 - [x] Pyrin Noct
 - [x] Quivern
 - [ ] Quivern Botan
 - [x] Ragnahawk
-- [ ] Rainbow Slime
+- [x] Rainbow Slime
 - [x] Rayhound
 - [x] Rayhound Cryst
-- [ ] Red Slime
+- [x] Red Slime
 - [x] Reindrix
 - [x] Relaxaurus
 - [x] Relaxaurus Lux
@@ -251,7 +251,7 @@
 - [x] Skutlass
 - [x] Skutlass Ignis
 - [x] Slowatt
-- [ ] Smokie
+- [x] Smokie
 - [ ] Smokie Cryst
 - [ ] Snock
 - [ ] Snock Lux
@@ -262,8 +262,8 @@
 - [x] Sootseer
 - [ ] Souffline
 - [x] Sparkit
-- [ ] Splatterina
-- [ ] Starryon
+- [x] Splatterina
+- [x] Starryon
 - [ ] Starryon Primo
 - [x] Surfent
 - [x] Surfent Terra
@@ -289,10 +289,10 @@
 - [x] Vanwyrm
 - [ ] Vanwyrm Cryst
 - [ ] Venusa
-- [ ] Verdash
+- [x] Verdash
 - [x] Vixy
 - [ ] Warsect
-- [ ] Warsect Terra
+- [x] Warsect Terra
 - [x] Whalaska
 - [ ] Whalaska Ignis
 - [x] Wispaw
