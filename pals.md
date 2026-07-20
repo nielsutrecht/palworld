@@ -88,7 +88,7 @@
 - [x] Eye of Cthulhu
 - [ ] Faleris
 - [ ] Faleris Aqua
-- [ ] Felbat
+- [x] Felbat
 - [x] Fenglope
 - [x] Fenglope Lux
 - [x] Finsider
@@ -190,7 +190,7 @@
 - [x] Needoll
 - [x] Needoll Noct
 - [ ] Neptilius
-- [ ] Nitemary
+- [x] Nitemary
 - [ ] Nitemary Botan
 - [x] Nitewing
 - [x] Nox
