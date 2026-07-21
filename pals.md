@@ -219,7 +219,7 @@
 - [x] Pyrin
 - [x] Pyrin Noct
 - [x] Quivern
-- [ ] Quivern Botan
+- [x] Quivern Botan
 - [x] Ragnahawk
 - [x] Rainbow Slime
 - [x] Rayhound
@@ -243,7 +243,7 @@
 - [ ] Shadowbeak
 - [ ] Shaolong
 - [x] Shroomer
-- [ ] Shroomer Noct
+- [x] Shroomer Noct
 - [x] Sibelyx
 - [ ] Sibelyx Primo
 - [ ] Silvance
