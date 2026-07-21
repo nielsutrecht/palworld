@@ -15,7 +15,7 @@
 - [x] Anubis
 - [x] Arsox
 - [ ] Astegon
-- [ ] Azurmane
+- [x] Azurmane
 - [x] Azurobe
 - [x] Azurobe Cryst
 - [ ] Bakemi
@@ -95,7 +95,7 @@
 - [x] Finsider Ignis
 - [x] Flambelle
 - [ ] Flaracle
-- [ ] Flopie
+- [x] Flopie
 - [x] Foxcicle
 - [x] Foxparks
 - [x] Foxparks Cryst
@@ -123,7 +123,7 @@
 - [x] Hangyu
 - [x] Hangyu Cryst
 - [ ] Hartalis
-- [ ] Helzephyr
+- [x] Helzephyr
 - [x] Helzephyr Lux
 - [x] Herbil
 - [x] Hoocrates
@@ -134,7 +134,7 @@
 - [x] Incineram
 - [ ] Incineram Noct
 - [x] Jelliette
-- [ ] Jellroy
+- [x] Jellroy
 - [ ] Jetragon
 - [x] Jolthog
 - [x] Jolthog Cryst
@@ -195,7 +195,7 @@
 - [x] Nitewing
 - [x] Nox
 - [x] Nyafia
-- [ ] Omascul
+- [x] Omascul
 - [x] Ophydia
 - [ ] Orserk
 - [ ] Paladius
@@ -239,7 +239,7 @@
 - [ ] Roujay
 - [x] Rushoar
 - [x] Sekhmet
-- [ ] Selyne
+- [x] Selyne
 - [ ] Shadowbeak
 - [ ] Shaolong
 - [x] Shroomer
@@ -276,7 +276,7 @@
 - [x] Tarantriss
 - [x] Teafant
 - [x] Tetroise
-- [ ] Tetroise Primo
+- [x] Tetroise Primo
 - [x] Tocotoco
 - [x] Tombat
 - [ ] Tropicaw
