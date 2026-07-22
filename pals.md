@@ -186,10 +186,10 @@
 - [x] Muffly
 - [x] Munchill
 - [x] Mycora
-- [ ] Necromus
+- [x] Necromus
 - [x] Needoll
 - [x] Needoll Noct
-- [ ] Neptilius
+- [x] Neptilius
 - [x] Nitemary
 - [ ] Nitemary Botan
 - [x] Nitewing
