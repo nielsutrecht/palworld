@@ -16,3 +16,7 @@
 ## Making money
 
 * [Breed/Sell Domud Gild](https://www.reddit.com/user/Hot-Combination-4032/)
+
+## Teams
+
+* [Bow Build](https://palworld.gg/team-builder?team=lanternbutler,robinhood_ground,hadesbird_electric,sharkkid,sharkkid_fire)

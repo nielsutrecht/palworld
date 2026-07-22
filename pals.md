@@ -18,7 +18,7 @@
 - [x] Azurmane
 - [x] Azurobe
 - [x] Azurobe Cryst
-- [ ] Bakemi
+- [x] Bakemi
 - [ ] Bastigor
 - [x] Beakon
 - [ ] Beakon Cryst
@@ -68,7 +68,7 @@
 - [ ] Dinossom
 - [x] Dinossom Lux
 - [x] Direhowl
-- [ ] Dogen
+- [x] Dogen
 - [x] Dualith
 - [x] Dualith Noct
 - [x] Dumud
@@ -87,7 +87,7 @@
 - [x] Enchanted Sword
 - [x] Eye of Cthulhu
 - [ ] Faleris
-- [ ] Faleris Aqua
+- [x] Faleris Aqua
 - [x] Felbat
 - [x] Fenglope
 - [x] Fenglope Lux
@@ -127,7 +127,7 @@
 - [x] Helzephyr Lux
 - [x] Herbil
 - [x] Hoocrates
-- [ ] Hoodle
+- [x] Hoodle
 - [x] Icelyn
 - [x] Illuminant Bat
 - [x] Illuminant Slime
@@ -154,13 +154,13 @@
 - [x] Knocklem
 - [ ] Knocklem Ignis
 - [x] Lamball
-- [ ] Lapiron
+- [x] Lapiron
 - [ ] Lapure
 - [x] Leafan
 - [x] Leezpunk
 - [x] Leezpunk Ignis
 - [x] Lifmunk
-- [ ] Loomen
+- [x] Loomen
 - [x] Loupmoon
 - [x] Loupmoon Cryst
 - [x] Lovander
@@ -171,7 +171,7 @@
 - [ ] Majex
 - [x] Mammorest
 - [x] Mammorest Cryst
-- [ ] Maraith
+- [x] Maraith
 - [x] Mau
 - [x] Mau Cryst
 - [x] Melpaca
@@ -253,7 +253,7 @@
 - [x] Slowatt
 - [x] Smokie
 - [ ] Smokie Cryst
-- [ ] Snock
+- [x] Snock
 - [ ] Snock Lux
 - [x] Snugloo
 - [ ] Solenne
@@ -285,7 +285,7 @@
 - [x] Univolt
 - [ ] Univolt Cryst
 - [x] Vaelet
-- [ ] Valentail
+- [x] Valentail
 - [x] Vanwyrm
 - [ ] Vanwyrm Cryst
 - [ ] Venusa
@@ -296,7 +296,7 @@
 - [x] Whalaska
 - [ ] Whalaska Ignis
 - [x] Wispaw
-- [ ] Wistella
+- [x] Wistella
 - [x] Wixen
 - [x] Wixen Noct
 - [x] Woolipop
